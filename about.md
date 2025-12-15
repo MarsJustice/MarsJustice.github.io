@@ -6,11 +6,11 @@ permalink: /about/
 
 # About
 
-Fighting California Judicial Mafia Cartel and prosecuting organized white collar crime since 2022    
+Legal, Enforcement and Civil Rights community driving Federal Oversight and Prosecution of State-Level Child Trafficking and Racketeering Judicial Criminal Syndicates like California Judicial Mafia Cartel and Santa Clara Mafia Cartel    
 
-- Read [Blog](https://RoyalLawX.blog)  
-- Subscribe to [YouTube](https://www.youtube.com/@RoyalLawX)  
-- Stay tuned at [X](https://x.com/RoyalLawX)
-- Follow on [Instagram](https://www.instagram.com/RoyalLawX)  
-- Stay in touch at [Facebook](https://www.facebook.com/RoyalLawX)     
-- Contact : [RoyalLawX@pm.me](mailto:RoyalLawX@pm.me)   
+- Read [Blog](https://MarsJustice.blog)  
+- Subscribe to [YouTube](https://www.youtube.com/@MarsJusticeX)  
+- Stay tuned at [X](https://x.com/MarsJusticeX)
+- Follow on [Instagram](https://www.instagram.com/MarsJusticeX)  
+- Stay in touch at [Facebook](https://www.facebook.com/MarsJusticeX)     
+- Contacts: [MarsJustice@pm.me](mailto:MarsJustice@pm.me)   

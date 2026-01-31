@@ -7,6 +7,10 @@ permalink: /federal-removal/
 # FEDERAL REMOVAL
 Federal Removal materials are published here publicly for transparency about abduction of my son Max Mars and in case of unlawful incarceration by Santa Clara Mafia Cartel - because criminals from Santa Clara Mafia Cartel directly threatened to silence me by unlawful incarceration if I will not surrender custody rights and will continue battle for freedom of my son Max Mars, kidnapped and held hostage by criminals from Santa Clara Mafia Cartel and Ukrainian Mafia Cartel "Kodlo Gondona Nahornogo" (crimninal group of aggressive Ukrainian homosexual pedofiles "SI Trans Group").  
 
+## 🔴 VIDEO EVIDENCE BACKUP (AFTER REMOVAL OF MY YOUTUBE CHANNEL “MARS JUSTICE” BY GAVIN NEWSOM'S CALIFORNIA CHILD TRAFFICKING MAFIA CARTEL)
+
+- [VIDEO EVIDENCE BACKUP](https://drive.google.com/drive/folders/1LlvizdNAT7WyYW7rIW8pKq7jg0xNtXI4?usp=drive_link)
+
 
 
 ## 🔴 CONSOLIDATED EXHIBIT BINDER (SETS 1–10) IN SUPPORT OF NOTICE OF FEDERAL REMOVAL, CIVIL RICO COMPLAINT, AND EMERGENCY TRO

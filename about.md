@@ -15,7 +15,7 @@ Our mission is to save America's future - our children, our parents, citizens an
 We encourage you to learn best practices for prosecution of judges, police officers, government officials and other criminals acting under color of law - to protect your children, your loved ones, yourself, and to Make America Free Again.  
 
 - Read [BLOG](https://MarsJustice.blog)  
-- Subscribe to [YOUTUBE](https://www.youtube.com/@MarsJusticeX)  
+- Subscribe to [YOUTUBE](https://www.youtube.com/@MarsJusticeTX)  
 - Stay tuned at [X](https://x.com/MarsJusticeX)
 - Follow on [INSTAGRAM](https://www.instagram.com/MarsJusticeX)  
 - Stay in touch at [FACEBOOK](https://www.facebook.com/groups/marsjusticex/)     

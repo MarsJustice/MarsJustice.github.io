@@ -1,6 +1,6 @@
 # [MarsJustice.co](http://www.MarsJustice.co/) 
 
-🔴 MAKE AMERICA FREE AGAIN ⚔️❤️🇺🇸 
+🔴 MAKE AMERICA FREE AGAIN ⭐️❤️🇺🇸 
   
 Make America Great Again - means first Make America Free Again. 
 

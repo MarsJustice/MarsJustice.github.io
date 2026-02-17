@@ -89,7 +89,7 @@ Federal Removal materials are published here publicly for transparency about abd
 
 - [3.7 Transcript & Recordings — Extortion of Money and Documents of Max Mars Under Threats of Incarceration by Stephen Lowney 2024-02-07](/federal-removal/evidence/recordings/2024-02-07%20Transcript%20Of%20Hearing.pdf)
 
-- [3.8 Denial of Appeal of Void Orders - Denying Change of Venue, Nullification of Void Orders, Bench Warrant, DVRO against Max Mars, Custody Review, Child Abduction Prevention, Reconsideration of Financial Extortion Orders, Divorce Finalization, Bifurcation of Divorce Status](/federal-removal/evidence/3.8%20DENIAL%20OF%20APPEAL%20of%20Denial%20to%20Change%20Venue,%20Nullification%20of%20Void%20Orders,%20and%20Complete%20Reassessment%20of%20The%20Case%20by%20Patricia%20Manoukian.pdf)
+- [3.8 Denial of Appeal of Void Orders by Patricia Manoukian 2024-08-07 - Denying Change of Venue, Nullification of Void Orders, Bench Warrant, DVRO against Max Mars, Custody Review, Child Abduction Prevention, Reconsideration of Financial Extortion Orders, Divorce Finalization, Bifurcation of Divorce Status](/federal-removal/evidence/3.8%20DENIAL%20OF%20APPEAL%20of%20Denial%20to%20Change%20Venue,%20Nullification%20of%20Void%20Orders,%20and%20Complete%20Reassessment%20of%20The%20Case%20by%20Patricia%20Manoukian.pdf)
 
 ...
 

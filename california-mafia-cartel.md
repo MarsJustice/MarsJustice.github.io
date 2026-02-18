@@ -21,7 +21,7 @@ While I disqualified three bribed judges - child traffickers Stephen Lowney, And
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
   <iframe 
-    src="https://www.youtube.com/embed/uPT89SiX38w" 
+    src="https://drive.google.com/file/d/1S55AuHL5Uf19hF8tTl_2LosM_pCy2XgB/preview" 
     style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
     frameborder="0"
     allowfullscreen>
@@ -49,7 +49,7 @@ Disqualified child trafficker Stephen Lowney directly threatened me by unlawful 
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
   <iframe 
-    src="https://www.youtube.com/embed/d_jucwc0Z10" 
+    src="https://drive.google.com/file/d/1YKpbX-Hw9vpJO1YvnelR_NEmyAzAz_CF/preview" 
     style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
     frameborder="0"
     allowfullscreen>

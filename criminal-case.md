@@ -5,7 +5,8 @@ permalink: /criminal-case/
 ---
 
 # CRIMINAL CASE
-Child traffickers and racketeers Stephen Lowney, Beth McGowen, Nancy Roberts, Thomas Kuhnle, Benjamin Williams, Michael Clark and Chase Martin fabricated criminal case against me, which they used as the tool of weaponization of Santa Clara County Court in targeted racketeering attack against me, with the purpose to block all contact with my son Max Mars, extort passport and documents of my son under threat of unlawful incarceration.
+Child traffickers and racketeers Stephen Lowney, Beth McGowen, Nancy Roberts, Thomas Kuhnle, Benjamin Williams, Michael Clark and Chase Martin fabricated criminal case against me, which they used for extortion of my 401k funds after they triggered termination of employment, blocked unemployment benefits, blocked my ability to get any job offer due to fabricated criminal record with open arrest and bench warrants against me, blocked my 401k funds coercing me to surrender 401k to their criminal associate Elizabeth Strassen (member of Santa Clara Mafia Cartel known for massive repetitive paper/wire fraud).
+This fabricated criminal case was used also to execute international abduction of my son Max Mars - detained hostage without right for a phone call by Santa Clara Mafia Cartel - blocking any contact with my son under threat of unlawful incarceration using open arrest and bench warrants on this fabricated criminal case.
 
 
 ## 🔴 Criminal Case B2402220

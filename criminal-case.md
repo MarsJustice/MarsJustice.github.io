@@ -41,7 +41,7 @@ Child traffickers and racketeers Stephen Lowney, Beth McGowen, Nancy Roberts, Th
 **2024-06-14 Video Recording Of Unlawful Arrest And Theft By Chase Martin (Badge #17209), Child Trafficker And Racketeer From Sunnyvale Police Department**
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
   <iframe 
-    src="https://www.youtube.com/embed/IAnnplWhjD0" 
+    src="https://drive.google.com/file/d/1O6yLk2-C_duS0uSko9erA9-ngP5xwnZ7/preview" 
     style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
     frameborder="0"
     allowfullscreen>
@@ -53,7 +53,7 @@ Child traffickers and racketeers Stephen Lowney, Beth McGowen, Nancy Roberts, Th
 **2024-08-15 Thomas Kuhnle, Criminal Court Racketeer - Attempt Of Unlawful Incarceration**
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
   <iframe 
-    src="https://www.youtube.com/embed/Mwa1NCwcrrA" 
+    src="https://drive.google.com/file/d/1DAaItUbRjYs_O_sUDpXiWYWExHtzG6ql/preview" 
     style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
     frameborder="0"
     allowfullscreen>
@@ -63,7 +63,7 @@ Child traffickers and racketeers Stephen Lowney, Beth McGowen, Nancy Roberts, Th
 **2024-08-19 Benjamin Williams, Criminal Court Racketeer - 1st Attempt Of Unlawful Incarceration**
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
   <iframe 
-    src="https://www.youtube.com/embed/Bphgp1sWtAc" 
+    src="https://drive.google.com/file/d/1dTvasJPaRW-MuYK9gpe0oagzWEdQEw73/preview" 
     style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
     frameborder="0"
     allowfullscreen>
@@ -73,7 +73,7 @@ Child traffickers and racketeers Stephen Lowney, Beth McGowen, Nancy Roberts, Th
 **2024-08-21 Benjamin Williams, Criminal Court Racketeer - 2nd Attempt Of Unlawful Incarceration**
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
   <iframe 
-    src="https://www.youtube.com/embed/d6lQjmeOBEQ" 
+    src="https://drive.google.com/file/d/1Sn0_ZuVeTKEEEPlCn5eOSLtZ3CM4LFZ_/preview" 
     style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
     frameborder="0"
     allowfullscreen>
@@ -83,7 +83,7 @@ Child traffickers and racketeers Stephen Lowney, Beth McGowen, Nancy Roberts, Th
 **2024-08-21 Benjamin Williams, Criminal Court Racketeer - Denied Hearing And Issued Bench Warrant**
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
   <iframe 
-    src="https://www.youtube.com/embed/Mc5FdAI1RUg" 
+    src="https://drive.google.com/file/d/1e60zP91nn3hnodVQTvZB7xTjVwCBbVEC/preview" 
     style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
     frameborder="0"
     allowfullscreen>

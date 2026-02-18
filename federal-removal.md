@@ -93,6 +93,8 @@ Federal Removal materials are published here publicly for transparency about abd
 
 - [3.9 DENIAL OF CHANGE OF VENUE by Stephen Lowney Post Disqualification 2024-03-21 ](/federal-removal/evidence/3.9%20DENIAL%20OF%20CHANGE%20OF%20VENUE%20by%20Stephen%20Lowney%20Post%20Disqualification%202024-03-21%20.pdf)
 
+- [3.10 DENIAL OF BIFURCATION OF DIVORCE STATUS AND FINAL TRIAL by Stephen Lowney Post Disqualification 2024-06-17](/federal-removal/evidence/3.9%20DENIAL%20OF%20CHANGE%20OF%20VENUE%20by%20Stephen%20Lowney%20Post%20Disqualification%202024-03-21%20.pdf)
+
 ...
 
 - [3.11 Summary Chart: Void Orders Denying Change of Venue, Nullification of Void Orders, Custody Review, Termination of Garnishment, Final Trial, Bifurcation of Divorce Status, Finalization of Divorce](/federal-removal/evidence/3.7%20Denial%20Orders%20(Recusal,%20Custody%20Review,%20DVRO%20Trial).pdf)

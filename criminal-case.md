@@ -24,7 +24,7 @@ Child traffickers and racketeers Stephen Lowney, Beth McGowen, Nancy Roberts, Th
 
 - [2024-02-07 Extortion Of Passport And Documents Of My Son Max Mars Under Threats Of Unlawful Incarceration by Child Trafficker Stephen Lowney](/federal-removal/evidence/criminal-case/2024-02-07%20Extortion%20Of%20Passport%20And%20Documents%20Of%20My%20Son%20Max%20Mars%20Under%20Threats%20Of%20Unlawful%20Incarceration%20by%20Child%20Trafficker%20Stephen%20Lowney.pdf)
 
-- [22024-02-07 Transcript Of Hearing](/federal-removal/evidence/criminal-case/2024-02-07%20Transcript%20Of%20Hearing.pdf)
+- [2024-02-07 Transcript Of Hearing](/federal-removal/evidence/criminal-case/2024-02-07%20Transcript%20Of%20Hearing.pdf)
 
 - [2024-02-20 Statement of Disqualification Against Child Trafficker Stephen Lowney - Who Threatened Me By Unlawful Incarceration](/federal-removal/evidence/criminal-case/2024-02-20%20Statement%20of%20Disqualification%20Against%20Child%20Trafficker%20Stephen%20Lowney%20-%20Who%20Threatend%20Me%20By%20Unlawful%20Incarceration.pdf)
 

@@ -81,19 +81,19 @@ Federal Removal materials are published here publicly for transparency about abd
 
 - [3.3 DVRO Issued Post-Disqualification - James Towery 2022-09-14](/federal-removal/evidence/3.1%20DVRO%20(Towery%20–%202022-09-14).pdf)
 
-- [3.4 Family Bench Warrant - Stephen Lowney Post-Disqualification 2024-06-17](/federal-removal/evidence/3.4%20Bench%20Warrant%20(Lowney%20–%202024-06-17).pdf)
+- [3.4 Family BENCH WARRANT - Stephen Lowney Post-Disqualification 2024-06-17](/federal-removal/evidence/3.4%20Bench%20Warrant%20(Lowney%20–%202024-06-17).pdf)
 
-- [3.5 Criminal Bench Warrant - Benjamin Williams 2024-08-21](/federal-removal/evidence/3.5%20Bench%20Warrant%20(Williams%20–%202024-08-21).pdf)
+- [3.5 Criminal BENCH WARRANT - Benjamin Williams 2024-08-21](/federal-removal/evidence/3.5%20Bench%20Warrant%20(Williams%20–%202024-08-21).pdf)
 
-- [3.6 Criminal Arrest Warrant - Michael Clark – 2024-10-23](/federal-removal/evidence/3.6%20Arrest%20Warrant%20C2416667%20(Clark%20–%202024-10-23).pdf)
+- [3.6 Criminal ARREST WARRANT - Michael Clark – 2024-10-23](/federal-removal/evidence/3.6%20Arrest%20Warrant%20C2416667%20(Clark%20–%202024-10-23).pdf)
 
-- [3.7 Transcript & Recordings — Extortion of Money and Documents of Max Mars Under Threats of Incarceration by Stephen Lowney 2024-02-07](/federal-removal/evidence/recordings/2024-02-07%20Transcript%20Of%20Hearing.pdf)
+- [3.7 Transcript & Recordings — EXTORTION OF MONEY AND DOCUMENTS of Max Mars Under THREATS OF INCARCERATION by Stephen Lowney 2024-02-07](/federal-removal/evidence/recordings/2024-02-07%20Transcript%20Of%20Hearing.pdf)
 
 - [3.8 DENIAL OF APPEAL of Void Orders of Disqualified Judge Stephen Lowney by Patricia Manoukian 2024-08-07](/federal-removal/evidence/3.8%20DENIAL%20OF%20APPEAL%20of%20Denial%20to%20Change%20Venue,%20Nullification%20of%20Void%20Orders,%20and%20Complete%20Reassessment%20of%20The%20Case%20by%20Patricia%20Manoukian.pdf)
 
 - [3.9 DENIAL OF CHANGE OF VENUE by Stephen Lowney Post Disqualification 2024-03-21 ](/federal-removal/evidence/3.9%20DENIAL%20OF%20CHANGE%20OF%20VENUE%20by%20Stephen%20Lowney%20Post%20Disqualification%202024-03-21%20.pdf)
 
-- [3.10 DENIAL OF BIFURCATION OF DIVORCE STATUS AND FINAL TRIAL by Stephen Lowney Post Disqualification 2024-06-17](/federal-removal/evidence/3.10%20DENIAL%20OF%20BIFURCATION%20OF%20DIVORCE%20STATUS%20AND%20FINAL%20TRIAL.pdf)
+- [3.10 DENIAL OF BIFURCATION OF DIVORCE STATUS AND DIVORCE FINALIZATION by Stephen Lowney Post Disqualification 2024-06-17](/federal-removal/evidence/3.10%20DENIAL%20OF%20BIFURCATION%20OF%20DIVORCE%20STATUS%20AND%20FINAL%20TRIAL.pdf)
 
 - [3.11 Summary Chart: Void Orders Denying Change Of Venue, Nullification of Void Orders, Custody Review,  Termination of Wage Garnishment, Final Trial, Bifurcation of Divorce Status, Finalization of Divorce](/federal-removal/evidence/3.11%20Summary%20Chart_%20Void%20Orders%20Denying%20Change%20Of%20Venue,%20Nullification%20of%20Void%20Orders,%20Custody%20Review,%20%20Termination%20of%20Wage%20Garnishment,%20Final%20Trial,%20Bifurcation%20of%20Divorce%20Status,%20Finalization%20of%20Divorce.pdf)
 

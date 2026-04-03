@@ -1,26 +1,70 @@
 ---
 layout: default
-title: MAX MARS KIDNAPPING
+title: MAX MARS
 permalink: /max-mars/
 ---
 
-# MAX MARS KIDNAPPING
-My son Max Mars was kindapped in 2022 by organized group of criminals from Ukrainian mafia cartel "Kodlo Gondona Nahornogo" and California Mafia Cartel - who executed massive child trafficking schema of international abduction of my son outside of the United States to Ukraine, locked up my son Max Mars hostage without right for a phone call, and used my son Max Mars as the leverage for extortion of money and documents.
+# Kidnapping and trafficking outside United States
 
-Reporting criminals from California Mafia Cartel and Santa Clara Mafia Cartel started from the moment when criminals from California Mafia Cartel dumped 65 RICO complaints about child trafficking and racketeering by group of criminals from Santa Clara Mafia Cartel who kidnapped my son Max Mars and were extorting money from me using threats of unlawful incarceration and my son as the leverage for extortion of money and documents.
+In 2022, my son Max Mars was kidnapped from school, locked up hostage without right for a phone call, and trafficked outside United States against my will and against family law.
 
-Open conflict with Santa Clara Mafia Cartel started in 2023 after disqualification of bribe-taker and child trafficker Andrea Flint, who was detaining my son Max Mars hostage without right for a phone call during more than a year, using my son for extortion of money and documents, and later - issued restraining order (DVRO) 11/28/2023 against me acting outside of her jurisdiction post disqualification 11/13/2023.
+Since then all criminal members of Ukrainian cartel "Kodlo Gondona" and family members of Gondon Nahornyy (legal name: Serhii Nahornyy) involved into child trafficking schema refuse to communicate, refuse to share location of detention of my son, and detain my son Max Mars hostage without right for a phone call, using Max as the leverage for extortion of money and documents.
 
-Open conflict with Santa Clara Mafia Cartel continued in 2024 with disqualified bribe-taker, child trafficker and racketeer Stephen Lowney, who denied custody review and finalization of divorce case 10 times, denied release of my son from unlawful detention, and was extorting money and documents using threats of unlawful incarceration and my son Max Mars as leverage for extortion of money and documents.
+Since that time, I have faced significant barriers to maintaining contact, including unlawful incarceration, denial of access to all California courts, denial of change of venue from Santa Clara County where trafficking schema was implemented by organized criminal group of disqualified judges acting outside their jurisdiction, and restrictions on parental access enforced by unlawful arrests.
 
-On 11/23/2023 Gnyda Nahorna (Hanna Mars) was beating my son Max Mars on his birthday for hugging me and talking to me - after I greeted my son Max Mars on his birthday despite strict prohibition of all contact by Gnyda Nahorna, her father Gondon Nahornyy, disqualified bribe-taker Andrea Flint, and fucked crooks from Sunnyvale Police Department.
+I assert that these circumstances raise serious concerns regarding due process, lawful jurisdiction, and the protection of parental and child rights.
 
-On 06/14/2024 fucked crook Chase Martin, criminal from Sunnyvale Police Department, acting under color of law together with his unidentified criminal associate from Sunnyvale PD, committed theft of donuts and hot chocolate from my son Max Mars, stole Hotwheels Tesla Cybertruck with Donald Trump and book "Warrior Kid" by Jocko Willink from my son Max Mars, and committed unlawful arrest against me - coercing me to surrender custody rights and abaondon my son Max Mars under threats of unlawful incarceration, acting in criminal conspiracy with kidnappers and members of Santa Clara Mafia Cartel - Stephen Lowney, Beth McGowen, Nancy Roberts, Gondon Nahornyy and Gnyda Nahorna.
+# Legal Actions and Proceedings
 
-On 12/25/2025 on my direct request to release my son Max Mars, both in private calls/messages, and in public message, kidnappers Gondon Nahornyy, Pedofile Omelchenko, Gnyda Nahorna, her mother Suka Nahorna, and her brother Mykyta Nahornyy refused to release my son Max Mars to freedom, and refused to give me a phone call with my son Max Mars, who fucked kidnappers detain hostage without right for a phone call since 2022 - confirming their criminal intentions.
+Beginning in 2022 and continuing through 2023 – 2025, I have pursued multiple legal actions and filings seeking:
 
-Max Mars is my son, he was born free, and he deserves freedom - regardless of any terror by kidnappers, aggressive Ukrainian homosexual pedofiles and serial racketeers Sir Gay Gondon Nahornyy and Ivan Pedofile Omelchenko.
+- Restoration of lawful custody rights
+- Review of judicial and procedural decisions
+- Protection of my son’s rights and well-being
+- Enforcement of due process and jurisdictional standards
 
-While Max is alive - I will not abandon my son Max Mars in hands of kidnappers.
+These efforts include formal complaints, motions, and requests for cutody review within the appropriate legal systems.
 
-Stay tuned - more is coming soon.
+# Judicial and Procedural Violations
+
+Throughout this process, I have raised concerns regarding:
+
+- Denial of custody review and case resolution
+- Restrictions on communication with my child
+- Procedural irregularities affecting due process
+- Actions taken outside of proper jurisdictional authority, including enforcement of child detention and trafficking of my son outside United States
+
+These concerns remain central to my ongoing legal strategy and filings.
+
+# Incidents and Evidence
+
+I have documented multiple incidents which I believe are relevant to this matter, including:
+
+- Restrictions on direct communication with my son
+- Interference with parental rights
+- Law enforcement actions enforcing child trafficking schema and unlawful arrests
+- Property, funds and assets seizure by disqualified judges acting outside jurisdiction
+
+All such matters are being addressed through formal legal documentation and appropriate channels.
+
+# Current Status
+
+As of 2025, my son remains outside my custody, detained without right for a phone call, unlawfully removed from United States, and I continue to pursue all available lawful remedies to:
+
+- Restore contact and parental rights
+- Ensure his safety and well-being
+- Resolve jurisdictional and legal disputes
+
+# Statement of Commitment
+
+Max Mars is my son.
+
+I remain fully committed to pursuing all lawful avenues to protect his rights, secure his well-being, and restore our relationship.
+
+This effort is grounded in persistence, legal discipline, and adherence to due process.
+
+# Forward Path
+
+This case remains active.
+
+Further updates, documentation, and structured evidence will be presented through appropriate legal and public channels.

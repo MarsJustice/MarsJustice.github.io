@@ -81,13 +81,13 @@ Applicable Law:
 
       <tr>
         <td><strong>A-6</strong></td>
-        <td>Video recording of arrest by Officer Chase Martin (Badge #17209, Sunnyvale PD, CA) – Screenshots and Video</td>
+        <td>Video recording of unlawful arrest by Officer Chase Martin (Badge #17209, Sunnyvale PD, CA)</td>
         <td><a href="https://drive.google.com/file/d/1O6yLk2-C_duS0uSko9erA9-ngP5xwnZ7/preview" target="_blank" class="btn-video">View June 14, 2024<br>Arrest Video</a></td>
       </tr>
 
       <tr>
         <td><strong>A-7</strong></td>
-        <td>Bench Warrant issued by Judge Stephen Lowney after Threats of Malicious Prosecution (06/17/2024)</td>
+        <td>Void ab initio Bench Warrant issued by Judge Stephen Lowney after his threats of malicious prosecution and disqualification (06/17/2024)</td>
         <td><a href="/criminal-case/lowney-bench-warrant-2024-06-17.pdf" target="_blank" class="btn-download">Download PDF</a></td>
       </tr>
 

@@ -192,7 +192,7 @@ Applicable Law:
 <!-- ==================== MOTION TO DISMISS ==================== -->
 
 <div class="evidence-binder-section">
-  <h2>Motion to dismiss criminal case (Texas)</h2>
+  <h2>Motion to Dismiss criminal case (Texas)</h2>
   <iframe src="/criminal-case/motion-to-dismiss-tx.pdf#toolbar=0&navpanes=0&view=FitH" 
         width="100%" 
         height="1000px" 
@@ -207,7 +207,7 @@ Applicable Law:
 </div>
 
 <div class="evidence-binder-section">
-  <h2>Motion to dismiss criminal case (California)</h2>
+  <h2>Motion to Dismiss criminal case (California)</h2>
   <iframe src="/criminal-case/motion-to-dismiss-ca.pdf#toolbar=0&navpanes=0&view=FitH" 
         width="100%" 
         height="1000px" 
@@ -222,7 +222,7 @@ Applicable Law:
 </div>
 
 <div class="evidence-binder-section">
-  <h2>Proposed order</h2>
+  <h2>Proposed Order</h2>
   <iframe src="/criminal-case/proposed-order.pdf#toolbar=0&navpanes=0&view=FitH" 
         width="100%" 
         height="1000px" 

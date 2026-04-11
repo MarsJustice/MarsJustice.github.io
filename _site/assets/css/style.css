@@ -407,7 +407,7 @@ h1, h2, h3, h4, h5, h6 { font-family: "Montserrat", "Open Sans", Arial, sans-ser
 
 .video-card-vertical { background: #f8fafc; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.05); }
 
-.video-header { padding: 16px 20px; background: #0f172a; color: #e2e8f0; font-size: 0.95rem; line-height: 1.4; }
+.video-header { padding: 16px 20px; background: #000000; color: #e2e8f0; font-size: 0.95rem; line-height: 1.4; }
 
 .video-container-vertical { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; background: #000; }
 

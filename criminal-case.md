@@ -88,19 +88,19 @@ Applicable Law:
       <tr>
         <td><strong>A-7</strong></td>
         <td>Bench Warrant issued by Judge Stephen Lowney after Threats of Malicious Prosecution (06/17/2024)</td>
-        <td><a href="https://marsjustice.io/criminal-case/lowney-bench-warrant-2024-06-17.pdf" target="_blank" class="btn-download">Download PDF</a></td>
+        <td><a href="/criminal-case/lowney-bench-warrant-2024-06-17.pdf" target="_blank" class="btn-download">Download PDF</a></td>
       </tr>
 
       <tr>
         <td><strong>A-8</strong></td>
         <td>Additional Bench Warrant by Benjamin Williams and Arrest Warrant by Michael Clark (08/21/2024 – 10/23/2024)</td>
-        <td><a href="https://marsjustice.io/criminal-case/lowney-bench-warrant-2024-06-17.pdf" target="_blank" class="btn-download">Download PDF</a></td>
+        <td><a href="/criminal-case/lowney-bench-warrant-2024-06-17.pdf" target="_blank" class="btn-download">Download PDF</a></td>
       </tr>
 
       <tr>
         <td><strong>A-9</strong></td>
         <td>Sunnyvale Police Department – Denial of Access to Body Camera Recordings of Police Officers committed unlawful arrest (10/20/2024)</td>
-        <td><a href="https://marsjustice.io/criminal-case/sunnyvale-bodycam-refusal-2024-10-20.pdf" target="_blank" class="btn-download">Download PDF</a></td>
+        <td><a href="/criminal-case/sunnyvale-bodycam-refusal-2024-10-20.pdf" target="_blank" class="btn-download">Download PDF</a></td>
       </tr>
 
       <tr>

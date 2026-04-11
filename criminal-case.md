@@ -1,16 +1,247 @@
 ---
 layout: default
-title: CRIMINAL CASE
+title: Criminal Case
 permalink: /criminal-case/
 ---
 
-# Overview
+# Criminal Case
 
-Child traffickers and racketeers Stephen Lowney, Beth McGowen, Nancy Roberts, Thomas Kuhnle, Benjamin Williams, Michael Clark and Chase Martin fabricated criminal case against me, which they used for extortion of my 401k funds after they triggered termination of employment, blocked unemployment benefits, blocked my ability to get any job offer due to fabricated criminal record with open arrest and bench warrants against me, blocked my 401k funds coercing me to surrender 401k to their criminal associate Elizabeth Strassen (member of Santa Clara Mafia Cartel known for massive repetitive paper/wire fraud).
-This fabricated criminal case was used also to execute international abduction of my son Max Mars - detained hostage without right for a phone call by Santa Clara Mafia Cartel - blocking any contact with my son under threat of unlawful incarceration using open arrest and bench warrants on this fabricated criminal case.
+## Overview
 
+This section presents materials related to Criminal Case B2402220 for full public transparency and preservation of the record.
 
-# Unified Evidence Binder
+**Key Procedural Violations**
+
+- The arrest on June 14, 2024 have been unlawful. It was based on an alleged violation of a Domestic Violence Restraining Order (DVRO) dated November 28, 2023, which is void ab initio under California Code of Civil Procedure § 170.4(d). The DVRO was signed by Judge Andrea Flint after a Statement of Disqualification was filed against her on November 13, 2023.
+
+- On February 7, 2024, during a hearing before Judge Stephen Lowney (later disqualified on February 20, 2024), judge Lowney acting under color of law refused to dismiss the void DVRO and denied requests for custody review, DVRO trial, final divorce trial, and bifurcation of marital status, and was extorting financial assets and documents of my minor son Max Mars under threats of denial access to California courts and further malicious prosecution.
+
+- The criminal case itself was used as leverage for financial extortion. The resulting criminal record has blocked employment opportunities through background check failures and rescinded job offers. Access to 401(k) retirement funds has been blocked, with following coercion to surrender those funds in exchange for dismissal of the case.
+
+- Subsequent criminal court hearings before Judges Kuhnle and Williams denied the defendant an opportunity to be heard. 
+
+- Judge Williams denied the defendant and his attorney the opportunity to be heard on the merits of Criminal Case B2402220 and issued a bench warrant, despite both being present in open court and requesting a hearing and dismissal of the case. 
+
+This constitutes a violation of due process and denial of access to court.  
+Applicable Law:  
+- U.S. Const. amend. XIV, § 1 (Due Process Clause)  
+- 42 U.S.C. § 1983 (Deprivation of constitutional rights under color of law)  
+- Cal. Const. art. I, § 7(a) (Due Process)  
+- Procedural due process requires meaningful opportunity to be heard before deprivation of liberty (Mathews v. Eldridge, 424 U.S. 319 (1976))  
+
+**This matter remains active.** Additional materials and updates will be added as the proceedings progress.
+
+---
+
+## Criminal Case Evidence Binder
+
+<!-- ==================== EVIDENCE BINDER TABLE OF CONTENTS ==================== -->
+
+<div class="evidence-binder-section">
+  <h2>Evidence Binder – Criminal Case B2402220</h2>
+  <p class="section-subtitle">Consolidated Exhibits in Support of Motion to Dismiss</p>
+
+  <table class="premium-table">
+    <thead>
+      <tr>
+        <th style="width: 8%;">Exhibit</th>
+        <th>Description</th>
+        <th style="width: 28%;">Action</th>
+      </tr>
+    </thead>
+    <tbody>
+
+      <tr>
+        <td><strong>A-1</strong></td>
+        <td>Statement of Disqualification – Judge Andrea Flint (11/13/2023)</td>
+        <td><a href="https://marsjustice.io/criminal-case/flint-disqualification-2023-11-13.pdf" target="_blank" class="btn-download">Download PDF</a></td>
+      </tr>
+
+      <tr>
+        <td><strong>A-2</strong></td>
+        <td>Void ab initio Domestic Violence Restraining Order signed by Judge Flint After Disqualification (11/28/2023)</td>
+        <td><a href="https://marsjustice.io/criminal-case/dvro-flint-2023-11-28.pdf" target="_blank" class="btn-download">Download PDF</a></td>
+      </tr>
+
+      <tr>
+        <td><strong>A-3</strong></td>
+        <td>Key Statements and Material Facts from Transcript and Audio Recording (Extortion of Money and Documents, Threats of Malicious Prosecution) – Hearing before Judge Stephen Lowney (02/07/2024)</td>
+        <td><a href="https://marsjustice.io/criminal-case/lowney-extortion-2024-02-07.pdf" target="_blank" class="btn-download">Download PDF</a></td>
+      </tr>
+
+      <tr>
+        <td><strong>A-4</strong></td>
+        <td>Transcript and Audio Recording – Hearing Before Judge Stephen Lowney (02/07/2024)</td>
+        <td><a href="https://marsjustice.io/criminal-case/lowney-extortion-2024-02-07.pdf" target="_blank" class="btn-download">Download PDF</a></td>
+      </tr>
+
+      <tr>
+        <td><strong>A-5</strong></td>
+        <td>Items Seized from Minor Child Max Mars During Arrest of Petitioner – Tesla Cybertruck with Donald Trump, “Warrior Kid” book by Jocko Willink, Donuts and Hot Chocolate - Denial of Freedom and Contact (06/14/2024)</td>
+        <td><a href="https://marsjustice.io/criminal-case/seized-items-cybertruck-2024-06-14.pdf" target="_blank" class="btn-download">Download PDF</a></td>
+      </tr>
+
+      <tr>
+        <td><strong>A-6</strong></td>
+        <td>Video recording of arrest by Officer Chase Martin (Badge #17209, Sunnyvale PD, CA) – Screenshots and Video</td>
+        <td><a href="https://drive.google.com/file/d/1O6yLk2-C_duS0uSko9erA9-ngP5xwnZ7/preview" target="_blank" class="btn-video">View June 14, 2024 Arrest Video</a></td>
+      </tr>
+
+      <tr>
+        <td><strong>A-7</strong></td>
+        <td>Bench Warrant issued by Judge Stephen Lowney after Threats of Malicious Prosecution (06/17/2024)</td>
+        <td><a href="https://marsjustice.io/criminal-case/lowney-bench-warrant-2024-06-17.pdf" target="_blank" class="btn-download">Download PDF</a></td>
+      </tr>
+
+      <tr>
+        <td><strong>A-8</strong></td>
+        <td>Additional Bench Warrant by Benjamin Williams and Arrest Warrant by Michael Clark (08/21/2024 – 10/23/2024)</td>
+        <td><a href="https://marsjustice.io/criminal-case/lowney-bench-warrant-2024-06-17.pdf" target="_blank" class="btn-download">Download PDF</a></td>
+      </tr>
+
+      <tr>
+        <td><strong>A-9</strong></td>
+        <td>Sunnyvale Police Department – Denial of Access to Body Camera Recordings of Police Officers committed unlawful arrest (10/20/2024)</td>
+        <td><a href="https://marsjustice.io/criminal-case/sunnyvale-bodycam-refusal-2024-10-20.pdf" target="_blank" class="btn-download">Download PDF</a></td>
+      </tr>
+
+      <tr>
+        <td><strong>A-10</strong></td>
+        <td>
+          <strong>Video Recordings of Criminal Court Hearings before Hon. Thomas Kuhnle and Hon. Benjamin Williams (August 2024)</strong><br><br>
+          <strong>Key Procedural Violation:</strong> Judge Williams denied the defendant and his attorney the opportunity to be heard on the merits of Criminal Case B2402220 and issued a bench warrant, despite both being present in open court and requesting a hearing and dismissal of the case.<br><br>
+          This constitutes a violation of due process and denial of access to court.<br><br>
+          <strong>Applicable Law:</strong><br>
+          • U.S. Const. amend. XIV, § 1 (Due Process Clause)<br>
+          • 42 U.S.C. § 1983 (Deprivation of constitutional rights under color of law)<br>
+          • Cal. Const. art. I, § 7(a) (Due Process)<br>
+          • Procedural due process requires meaningful opportunity to be heard before deprivation of liberty (<em>Mathews v. Eldridge</em>, 424 U.S. 319 (1976))
+        </td>
+        <td>
+          <a href="https://drive.google.com/file/d/1DAaItUbRjYs_O_sUDpXiWYWExHtzG6ql/preview" 
+            target="_blank" class="btn-video">View August 15, 2024 (Kuhnle) Hearing Video</a><br><br>
+          
+          <a href="https://drive.google.com/file/d/1dTvasJPaRW-MuYK9gpe0oagzWEdQEw73/preview" 
+            target="_blank" class="btn-video">View August 19, 2024 (Williams) Hearing Video</a><br><br>
+          
+          <a href="https://drive.google.com/file/d/1Sn0_ZuVeTKEEEPlCn5eOSLtZ3CM4LFZ_/preview" 
+            target="_blank" class="btn-video">View August 21, 2024 (Williams, p. 1) Hearing Video</a><br><br>
+          
+          <a href="https://drive.google.com/file/d/1e60zP91nn3hnodVQTvZB7xTjVwCBbVEC/preview" 
+            target="_blank" class="btn-video">View August 21, 2024 (Williams, p. 2) Hearing Video</a>
+        </td>
+      </tr>
+
+    </tbody>
+  </table>
+
+## Video Evidence
+
+  <!-- ==================== VERTICAL FULL-WIDTH VIDEO GRID ==================== -->
+  <h3 style="margin-top: 50px; text-align: center; color: #111827;">Video Recordings</h3>
+  <div class="video-grid-vertical">
+
+    <!-- Arrest Video -->
+    <div class="video-card-vertical">
+      <div class="video-header">June 14, 2024 – Unlawful Arrest by Chase Martin, Sunnyvale Police Department, CA</div>
+      <div class="video-container-vertical">
+        <iframe src="https://drive.google.com/file/d/1O6yLk2-C_duS0uSko9erA9-ngP5xwnZ7/preview" frameborder="0" allowfullscreen></iframe>
+      </div>
+    </div>
+
+    <!-- August 15, 2024 – Kuhnle -->
+    <div class="video-card-vertical">
+      <div class="video-header">August 15, 2024 – Hearing before Judge Thomas Kuhnle</div>
+      <div class="video-container-vertical">
+        <iframe src="https://drive.google.com/file/d/1DAaItUbRjYs_O_sUDpXiWYWExHtzG6ql/preview" frameborder="0" allowfullscreen></iframe>
+      </div>
+    </div>
+
+    <!-- August 19, 2024 – Williams -->
+    <div class="video-card-vertical">
+      <div class="video-header">August 19, 2024 – Hearing before Judge Benjamin Williams</div>
+      <div class="video-container-vertical">
+        <iframe src="https://drive.google.com/file/d/1dTvasJPaRW-MuYK9gpe0oagzWEdQEw73/preview" frameborder="0" allowfullscreen></iframe>
+      </div>
+    </div>
+
+    <!-- August 21, 2024 – Williams -->
+    <div class="video-card-vertical">
+      <div class="video-header">August 21, 2024 – Hearing before Judge Benjamin Williams</div>
+      <div class="video-container-vertical">
+        <iframe src="https://drive.google.com/file/d/1Sn0_ZuVeTKEEEPlCn5eOSLtZ3CM4LFZ_/preview" frameborder="0" allowfullscreen></iframe>
+      </div>
+    </div>
+
+    <!-- August 21, 2024 – Williams (denied hearing & warrant) -->
+    <div class="video-card-vertical">
+      <div class="video-header">August 21, 2024 – Hearing before Judge Benjamin Williams<br><small>Denial of hearing and issuance of bench warrant</small></div>
+      <div class="video-container-vertical">
+        <iframe src="https://drive.google.com/file/d/1e60zP91nn3hnodVQTvZB7xTjVwCBbVEC/preview" frameborder="0" allowfullscreen></iframe>
+      </div>
+    </div>
+
+  </div>
+</div>
+
+<style>
+  .evidence-binder-section {
+    max-width: 1280px;
+    margin: 60px auto;
+    padding: 40px 30px;
+    background: #ffffff;
+    border-radius: 16px;
+    box-shadow: 0 15px 35px rgba(0,0,0,0.07);
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  }
+  .evidence-binder-section h2 { text-align: center; font-size: 1.85rem; font-weight: 600; color: #111827; margin-bottom: 8px; }
+  .section-subtitle { text-align: center; margin-bottom: 30px; color: #374151; font-size: 1.05rem; }
+  .premium-table { width: 100%; border-collapse: collapse; background: white; }
+  .premium-table th { background: #000000; color: #ffffff; padding: 16px; text-align: left; font-weight: 600; }
+  .premium-table td { padding: 16px; border-bottom: 1px solid #e2e8f0; vertical-align: top; }
+  .btn-download, .btn-video { display: inline-block; background: #000000; color: #ffffff; padding: 9px 18px; border-radius: 6px; text-decoration: none; font-weight: 600; font-size: 0.9rem; transition: all 0.2s; }
+  .btn-download:hover, .btn-video:hover { background: #1a1a1a; transform: translateY(-1px); }
+
+  /* VERTICAL FULL-WIDTH VIDEO LAYOUT */
+  .video-grid-vertical {
+    display: flex;
+    flex-direction: column;
+    gap: 32px;
+    margin-top: 30px;
+  }
+  .video-card-vertical {
+    background: #f8fafc;
+    border-radius: 12px;
+    overflow: hidden;
+    box-shadow: 0 4px 15px rgba(0,0,0,0.05);
+  }
+  .video-header {
+    padding: 16px 20px;
+    background: #0f172a;
+    color: #e2e8f0;
+    font-size: 0.95rem;
+    line-height: 1.4;
+  }
+  .video-container-vertical {
+    position: relative;
+    padding-bottom: 56.25%;
+    height: 0;
+    overflow: hidden;
+    background: #000;
+  }
+  .video-container-vertical iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    border: none;
+  }
+</style>
+
+## Supplemental Evidence
+
+- [2024-06-14 Video Recording And Evidence Of Unlawful Arrest And Theft By Chase Martin (Badge #17209), Child Trafficker And Racketeer From Sunnyvale Police Department](/federal-removal/evidence/criminal-case/2024-06-14%20Video%20Recording%20And%20Evidence%20Of%20Unlawful%20Arrest%20And%20Theft%20By%20Chase%20Martin%20(Badge%20No.%2017209),%20Child%20Trafficker%20And%20Racketeer%20From%20Sunnyvale%20Police%20Department.pdf)
 
 - [Criminal case B2402220 used for extortion of my 401k funds and international abduction of my son Max Mars outside United States to Ukraine - Evidence](/federal-removal/evidence/criminal-case/Criminal%20case%20B2402220%20used%20for%20extortion%20of%20my%20401k%20funds%20and%20international%20abduction%20of%20my%20son%20Max%20Mars%20outside%20United%20States%20to%20Ukraine%20-%20Evidence.pdf)
 
@@ -36,59 +267,7 @@ This fabricated criminal case was used also to execute international abduction o
 
 ## 4. Video recording and evidence of unlawful arrest and theft of Tesla CyberTruck with Donald Trump, book "Warrior Kid" by Jocko Willink, and donuts with hot chocolate 06/14/2024 by Chase Martin (Badge #17209), child trafficker and racketeer from Sunnyvale Police Department, CA
 
-- [2024-06-14 Video Recording And Evidence Of Unlawful Arrest And Theft By Chase Martin (Badge #17209), Child Trafficker And Racketeer From Sunnyvale Police Department](/federal-removal/evidence/criminal-case/2024-06-14%20Video%20Recording%20And%20Evidence%20Of%20Unlawful%20Arrest%20And%20Theft%20By%20Chase%20Martin%20(Badge%20No.%2017209),%20Child%20Trafficker%20And%20Racketeer%20From%20Sunnyvale%20Police%20Department.pdf)
-
-**2024-06-14 Video Recording Of Unlawful Arrest And Theft By Chase Martin (Badge #17209), Child Trafficker And Racketeer From Sunnyvale Police Department**
-<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-  <iframe 
-    src="https://drive.google.com/file/d/1O6yLk2-C_duS0uSko9erA9-ngP5xwnZ7/preview" 
-    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
-    frameborder="0"
-    allowfullscreen>
-  </iframe>
-</div>
-
-## 5. Video recordings of criminal court hearings when racketeers Thomas Kuhnle and Benjamin Williams denied hearing the case B2402220 and fabricated bench warrant despite my presence and presence of my attorney in a hearing
-
-**2024-08-15 Thomas Kuhnle, Criminal Court Racketeer - Attempt Of Unlawful Incarceration**
-<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-  <iframe 
-    src="https://drive.google.com/file/d/1DAaItUbRjYs_O_sUDpXiWYWExHtzG6ql/preview" 
-    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
-    frameborder="0"
-    allowfullscreen>
-  </iframe>
-</div>
-
-**2024-08-19 Benjamin Williams, Criminal Court Racketeer - 1st Attempt Of Unlawful Incarceration**
-<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-  <iframe 
-    src="https://drive.google.com/file/d/1dTvasJPaRW-MuYK9gpe0oagzWEdQEw73/preview" 
-    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
-    frameborder="0"
-    allowfullscreen>
-  </iframe>
-</div>
-
-**2024-08-21 Benjamin Williams, Criminal Court Racketeer - 2nd Attempt Of Unlawful Incarceration**
-<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-  <iframe 
-    src="https://drive.google.com/file/d/1Sn0_ZuVeTKEEEPlCn5eOSLtZ3CM4LFZ_/preview" 
-    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
-    frameborder="0"
-    allowfullscreen>
-  </iframe>
-</div>
-
-**2024-08-21 Benjamin Williams, Criminal Court Racketeer - Denied Hearing And Issued Bench Warrant**
-<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-  <iframe 
-    src="https://drive.google.com/file/d/1e60zP91nn3hnodVQTvZB7xTjVwCBbVEC/preview" 
-    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
-    frameborder="0"
-    allowfullscreen>
-  </iframe>
-</div>
+--
 
 ## 6. Targeted racketeering attack with fabricated arrest and bench warrants by organized group of criminals from Santa Clara Mafia Cartel - child traffickers and racketeers Thomas Kuhnle, Benjamin Williams, Michael Clark:
 

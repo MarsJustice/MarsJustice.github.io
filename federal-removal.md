@@ -1,6 +1,6 @@
 ---
 layout: default
-title: FEDERAL REMOVAL
+title: Federal Removal
 permalink: /federal-removal/
 ---
 
@@ -352,3 +352,216 @@ This backup is published after YouTube Channel "Mars Justice" was taken down by 
 
 - [2024-10-30 - Sunnyvale DPS refused to provide body cam recordings of corrupt cops who committed unlawful arrest](/federal-removal/evidence/denial-orders/2024-10-30%20-%20Sunnyvale%20DPS%20refused%20to%20provide%20body%20cam%20recordings%20of%20corrupt%20cops%20who%20committed%20unlawful%20arrest.pdf)
 
+
+## Video Evidence Archive
+
+<!-- ==================== VIDEO EVIDENCE ARCHIVE – MONTSERRAT FONT ==================== -->
+<!-- Paste this entire block into http://127.0.0.1:4000/criminal-case/ -->
+
+<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700&display=swap" rel="stylesheet">
+
+<div class="video-archive-section">
+  <h2>Video Evidence Archive</h2>
+  <p class="section-subtitle">
+    Complete collection of court hearings and related recordings<br>
+    <a href="https://drive.google.com/drive/folders/1LlvizdNAT7WyYW7rIW8pKq7jg0xNtXI4?usp=drive_link" 
+       target="_blank" class="folder-link">View Full Video Evidence Backup Folder →</a>
+  </p>
+  <p class="backup-note">Backup created after the original Mars Justice YouTube channel was removed.</p>
+
+  <div class="video-grid-vertical">
+
+    <!-- November 13, 2023 – Judge Andrea Flint (Parts 1-4) -->
+    <div class="video-card-vertical">
+      <div class="video-header">November 13, 2023 – Hearing before Hon. Andrea Flint (Part 1)</div>
+      <div class="video-container-vertical">
+        <iframe src="https://drive.google.com/file/d/173gpgsvpV_rzyC4ndKccXngXADiemCFc/preview" frameborder="0" allowfullscreen></iframe>
+      </div>
+    </div>
+
+    <div class="video-card-vertical">
+      <div class="video-header">November 13, 2023 – Hearing before Hon. Andrea Flint (Part 2)</div>
+      <div class="video-container-vertical">
+        <iframe src="https://drive.google.com/file/d/1pc12yvgTEFqCwKJnizdjSKoRW_sdMDg7/preview" frameborder="0" allowfullscreen></iframe>
+      </div>
+    </div>
+
+    <div class="video-card-vertical">
+      <div class="video-header">November 13, 2023 – Hearing before Hon. Andrea Flint (Part 3)</div>
+      <div class="video-container-vertical">
+        <iframe src="https://drive.google.com/file/d/1wExZ1sA3v4F4mHgiXVRnEK6mQiFkLbD2/preview" frameborder="0" allowfullscreen></iframe>
+      </div>
+    </div>
+
+    <div class="video-card-vertical">
+      <div class="video-header">November 13, 2023 – Hearing before Hon. Andrea Flint (Part 4)</div>
+      <div class="video-container-vertical">
+        <iframe src="https://drive.google.com/file/d/1Nactl5OzicYuuqAQ9TWkglJzUAIEngN9/preview" frameborder="0" allowfullscreen></iframe>
+      </div>
+    </div>
+
+    <!-- November 23, 2023 – Max Mars Birthday -->
+    <div class="video-card-vertical">
+      <div class="video-header">November 23, 2023 – Recording Related to Minor Child Max Mars on His 8th Birthday</div>
+      <div class="video-container-vertical">
+        <iframe src="https://drive.google.com/file/d/1Il-lZb8772GOvqr060rKEwy_AoLYTWwD/preview" frameborder="0" allowfullscreen></iframe>
+      </div>
+    </div>
+
+    <div class="video-card-vertical">
+      <div class="video-header">November 23, 2023 – Recording Related to Minor Child Max Mars on His 8th Birthday (Additional)</div>
+      <div class="video-container-vertical">
+        <iframe src="https://drive.google.com/file/d/1Nactl5OzicYuuqAQ9TWkglJzUAIEngN9/preview" frameborder="0" allowfullscreen></iframe>
+      </div>
+    </div>
+
+    <!-- February 7, 2024 – Judge Lowney -->
+    <div class="video-card-vertical">
+      <div class="video-header">February 7, 2024 – Hearing before Hon. Stephen Lowney</div>
+      <div class="video-container-vertical">
+        <iframe src="https://drive.google.com/file/d/1YKpbX-Hw9vpJO1YvnelR_NEmyAzAz_CF/preview" frameborder="0" allowfullscreen></iframe>
+      </div>
+    </div>
+
+    <!-- November 23, 2025 – 10th Birthday Greetings -->
+    <div class="video-card-vertical">
+      <div class="video-header">November 23, 2025 – Greeting from Minor Child Max Mars on His 10th Birthday (English)</div>
+      <div class="video-container-vertical">
+        <iframe src="https://drive.google.com/file/d/1j_I9dPqKY-onw9XCMGevyoy-fqhy9SAu/preview" frameborder="0" allowfullscreen></iframe>
+      </div>
+    </div>
+
+    <div class="video-card-vertical">
+      <div class="video-header">November 23, 2025 – Greeting from Minor Child Max Mars on His 10th Birthday (Russian)</div>
+      <div class="video-container-vertical">
+        <iframe src="https://drive.google.com/file/d/1FwcHCMmCf0KoFImbgtBxaLvGe74Fbagk/preview" frameborder="0" allowfullscreen></iframe>
+      </div>
+    </div>
+
+    <!-- December 25, 2025 – Public Messages -->
+    <div class="video-card-vertical">
+      <div class="video-header">December 25, 2025 – Public Message Requesting Contact with Minor Child Max Mars on Christmas (English)</div>
+      <div class="video-container-vertical">
+        <iframe src="https://drive.google.com/file/d/1S55AuHL5Uf19hF8tTl_2LosM_pCy2XgB/preview" frameborder="0" allowfullscreen></iframe>
+      </div>
+    </div>
+
+    <div class="video-card-vertical">
+      <div class="video-header">December 25, 2025 – Public Message Requesting Contact with Minor Child Max Mars on Christmas (Russian)</div>
+      <div class="video-container-vertical">
+        <iframe src="https://drive.google.com/file/d/1PxJVogfZuvbVuyWYiiL4bnKcjXeuJAt_/preview" frameborder="0" allowfullscreen></iframe>
+      </div>
+    </div>
+
+    <div class="video-card-vertical">
+      <div class="video-header">December 25, 2025 – Public Message Requesting Contact with Minor Child Max Mars on Christmas (English)</div>
+      <div class="video-container-vertical">
+        <iframe src="https://drive.google.com/file/d/18voxB7nF2VtzegThXx1QAKLE2dfs1mEH/preview" frameborder="0" allowfullscreen></iframe>
+      </div>
+    </div>
+
+    <div class="video-card-vertical">
+      <div class="video-header">December 25, 2025 – Public Message Requesting Contact with Minor Child Max Mars on Christmas (Russian)</div>
+      <div class="video-container-vertical">
+        <iframe src="https://drive.google.com/file/d/1f6adN40zYdnfkMtvxNAB5Cf79wGK6fuA/preview" frameborder="0" allowfullscreen></iframe>
+      </div>
+    </div>
+
+    <div class="video-card-vertical">
+      <div class="video-header">December 25, 2025 – Public Message Requesting Contact with Minor Child Max Mars on Christmas (English)</div>
+      <div class="video-container-vertical">
+        <iframe src="https://drive.google.com/file/d/1Gi4Nc-BtorwGilgmKZgHweQaxmm4s59v/preview" frameborder="0" allowfullscreen></iframe>
+      </div>
+    </div>
+
+    <div class="video-card-vertical">
+      <div class="video-header">December 25, 2025 – Public Message Requesting Contact with Minor Child Max Mars on Christmas (Russian)</div>
+      <div class="video-container-vertical">
+        <iframe src="https://drive.google.com/file/d/1mZjVqauxOpMxCA6KjtY0OHq-MvFSDChe/preview" frameborder="0" allowfullscreen></iframe>
+      </div>
+    </div>
+
+    <div class="video-card-vertical">
+      <div class="video-header">December 25, 2025 – Public Message Requesting Contact with Minor Child Max Mars on Christmas (English)</div>
+      <div class="video-container-vertical">
+        <iframe src="https://drive.google.com/file/d/1NmKLScNbG9Vgm57qhKuvmwoXe8BHZJQt/preview" frameborder="0" allowfullscreen></iframe>
+      </div>
+    </div>
+
+  </div>
+</div>
+
+<style>
+  .video-archive-section {
+    max-width: 1280px;
+    margin: 60px auto;
+    padding: 40px 30px;
+    background: #ffffff;
+    border-radius: 16px;
+    box-shadow: 0 15px 35px rgba(0,0,0,0.07);
+    font-family: 'Montserrat', system-ui, -apple-system, BlinkMacSystemFont, sans-serif;
+  }
+  .video-archive-section h2 {
+    text-align: center;
+    font-size: 1.85rem;
+    font-weight: 700;
+    color: #111827;
+    margin-bottom: 8px;
+  }
+  .section-subtitle {
+    text-align: center;
+    margin-bottom: 12px;
+    color: #374151;
+    font-size: 1.05rem;
+    font-weight: 500;
+  }
+  .folder-link {
+    color: #0f172a;
+    font-weight: 600;
+    text-decoration: none;
+  }
+  .folder-link:hover {
+    text-decoration: underline;
+  }
+  .backup-note {
+    text-align: center;
+    font-size: 0.95rem;
+    color: #64748b;
+    margin-bottom: 40px;
+    font-weight: 400;
+  }
+  .video-grid-vertical {
+    display: flex;
+    flex-direction: column;
+    gap: 32px;
+  }
+  .video-card-vertical {
+    background: #f8fafc;
+    border-radius: 12px;
+    overflow: hidden;
+    box-shadow: 0 4px 15px rgba(0,0,0,0.05);
+  }
+  .video-header {
+    padding: 16px 20px;
+    background: #0f172a;
+    color: #e2e8f0;
+    font-size: 0.95rem;
+    line-height: 1.4;
+    font-weight: 600;
+  }
+  .video-container-vertical {
+    position: relative;
+    padding-bottom: 56.25%;
+    height: 0;
+    overflow: hidden;
+    background: #000;
+  }
+  .video-container-vertical iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    border: none;
+  }
+</style>

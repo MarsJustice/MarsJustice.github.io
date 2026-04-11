@@ -33,8 +33,6 @@ Applicable Law:
 
 ---
 
-## Criminal Case Evidence Binder
-
 <!-- ==================== EVIDENCE BINDER TABLE OF CONTENTS ==================== -->
 
 <div class="evidence-binder-section">
@@ -54,25 +52,25 @@ Applicable Law:
       <tr>
         <td><strong>A-1</strong></td>
         <td>Statement of Disqualification – Judge Andrea Flint (11/13/2023)</td>
-        <td><a href="https://marsjustice.io/criminal-case/flint-disqualification-2023-11-13.pdf" target="_blank" class="btn-download">Download PDF</a></td>
+        <td><a href="/criminal-case/flint-disqualification-2023-11-13.pdf" target="_blank" class="btn-download">Download PDF</a></td>
       </tr>
 
       <tr>
         <td><strong>A-2</strong></td>
         <td>Void ab initio Domestic Violence Restraining Order signed by Judge Flint After Disqualification (11/28/2023)</td>
-        <td><a href="https://marsjustice.io/criminal-case/dvro-flint-2023-11-28.pdf" target="_blank" class="btn-download">Download PDF</a></td>
+        <td><a href="/criminal-case/dvro-flint-2023-11-28.pdf" target="_blank" class="btn-download">Download PDF</a></td>
       </tr>
 
       <tr>
         <td><strong>A-3</strong></td>
         <td>Key Statements and Material Facts from Transcript and Audio Recording (Extortion of Money and Documents, Threats of Malicious Prosecution) – Hearing before Judge Stephen Lowney (02/07/2024)</td>
-        <td><a href="https://marsjustice.io/criminal-case/lowney-extortion-2024-02-07.pdf" target="_blank" class="btn-download">Download PDF</a></td>
+        <td><a href="https://marsjustice.io/criminal-case/lowney-hearing-transcript-key-statements-2024-02-07.pdf" target="_blank" class="btn-download">Download PDF</a></td>
       </tr>
 
       <tr>
         <td><strong>A-4</strong></td>
         <td>Transcript and Audio Recording – Hearing Before Judge Stephen Lowney (02/07/2024)</td>
-        <td><a href="https://marsjustice.io/criminal-case/lowney-extortion-2024-02-07.pdf" target="_blank" class="btn-download">Download PDF</a></td>
+        <td><a href="https://marsjustice.io/criminal-case/lowney-hearing-transcript-2024-02-07.pdf" target="_blank" class="btn-download">Download PDF</a></td>
       </tr>
 
       <tr>

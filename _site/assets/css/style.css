@@ -388,7 +388,7 @@ h1, h2, h3, h4, h5, h6 { font-family: "Montserrat", "Open Sans", Arial, sans-ser
 
 /* Optional: make buttons slightly larger on mobile */
 @media (max-width: 768px) { .btn-download, .btn-video { padding: 9px 16px; font-size: 0.9rem; } }
-.evidence-binder-section { max-width: 1280px; margin: 60px auto; padding: 40px 30px; background: #ffffff; border-radius: 16px; box-shadow: 0 15px 35px rgba(0, 0, 0, 0.07); font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; }
+.evidence-binder-section { max-width: 1280px; margin: 60px auto; padding: 40px 30px; background: #ffffff; border-radius: 16px; box-shadow: 0 15px 35px rgba(0, 0, 0, 0.07); font-family: 'Montserrat', system-ui, -apple-system, BlinkMacSystemFont, sans-serif; }
 
 .evidence-binder-section h2 { text-align: center; font-size: 1.85rem; font-weight: 600; color: #111827; margin-bottom: 8px; }
 
@@ -398,9 +398,9 @@ h1, h2, h3, h4, h5, h6 { font-family: "Montserrat", "Open Sans", Arial, sans-ser
 
 .premium-table th { background: #000000; color: #ffffff; padding: 16px; text-align: left; font-weight: 600; }
 
-.premium-table td { padding: 16px; border-bottom: 1px solid #e2e8f0; vertical-align: top; }
+.premium-table td { padding: 16px; border-bottom: 1px solid #e2e8f0; vertical-align: top; font-family: 'Montserrat', system-ui, -apple-system, BlinkMacSystemFont, sans-serif; }
 
-.btn-download, .btn-video { display: inline-block; background: #000000; color: #ffffff; padding: 9px 18px; border-radius: 6px; text-decoration: none; font-weight: 600; font-size: 0.9rem; transition: all 0.2s; }
+.btn-download, .btn-video { display: inline-block; background: #000000; color: #ffffff; padding: 9px 18px; border-radius: 6px; text-decoration: none; font-weight: 600; font-size: 0.9rem; transition: all 0.2s; font-family: 'Montserrat', system-ui, -apple-system, BlinkMacSystemFont, sans-serif; font-weight: 600; }
 
 /* VERTICAL FULL-WIDTH VIDEO LAYOUT */
 .video-grid-vertical { display: flex; flex-direction: column; gap: 32px; margin-top: 30px; }

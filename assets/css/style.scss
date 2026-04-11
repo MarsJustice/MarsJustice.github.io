@@ -208,3 +208,89 @@ h1, h2, h3, h4, h5, h6 {
     font-size: 0.8rem;
   }
 }
+
+/* ==================== MATCH NAVIGATION BUTTON STYLE ==================== */
+.btn-download,
+.btn-video {
+  display: inline-block;
+  background: rgba(0, 0, 0, 0.6);
+  color: #ffffff;
+  padding: 10px 20px;
+  border-radius: 8px;
+  text-decoration: none;
+  font-weight: 600;
+  font-family: "Montserrat", system-ui, -apple-system, BlinkMacSystemFont, sans-serif;
+  transition: all 0.25s ease-in-out;
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  white-space: nowrap;
+}
+
+.btn-download:hover,
+.btn-video:hover {
+  background: #ff0030;
+  border-color: #ff0030;
+  color: #ffffff;
+  transform: translateY(-2px);
+}
+
+/* Optional: make buttons slightly larger on mobile */
+@media (max-width: 768px) {
+  .btn-download,
+  .btn-video {
+    padding: 9px 16px;
+    font-size: 0.9rem;
+  }
+}
+
+  .evidence-binder-section {
+    max-width: 1280px;
+    margin: 60px auto;
+    padding: 40px 30px;
+    background: #ffffff;
+    border-radius: 16px;
+    box-shadow: 0 15px 35px rgba(0,0,0,0.07);
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  }
+  .evidence-binder-section h2 { text-align: center; font-size: 1.85rem; font-weight: 600; color: #111827; margin-bottom: 8px; }
+  .section-subtitle { text-align: center; margin-bottom: 30px; color: #374151; font-size: 1.05rem; }
+  .premium-table { width: 100%; border-collapse: collapse; background: white; }
+  .premium-table th { background: #000000; color: #ffffff; padding: 16px; text-align: left; font-weight: 600; }
+  .premium-table td { padding: 16px; border-bottom: 1px solid #e2e8f0; vertical-align: top; }
+  .btn-download, .btn-video { display: inline-block; background: #000000; color: #ffffff; padding: 9px 18px; border-radius: 6px; text-decoration: none; font-weight: 600; font-size: 0.9rem; transition: all 0.2s; }
+
+
+  /* VERTICAL FULL-WIDTH VIDEO LAYOUT */
+  .video-grid-vertical {
+    display: flex;
+    flex-direction: column;
+    gap: 32px;
+    margin-top: 30px;
+  }
+  .video-card-vertical {
+    background: #f8fafc;
+    border-radius: 12px;
+    overflow: hidden;
+    box-shadow: 0 4px 15px rgba(0,0,0,0.05);
+  }
+  .video-header {
+    padding: 16px 20px;
+    background: #0f172a;
+    color: #e2e8f0;
+    font-size: 0.95rem;
+    line-height: 1.4;
+  }
+  .video-container-vertical {
+    position: relative;
+    padding-bottom: 56.25%;
+    height: 0;
+    overflow: hidden;
+    background: #000;
+  }
+  .video-container-vertical iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    border: none;
+  }

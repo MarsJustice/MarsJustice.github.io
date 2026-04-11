@@ -84,7 +84,7 @@ Applicable Law:
       <tr>
         <td><strong>A-6</strong></td>
         <td>Video recording of arrest by Officer Chase Martin (Badge #17209, Sunnyvale PD, CA) – Screenshots and Video</td>
-        <td><a href="https://drive.google.com/file/d/1O6yLk2-C_duS0uSko9erA9-ngP5xwnZ7/preview" target="_blank" class="btn-video">View June 14, 2024 Arrest Video</a></td>
+        <td><a href="https://drive.google.com/file/d/1O6yLk2-C_duS0uSko9erA9-ngP5xwnZ7/preview" target="_blank" class="btn-video">View June 14, 2024<br>Arrest Video</a></td>
       </tr>
 
       <tr>
@@ -119,23 +119,21 @@ Applicable Law:
         </td>
         <td>
           <a href="https://drive.google.com/file/d/1DAaItUbRjYs_O_sUDpXiWYWExHtzG6ql/preview" 
-            target="_blank" class="btn-video">View August 15, 2024 (Kuhnle) Hearing Video</a><br><br>
+            target="_blank" class="btn-video">View August 15, 2024<br>(Kuhnle)<br>Hearing Video</a><br><br>
           
           <a href="https://drive.google.com/file/d/1dTvasJPaRW-MuYK9gpe0oagzWEdQEw73/preview" 
-            target="_blank" class="btn-video">View August 19, 2024 (Williams) Hearing Video</a><br><br>
+            target="_blank" class="btn-video">View August 19, 2024<br>(Williams)<br>Hearing Video</a><br><br>
           
           <a href="https://drive.google.com/file/d/1Sn0_ZuVeTKEEEPlCn5eOSLtZ3CM4LFZ_/preview" 
-            target="_blank" class="btn-video">View August 21, 2024 (Williams, p. 1) Hearing Video</a><br><br>
+            target="_blank" class="btn-video">View August 21, 2024<br>(Williams, p. 1)<br>Hearing Video</a><br><br>
           
           <a href="https://drive.google.com/file/d/1e60zP91nn3hnodVQTvZB7xTjVwCBbVEC/preview" 
-            target="_blank" class="btn-video">View August 21, 2024 (Williams, p. 2) Hearing Video</a>
+            target="_blank" class="btn-video">View August 21, 2024<br>(Williams, p. 2)<br>Hearing Video</a>
         </td>
       </tr>
 
     </tbody>
   </table>
-
-## Video Evidence
 
   <!-- ==================== VERTICAL FULL-WIDTH VIDEO GRID ==================== -->
   <h3 style="margin-top: 50px; text-align: center; color: #111827;">Video Recordings</h3>
@@ -183,61 +181,6 @@ Applicable Law:
 
   </div>
 </div>
-
-<style>
-  .evidence-binder-section {
-    max-width: 1280px;
-    margin: 60px auto;
-    padding: 40px 30px;
-    background: #ffffff;
-    border-radius: 16px;
-    box-shadow: 0 15px 35px rgba(0,0,0,0.07);
-    font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
-  }
-  .evidence-binder-section h2 { text-align: center; font-size: 1.85rem; font-weight: 600; color: #111827; margin-bottom: 8px; }
-  .section-subtitle { text-align: center; margin-bottom: 30px; color: #374151; font-size: 1.05rem; }
-  .premium-table { width: 100%; border-collapse: collapse; background: white; }
-  .premium-table th { background: #000000; color: #ffffff; padding: 16px; text-align: left; font-weight: 600; }
-  .premium-table td { padding: 16px; border-bottom: 1px solid #e2e8f0; vertical-align: top; }
-  .btn-download, .btn-video { display: inline-block; background: #000000; color: #ffffff; padding: 9px 18px; border-radius: 6px; text-decoration: none; font-weight: 600; font-size: 0.9rem; transition: all 0.2s; }
-  .btn-download:hover, .btn-video:hover { background: #1a1a1a; transform: translateY(-1px); }
-
-  /* VERTICAL FULL-WIDTH VIDEO LAYOUT */
-  .video-grid-vertical {
-    display: flex;
-    flex-direction: column;
-    gap: 32px;
-    margin-top: 30px;
-  }
-  .video-card-vertical {
-    background: #f8fafc;
-    border-radius: 12px;
-    overflow: hidden;
-    box-shadow: 0 4px 15px rgba(0,0,0,0.05);
-  }
-  .video-header {
-    padding: 16px 20px;
-    background: #0f172a;
-    color: #e2e8f0;
-    font-size: 0.95rem;
-    line-height: 1.4;
-  }
-  .video-container-vertical {
-    position: relative;
-    padding-bottom: 56.25%;
-    height: 0;
-    overflow: hidden;
-    background: #000;
-  }
-  .video-container-vertical iframe {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    border: none;
-  }
-</style>
 
 ## Supplemental Evidence
 

@@ -258,7 +258,7 @@ Applicable Law:
 
 <!-- ==================== EVIDENCE BINDER ==================== -->
 <div class="evidence-binder-section">
-  <h2> Exhibit A - Evidence Binder in Support of Motion to Dismiss Criminal Case B2402220</h2>
+  <h2> Evidence Binder for Motion to Dismiss</h2>
 
 <iframe src="/criminal-case/criminal-evidence-binder.pdf#toolbar=0&navpanes=0&view=FitH" 
         width="100%" 

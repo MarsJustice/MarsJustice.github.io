@@ -1,13 +1,8 @@
-# [MarsJustice.co](http://www.MarsJustice.co/) 
+Make America free again.
 
-🔴 MAKE AMERICA FREE AGAIN ⭐️❤️🇺🇸 
-  
-Make America Great Again - means first Make America Free Again. 
+Freedom is the foundation of the United States.
+Every individual - adult or child - has the fundamental right to live free from unlawful detention, coercion, exploitation, and abuse of power. These rights are not optional; they are guaranteed by the Constitution and must be protected without exception.
 
-Each American, adult or minor child, deserves freedom from slavery, kidnapping, child trafficking, malicious prosecution, unlawful incarceration or robbery by government officials acting under color of law. 
+Mars Justice is dedicated to safeguarding those rights.
 
-Our mission is to save America's future - our children, our parents, citizens and residents of the United States, who are investing their time, effort and energy into Making America Great Again - but got kindapped, robbed, unlawfully incarcerated by organized criminals from mafia cartels which commit their racketeering activities under guise of government, police and judicial authorities. 
-
-We encourage you to learn best practices for prosecution of judges, police officers, government officials and other criminals acting under color of law - to protect your children, your loved ones, yourself, and to Make America Free Again.
-
-Contacts: [MarsJustice@pm.me](mailto:MarsJustice@pm.me)  
+We advocate for individuals and families affected by misconduct carried out under color of law - whether through malicious prosecution, wrongful incarceration, unlawful separation of families, or other forms of institutional abuse. Our mission is to restore accountability, ensure due process, and protect the most vulnerable - especially children.

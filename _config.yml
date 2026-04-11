@@ -1,11 +1,11 @@
-title: MARS JUSTICE
-description: 🔴 MAKE AMERICA FREE AGAIN ⚔️❤️🇺🇸 
+title: Mars Justice
+description: Make America free again 
 
 remote_theme: pages-themes/cayman@v0.2.0
 plugins:
 - jekyll-remote-theme
 
-repository: MarsJustice/MarsJustice.github.io
+repository: marsjusticex/marsjustice.github.io
 
-url: "https://MarsJustice.co"
+url: "https://marsjustice.io"
 baseurl: ""

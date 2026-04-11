@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "MARS JUSTICE"
+title: Mars Justice
 ---
 
 # Defending Civil Rights. Protecting Families. Upholding the Rule of Law.

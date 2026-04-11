@@ -1,13 +1,45 @@
-# [MarsJustice.co](http://www.MarsJustice.co/) 
+# Defending Freedom. Upholding the Rule of Law.
 
-🔴 MAKE AMERICA FREE AGAIN ⭐️❤️🇺🇸 
-  
-Make America Great Again - means first Make America Free Again. 
+## A strong nation begins with freedom.
 
-Each American, adult or minor child, deserves freedom from slavery, kidnapping, child trafficking, malicious prosecution, unlawful incarceration or robbery by government officials acting under color of law. 
+The principles that define the United States — liberty, due process, and equal protection under the law — must be preserved, protected, and enforced. True national strength is built on the assurance that every individual’s rights are respected without exception.
 
-Our mission is to save America's future - our children, our parents, citizens and residents of the United States, who are investing their time, effort and energy into Making America Great Again - but got kindapped, robbed, unlawfully incarcerated by organized criminals from mafia cartels which commit their racketeering activities under guise of government, police and judicial authorities. 
+## Our Position
 
-We encourage you to learn best practices for prosecution of judges, police officers, government officials and other criminals acting under color of law - to protect your children, your loved ones, yourself, and to Make America Free Again.
+Every person — adult or child — is entitled to protection from unlawful detention, coercion, exploitation, and abuse of authority.
 
-Contacts: [MarsJustice@pm.me](mailto:MarsJustice@pm.me)  
+Mars Justice is dedicated to supporting individuals and families impacted by misconduct carried out under color of law, including:
+
+- Malicious or unjust prosecution
+- Wrongful detention or incarceration
+- Violations of due process
+- Unlawful interference with family integrity
+- Institutional abuse of authority
+
+## Our Mission
+
+To advance accountability, protect constitutional rights, and support lawful remedies for individuals and families navigating complex legal challenges.
+
+We focus on:
+
+- Promoting transparency and accountability within legal and governmental systems
+- Supporting structured, evidence-based approaches to legal defense
+- Providing resources and guidance for navigating high-risk legal situations
+- Advocating for the protection of families and future generations
+
+## Our Approach
+
+Mars Justice operates with discipline and precision:
+
+- Clarity — Objective understanding of each situation
+- Structure — Organized evidence and legal strategy
+- Action — Lawful, evidence-based pursuit of remedies
+
+We emphasize preparation, documentation, and adherence to established legal standards.
+
+## Get Involved
+
+We encourage individuals to stay informed, understand their rights, and pursue lawful avenues to protect themselves and their families.
+
+Freedom is preserved through vigilance.
+Justice is achieved through action. 

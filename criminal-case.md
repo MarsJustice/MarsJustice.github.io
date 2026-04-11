@@ -64,19 +64,19 @@ Applicable Law:
       <tr>
         <td><strong>A-3</strong></td>
         <td>Key Statements and Material Facts from Transcript and Audio Recording (Extortion of Money and Documents, Threats of Malicious Prosecution) – Hearing before Judge Stephen Lowney (02/07/2024)</td>
-        <td><a href="https://marsjustice.io/criminal-case/lowney-hearing-transcript-key-statements-2024-02-07.pdf" target="_blank" class="btn-download">Download PDF</a></td>
+        <td><a href="/criminal-case/lowney-hearing-key-statements-2024-02-07.pdf" target="_blank" class="btn-download">Download PDF</a></td>
       </tr>
 
       <tr>
         <td><strong>A-4</strong></td>
         <td>Transcript and Audio Recording – Hearing Before Judge Stephen Lowney (02/07/2024)</td>
-        <td><a href="https://marsjustice.io/criminal-case/lowney-hearing-transcript-2024-02-07.pdf" target="_blank" class="btn-download">Download PDF</a></td>
+        <td><a href="/criminal-case/lowney-hearing-transcript-2024-02-07.pdf" target="_blank" class="btn-download">Download PDF</a></td>
       </tr>
 
       <tr>
         <td><strong>A-5</strong></td>
         <td>Items Seized from Minor Child Max Mars During Arrest of Petitioner – Tesla Cybertruck with Donald Trump, “Warrior Kid” book by Jocko Willink, Donuts and Hot Chocolate - Denial of Freedom and Contact (06/14/2024)</td>
-        <td><a href="https://marsjustice.io/criminal-case/seized-items-cybertruck-2024-06-14.pdf" target="_blank" class="btn-download">Download PDF</a></td>
+        <td><a href="/criminal-case/seized-items-cybertruck-2024-06-14.pdf" target="_blank" class="btn-download">Download PDF</a></td>
       </tr>
 
       <tr>

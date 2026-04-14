@@ -15,12 +15,10 @@ All materials are provided for transparency, preservation of the record, and pub
 
 <!-- ==================== EVIDENCE BINDER TABLE OF CONTENTS ==================== -->
 
-<div class="evidence-binder-section">
-  <h1>CONSOLIDATED EVIDENCE BINDER - EXHIBIT A</h1>
-</div>
+  <h1>Evidence Binder</h1>
 
 <div class="evidence-binder-section">
-  <h2>SET 1 - FEDERAL FILINGS AND JURISDICTIONAL BASIS</h2>
+  <h2>Set 1 - Federal Filings and jurisdictional basis</h2>
 
   <table class="premium-table">
     <thead>
@@ -73,7 +71,7 @@ All materials are provided for transparency, preservation of the record, and pub
 </div>
 
 <div class="evidence-binder-section">
-  <h2>SET 2 - JUDICIAL DISQUALIFICATIONS AND VOID ORDERS</h2>
+  <h2>SET 2 - Judicial disqualifications and void orders</h2>
 
   <table class="premium-table">
     <thead>

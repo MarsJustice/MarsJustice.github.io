@@ -4,57 +4,99 @@ title: Federal Removal
 permalink: /federal-removal/
 ---
 
-# Overview
+# Federal Removal Package  
+**United States District Court – Western District of Texas, Austin Division**
 
-## Public Record for Transparency and Legal Protection
+This page presents the complete federal removal package and supporting evidence in support of the removal of five related Santa Clara County Superior Court matters, including Criminal Case B2402220, under 28 U.S.C. §§ 1441, 1443, 1455 and related federal statutes.
 
-This section contains materials related to federal removal proceedings, published in the interest of transparency, documentation, and preservation of the record.
+All materials are provided for transparency, preservation of the record, and public accountability.
 
-These materials reflect an ongoing legal matter concerning the international custody and well-being of my son, Max Mars, and the actions I have taken to seek lawful review and protection of my rights.
+---
 
-## Purpose of Publication
+<!-- ==================== EVIDENCE BINDER TABLE OF CONTENTS ==================== -->
 
-The public release of these materials serves several objectives:
+<div class="evidence-binder-section">
+  <h1>CONSOLIDATED EVIDENCE BINDER - EXHIBIT A</h1>
+</div>
 
-- To document the procedural history and legal actions taken
-- To preserve evidence and filings in a transparent and verifiable format
-- To ensure continuity of access to information in the event of disruption or restriction
-- To support accountability through lawful and documented processes
+<div class="evidence-binder-section">
+  <h2>SET 1 - FEDERAL FILINGS AND JURISDICTIONAL BASIS</h2>
 
-## Context
+  <table class="premium-table">
+    <thead>
+      <tr>
+        <th style="width: 10%;">Exhibit</th>
+        <th>Document</th>
+        <th style="width: 10%;">Download</th>
+      </tr>
+    </thead>
+    <tbody>
 
-This matter involves ongoing disputes related to custody, jurisdiction, and access, including allegations of:
+      <tr>
+        <td><strong>A-1</strong></td>
+        <td>Notice of Removal and Emergency TRO Motion</td>
+        <td><a href="/federal-removal/notice-of-removal-and-emergency-tro-motion.pdf" target="_blank" class="btn-download">Download PDF</a></td>
+      </tr>
 
-- Interference with parental rights
-- Restrictions on communication and contact
-- Child trafficking outside the United States
-- Unlawful incarceration, fabrication of criminal record as the leverage of weaponisation of California courts with the purpose of extortion and racketeering
-- Actions taken under color of law affecting due process
+      <tr>
+        <td><strong>A-2</strong></td>
+        <td>Emergency Motion for Temporary Restraining Order</td>
+        <td><a href="/federal-removal/emergency-tro-motion.pdf" target="_blank" class="btn-download">Download PDF</a></td>
+      </tr>
 
-I have also documented evidence of malicious prosecution, arrests and injuries by criminals from Santa Clara Mafia Cartel in response to my continued legal efforts to rescue my son Max Mars.
+      <tr>
+        <td><strong>A-3</strong></td>
+        <td>Motion to Dismiss Criminal Case B2402220 with Prejudice</td>
+        <td><a href="/federal-removal/motion-to-dismiss-criminal-case.pdf" target="_blank" class="btn-download">Download PDF</a></td>
+      </tr>
 
-## Protective Intent
+      <tr>
+        <td><strong>A-4</strong></td>
+        <td>Civil RICO Complaint (18 U.S.C. §§ 1961–1968)</td>
+        <td><a href="/federal-removal/civil-rico-complaint.pdf" target="_blank" class="btn-download">Download PDF</a></td>
+      </tr>
 
-These materials are published, in part, to ensure that:
+      <tr>
+        <td><strong>A-5</strong></td>
+        <td>Civil Cover Sheet (JS-44)</td>
+        <td><a href="/federal-removal/civil-cover-sheet-js-44.pdf" target="_blank" class="btn-download">Download PDF</a></td>
+      </tr>
 
-- Relevant documentation remains accessible
-- Legal actions are recorded and traceable
-- Any escalation or procedural developments are supported by an established record
+      <tr>
+        <td><strong>A-6</strong></td>
+        <td>Authority Sheet - Federal & State Law</td>
+        <td><a href="/federal-removal/authority-sheet.pdf" target="_blank" class="btn-download">Download PDF</a></td>
+      </tr>
 
-This approach reflects a commitment to lawful, transparent, and structured resolution.
+    </tbody>
+  </table>
+</div>
 
-## Commitment to Due Process
+<div class="evidence-binder-section">
+  <h2>SET 2 - JUDICIAL DISQUALIFICATIONS AND VOID ORDERS</h2>
 
-All actions undertaken are guided by adherence to legal standards, procedural discipline, and respect for the rule of law.
+  <table class="premium-table">
+    <thead>
+      <tr>
+        <th style="width: 10%;">Exhibit</th>
+        <th>Document</th>
+        <th style="width: 10%;">Download</th>
+      </tr>
+    </thead>
+    <tbody>
 
-The objective remains clear: to secure lawful review, protect fundamental rights, and ensure appropriate resolution through established legal channels.
+      <tr>
+        <td><strong>A-7</strong></td>
+        <td>Notice of Removal and Emergency TRO Motion</td>
+        <td><a href="/federal-removal/notice-of-removal-and-emergency-tro-motion.pdf" target="_blank" class="btn-download">Download PDF</a></td>
+      </tr>
 
-## Ongoing Matter
 
-This case remains active.
+    </tbody>
+  </table>
+</div>
 
-Additional materials, updates, and supporting documentation will be published as appropriate.
-
+---
 
 # Federal Removal Package & Evidence
 

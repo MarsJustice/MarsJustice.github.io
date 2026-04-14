@@ -390,7 +390,7 @@ h1, h2, h3, h4, h5, h6 { font-family: "Montserrat", "Open Sans", Arial, sans-ser
 @media (max-width: 768px) { .btn-download, .btn-video { padding: 9px 16px; font-size: 0.9rem; } }
 .evidence-binder-section { max-width: 1280px; margin: 60px auto; padding: 40px 30px; background: #ffffff; border-radius: 16px; box-shadow: 0 15px 35px rgba(0, 0, 0, 0.07); font-family: 'Montserrat', system-ui, -apple-system, BlinkMacSystemFont, sans-serif; }
 
-.evidence-binder-section h2 { text-align: center; font-size: 1.85rem; font-weight: 600; color: #111827; margin-bottom: 8px; }
+.evidence-binder-section h2 { text-align: center; font-size: 1.85rem; font-weight: 400; color: #111827; margin-bottom: 8px; }
 
 .section-subtitle { text-align: center; margin-bottom: 30px; color: #374151; font-size: 1.05rem; }
 

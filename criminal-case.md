@@ -99,18 +99,24 @@ Applicable Law:
 
       <tr>
         <td><strong>B-9</strong></td>
-        <td>Additional Bench Warrant by Benjamin Williams and Arrest Warrant by Michael Clark (08/21/2024 – 10/23/2024)</td>
+        <td>Criminal Bench Warrant Issued by Judge Benjamin Williams During Hearing Despite Presence of Plaintiff and His Attorney On a Hearing (Aug. 21, 2024)</td>
         <td><a href="/criminal-case/williams-bench-warrant-2024-08-21.pdf" target="_blank" class="btn-download">Download PDF</a></td>
       </tr>
 
       <tr>
         <td><strong>B-10</strong></td>
-        <td>Sunnyvale Police Department – Denial of Access to Body Camera Recordings of Police Officers committed unlawful arrest (10/20/2024)</td>
-        <td><a href="/criminal-case/sunnyvale-police-bodycam-recordings-denial-2024-10-30.pdf" target="_blank" class="btn-download">Download PDF</a></td>
+        <td>Sunnyvale Police Department Response (Oct. 30, 2024) to Request for Evidence (Oct 21, 2024) - Denial of Access to  Body Camera Recordings of Police Officers who Committed Unlawful Arrest on June 14, 2024</td>
+        <td><a href="criminal-case/sunnyvale-police-bodycam-recordings-denial-2024-10-30.pdf" target="_blank" class="btn-download">Download PDF</a></td>
       </tr>
 
       <tr>
         <td><strong>B-11</strong></td>
+        <td>Arrest Warrant Issued by Judge Michael Clark (Oct. 23, 2024) In Response to  Plaintiff’s Request for Evidence (Oct 21, 2024) for Access to Body Camera Recordings of Police Officers who Committed Unlawful Arrest of Plaintiff on June 14, 2024</td>
+        <td><a href="/criminal-case/clark-arrest-warrant-2024-10-23.pdf" target="_blank" class="btn-download">Download PDF</a></td>
+      </tr>
+
+      <tr>
+        <td><strong>B-12</strong></td>
         <td>
           <strong>Video Recordings of Criminal Court Hearings before Judges Thomas Kuhnle and Benjamin Williams (August 2024)</strong><br><br>
           <strong>Key Procedural Violations:<br/>

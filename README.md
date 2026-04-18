@@ -1,12 +1,12 @@
-# Defending Freedom. Upholding the Rule of Law.
+# Freedom of humankind starts on Earth
 
 ## A strong nation begins with freedom.
 
-The principles that define the United States — liberty, due process, and equal protection under the law — must be preserved, protected, and enforced. True national strength is built on the assurance that every individual’s rights are respected without exception.
+The principles that define the United States - liberty, due process, and equal protection under the law — must be preserved, protected, and enforced. True national strength is built on the assurance that every individual’s rights are respected without exception.
 
 ## Our Position
 
-Every person — adult or child — is entitled to protection from unlawful detention, coercion, exploitation, and abuse of authority.
+Every person - adult or child  is entitled to protection from unlawful detention, coercion, exploitation, and abuse of authority.
 
 Mars Justice is dedicated to supporting individuals and families impacted by misconduct carried out under color of law, including:
 
@@ -31,9 +31,9 @@ We focus on:
 
 Mars Justice operates with discipline and precision:
 
-- Clarity — Objective understanding of each situation
-- Structure — Organized evidence and legal strategy
-- Action — Lawful, evidence-based pursuit of remedies
+- Clarity - Objective understanding of each situation
+- Structure - Organized evidence and legal strategy
+- Action - Lawful, evidence-based pursuit of remedies
 
 We emphasize preparation, documentation, and adherence to established legal standards.
 

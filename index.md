@@ -3,9 +3,9 @@ layout: default
 title: Mars Justice
 ---
 
-# Defending Civil Rights. Protecting Families. Upholding the Rule of Law.
+# Freedom of humankind starts on Earth
 
-## Freedom of humankind starts on Earth
+## Defending Civil Rights. Protecting Families. Upholding the Rule of Law.
 
 Every individual - adult or child - has the fundamental right to live free from unlawful detention, coercion, exploitation, and abuse of power. These rights are not optional; they are guaranteed by the Constitution and must be protected without exception.
 

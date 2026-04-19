@@ -66,6 +66,12 @@ All materials are provided for transparency, preservation of the record, and pub
         <td><a href="/federal-removal/authority-sheet.pdf" target="_blank" class="btn-download">Download PDF</a></td>
       </tr>
 
+      <tr>
+        <td><strong>[ X ]</strong></td>
+        <td>Application to Proceed In Forma Pauperis (AO 239) and Supporting Cover Letter</td>
+        <td><a href="/federal-removal/ao-239-fee-waiver-appication-and-supporting-exhibits.pdf" target="_blank" class="btn-download">Download PDF</a></td>
+      </tr>
+
     </tbody>
   </table>
 </div>

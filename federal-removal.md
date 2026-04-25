@@ -67,7 +67,7 @@ All materials are provided for transparency, preservation of the record, and pub
       </tr>
 
       <tr>
-        <td><strong>[ X ]</strong></td>
+        <td></td>
         <td>Application to Proceed In Forma Pauperis (AO 239) and Supporting Cover Letter</td>
         <td><a href="/federal-removal/ao-239-fee-waiver-appication-and-supporting-exhibits.pdf" target="_blank" class="btn-download">Download PDF</a></td>
       </tr>
@@ -184,33 +184,43 @@ All materials are provided for transparency, preservation of the record, and pub
       </tr>
       <tr>
         <td><strong>A-22</strong></td>
-        <td>Transcript and Audio Recording - Hearing before Judge Stephen Lowney (February 7, 2024)</td>
+        <td>Transcript of Hearing before Judge Lowney (February 7, 2024)</td>
         <td><a href="/federal-removal/lowney-hearing-transcript-2024-02-07.pdf" target="_blank" class="btn-download">Download PDF</a></td>
       </tr>
       <tr>
         <td><strong>A-23</strong></td>
+        <td>Audio Recording of Hearing before Judge Lowney (February 7, 2024)</td>
+        <td><a href="https://drive.google.com/file/d/1j_I9dPqKY-onw9XCMGevyoy-fqhy9SAu/preview" target="_blank" class="btn-video">View February 7, 2024<br>Audio Recording</a></td>
+      </tr>
+      <tr>
+        <td><strong>A-24</strong></td>
+        <td>Statement of Disqualification - Judge Stephen Lowney (Feb. 20, 2024)</td>
+        <td><a href="/federal-removal/lowney-disqualification-2024-02-20.pdf" target="_blank" class="btn-download">Download PDF</a></td>
+      </tr>
+      <tr>
+        <td><strong>A-25</strong></td>
         <td>Items Seized from Minor Child Max Mars During Arrest Jun 14, 2024</td>
         <td><a href="/federal-removal/seized-items-cybertruck-donald-trump-2024-06-14.pdf" target="_blank" class="btn-download">Download PDF</a></td>
       </tr>
       <tr>
-        <td><strong>A-24</strong></td>
+        <td><strong>A-26</strong></td>
         <td>Video recording of unlawful arrest by Officer Chase Martin (Badge #17209, Sunnyvale PD, CA)</td>
         <td><a href="https://drive.google.com/file/d/1O6yLk2-C_duS0uSko9erA9-ngP5xwnZ7/preview" target="_blank" class="btn-video">View June 14, 2024<br>Arrest Video</a></td>
       </tr>
       <tr>
-        <td><strong>A-25</strong></td>
-        <td>Bench Warrant by Judge Lowney Post-Disqualification (Jun 17, 2024)</td>
+        <td><strong>A-27</strong></td>
+        <td>Void ab initio Bench Warrant Issued by Judge Stephen Lowney After his Disqualification and Threats of Malicious Prosecution (Jun. 17, 2024)</td>
         <td><a href="/federal-removal/lowney-bench-warrant-2024-06-17.pdf" target="_blank" class="btn-download">Download PDF</a></td>
       </tr>
       <tr>
-        <td><strong>A-26</strong></td>
-        <td>Bench Warrant by Judge Williams, Denial of Hearing (Aug 21, 2024)</td>
+        <td><strong>A-28</strong></td>
+        <td>Criminal Bench Warrant Issued by Judge Benjamin Williams During Hearing Despite Presence of Plaintiff and His Attorney On a Hearing (Aug. 21, 2024)</td>
         <td><a href="/federal-removal/williams-bench-warrant-2024-08-21.pdf" target="_blank" class="btn-download">Download PDF</a></td>
       </tr>
       <tr>
-        <td><strong>A-27</strong></td>
+        <td><strong>A-29</strong></td>
         <td>
-          <strong>Video Recordings of Criminal Court Hearings before Judges Thomas Kuhnle and Benjamin Williams (August 2024)</strong><br><br>
+          <strong>Video Recordings of Criminal Court Hearings before Judges Kuhnle and Williams - Denial of Hearing (August 2024)</strong><br><br>
           <strong>Key Procedural Violations:<br/>
           </strong> Judge Williams denied the defendant and his attorney the opportunity to be heard on the merits of Criminal Case B2402220 and issued a bench warrant, despite both being present in open court and requesting a hearing and dismissal of the case.<br><br>
           This constitutes a violation of due process and denial of access to court.<br><br>
@@ -235,13 +245,13 @@ All materials are provided for transparency, preservation of the record, and pub
         </td>
       </tr>
       <tr>
-        <td><strong>A-28</strong></td>
-        <td>Sunnyvale Police Department Denial of Access to Police Officers Body Camera Recordings (October 30, 2024)</td>
+        <td><strong>A-30</strong></td>
+        <td>Sunnyvale Police Department Response (Oct. 30, 2024) to Request for Evidence (Oct 21, 2024) - Denial of Access to  Body Camera Recordings of Police Officers who Committed Unlawful Arrest on June 14, 2024</td>
         <td><a href="/federal-removal/sunnyvale-police-bodycam-recordings-denial-2024-10-30.pdf" target="_blank" class="btn-download">Download PDF</a></td>
       </tr>
       <tr>
-        <td><strong>A-29</strong></td>
-        <td>Arrest Warrant by Judge Clark (October 23, 2024)</td>
+        <td><strong>A-31</strong></td>
+        <td>Arrest Warrant Issued by Judge Michael Clark (Oct. 23, 2024) In Response to  Plaintiff’s Request for Evidence (Oct 21, 2024) for Access to Body Camera Recordings of Police Officers who Committed Unlawful Arrest of Plaintiff on June 14, 2024</td>
         <td><a href="/federal-removal/clark-arrest-warrant-2024-10-23.pdf" target="_blank" class="btn-download">Download PDF</a></td>
       </tr>
 
@@ -262,9 +272,14 @@ All materials are provided for transparency, preservation of the record, and pub
     </thead>
     <tbody>
     <tr>
-        <td><strong>A-30</strong></td>
-        <td>Multiple Custody Review Requests Filed with Santa Clara County Superior Court and Repeated Denials by Disqualified Judges Flint, Lowney, and Towery</td>
-        <td><a href="/federal-removal/motion-to-dismiss-criminal-case.pdf" target="_blank" class="btn-download">Download PDF</a></td>
+        <td><strong>A-32</strong></td>
+        <td><strong>Multiple Custody Review Requests and Repeated Denials by Disqualified Judges Flint, Lowney, and Towery</strong></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>Petitioner’s response to DVRO used for kidnapping of his son Max Mars - requesting to release his son from detention and prevent international abduction of Max Mars outside of the United States (2022-09-19)</td>
+        <td><a href="/federal-removal/dvro-response-request-to-release-max-mars-2022-09-19.pdf" target="_blank" class="btn-download">Download PDF</a></td>
       </tr>
     </tbody>
   </table>

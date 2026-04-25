@@ -1,10 +1,8 @@
 ---
 layout: default
-title: Criminal Case
+title: CRIMINAL CASE
 permalink: /criminal-case/
 ---
-
-# Criminal Case
 
 ## Overview
 

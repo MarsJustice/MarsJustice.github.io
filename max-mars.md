@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Max Mars
+title: MAX MARS
 permalink: /max-mars/
 ---
 

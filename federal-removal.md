@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Federal Removal
+title: FEDERAL REMOVAL
 permalink: /federal-removal/
 ---
 
-# Federal Removal Package  
+# FEDERAL REMOVAL PACKAGE 
 **United States District Court – Western District of Texas, Austin Division**
 
 This page presents the complete federal removal package and supporting evidence in support of the removal of five related Santa Clara County Superior Court matters, including Criminal Case B2402220, under 28 U.S.C. §§ 1441, 1443, 1455 and related federal statutes.
@@ -280,6 +280,11 @@ All materials are provided for transparency, preservation of the record, and pub
         <td></td>
         <td>Petitioner’s response to DVRO 2022 used for kidnapping of his son Max Mars - requesting to release his son from detention and prevent international abduction of Max Mars outside of the United States (2022-09-19)</td>
         <td><a href="/federal-removal/dvro-response-request-to-release-max-mars-2022-09-19.pdf" target="_blank" class="btn-download">Download PDF</a></td>
+      </tr>
+      <tr>
+        <td></td>
+        <td>Judge Andrea Flint denial of DVRO trial (2022), extortion of money and documents of abducted child Max Mars using detention of Max Mars without contact as leverage for extortion (2022-10-31)</td>
+        <td><a href="/federal-removal/flint-denial-dvro-trial-extortion-of-money-2022-10-31.pdf" target="_blank" class="btn-download">Download PDF</a></td>
       </tr>
     </tbody>
   </table>

@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Mars Justice
+title: MARS JUSTICE
 ---
 
-# Freedom of humankind starts on Earth
+# FREEDOM OF HUMANKIDN STARTS ON EARTH
 
 ## Defending Civil Rights. Protecting Families. Upholding the Rule of Law.
 

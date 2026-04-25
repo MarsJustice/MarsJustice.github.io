@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Mars Justice Book
+title: MARS JUSTICE BOOK
 permalink: /mars-justice-book/
 ---
 

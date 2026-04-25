@@ -330,16 +330,28 @@ a { color: #000000; text-decoration: underline; /* optional */ }
 a:hover, a:focus { color: #ff0030; /* darker red on hover for better contrast */ text-decoration: underline; /* optional */ }
 
 /* Make titles in the main content red */
-.main-content h1 { color: #000000; letter-spacing: 0.5px; /* optional */ }
+.main-content h1 { color: #000000; letter-spacing: 0.5px; }
 
 /* Optionally make all subheadings dark red */
 .main-content h2, .main-content h3 { color: #000000; }
 
-/* Apply Montserrat globally */
-body { font-family: "Montserrat", "Open Sans", Arial, sans-serif; }
+body { font-family: "Montserrat", system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; font-weight: 400; line-height: 1.65; }
 
 /* Optional: heavier weight for headings */
-h1, h2, h3, h4, h5, h6 { font-family: "Montserrat", "Open Sans", Arial, sans-serif; font-weight: 400; letter-spacing: 1px; /* optional for a modern look */ }
+h1, h2, h3, h4, h5, h6, .project-name, .main-content h1, .main-content h2, .main-content h3, .evidence-binder-section h2 { font-family: "Montserrat", system-ui, -apple-system, BlinkMacSystemFont, sans-serif; font-weight: 500; /* Medium looks great for titles */ letter-spacing: -0.02em; /* Nice modern tight tracking */ }
+
+/* Optional: Fine-tune specific heading weights */
+h1, .project-name { font-weight: 600; }
+
+h2 { font-weight: 500; }
+
+h3 { font-weight: 500; }
+
+/* Optional: Slightly lighter weight for long body text */
+p, li, .section-subtitle { font-weight: 400; }
+
+/* Make sure buttons and nav also respect the system */
+.btn-download, .btn-video, .page-header nav a { font-family: "Montserrat", system-ui, -apple-system, BlinkMacSystemFont, sans-serif; }
 
 /* Make nav links look like separate blocks */
 .page-header nav { display: flex; flex-wrap: wrap; /* allows wrapping to new lines */ justify-content: center; /* centers the tiles */ gap: 10px; /* spacing between tiles */ margin-top: 15px; }
@@ -398,9 +410,9 @@ h1, h2, h3, h4, h5, h6 { font-family: "Montserrat", "Open Sans", Arial, sans-ser
 
 .premium-table th { background: #000000; color: #ffffff; padding: 16px; text-align: left; font-weight: 600; }
 
-.premium-table td { padding: 16px; border-bottom: 1px solid #e2e8f0; vertical-align: top; font-family: 'Montserrat', system-ui, -apple-system, BlinkMacSystemFont, sans-serif; }
+.premium-table td { padding: 16px; border-bottom: 1px solid #e2e8f0; vertical-align: top; }
 
-.btn-download, .btn-video { display: inline-block; background: #000000; color: #ffffff; padding: 9px 18px; border-radius: 6px; text-decoration: none; font-weight: 600; font-size: 0.9rem; transition: all 0.2s; font-family: 'Montserrat', system-ui, -apple-system, BlinkMacSystemFont, sans-serif; font-weight: 600; }
+.btn-download, .btn-video { display: inline-block; background: #000000; color: #ffffff; padding: 9px 18px; border-radius: 6px; text-decoration: none; font-weight: 600; font-size: 0.9rem; transition: all 0.2s; font-weight: 600; }
 
 /* VERTICAL FULL-WIDTH VIDEO LAYOUT */
 .video-grid-vertical { display: flex; flex-direction: column; gap: 32px; margin-top: 30px; }

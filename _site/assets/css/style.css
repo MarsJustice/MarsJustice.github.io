@@ -414,7 +414,7 @@ p, li, .section-subtitle { font-weight: 400; }
 
 .btn-download, .btn-video { display: inline-block; background: #000000; color: #ffffff; padding: 9px 18px; border-radius: 6px; text-decoration: none; font-weight: 600; font-size: 0.9rem; transition: all 0.2s; font-weight: 600; }
 
-/* VERTICAL FULL-WIDTH VIDEO LAYOUT */
+/* Vertical video layout */
 .video-grid-vertical { display: flex; flex-direction: column; gap: 32px; margin-top: 30px; }
 
 .video-card-vertical { background: #f8fafc; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.05); }

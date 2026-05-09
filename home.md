@@ -1,4 +1,4 @@
 layout: page
-title: Mars Justice
+title: MARS JUSTICE
 permalink: /home/
 Home

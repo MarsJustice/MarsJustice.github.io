@@ -371,8 +371,6 @@ p, li, .section-subtitle { font-weight: 400; }
 .project-name { align-self: center; }
 
 /* Bottom 20% nav area */
-.header-nav { margin-top: auto; /* pushes nav to bottom of header */ margin: auto 20px 0; display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; }
-
 @media (max-width: 768px) { .page-header { grid-template-rows: 70% 30%; } }
 .header-slogan { max-width: 420px; width: 100%; height: auto; display: block; margin: 0 auto; }
 
@@ -393,7 +391,12 @@ p, li, .section-subtitle { font-weight: 400; }
 
 .project-name { margin: 0; padding: 0; line-height: 1.1; text-align: center; white-space: normal; word-break: break-word; max-width: 100%; flex-shrink: 0; }
 
-.header-nav { margin-top: auto; margin-bottom: 0.5rem; display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; max-width: 100%; }
+/* ====================== PREMIUM GLASS HEADER NAV ====================== */
+.header-nav { display: flex; flex-wrap: wrap; justify-content: center; gap: 14px; margin-top: 2.2rem; }
+
+.header-nav a { background: rgba(255, 255, 255, 0.08); backdrop-filter: blur(16px); -webkit-backdrop-filter: blur(16px); color: #ffffff; padding: 14px 28px; border-radius: 9999px; text-decoration: none; font-weight: 600; letter-spacing: 0.04em; border: 1px solid rgba(255, 255, 255, 0.16); transition: all 0.4s cubic-bezier(0.4, 0, 0.2, 1); box-shadow: 0 8px 25px rgba(0, 0, 0, 0.4); }
+
+.header-nav a:hover { background: rgba(255, 48, 80, 0.18); border-color: #ff0030; transform: translateY(-5px); box-shadow: 0 15px 35px rgba(255, 48, 80, 0.3); }
 
 @media (max-width: 768px) { .page-header { min-height: 320px; background-image: url("/assets/png/banner-mobile.png"); background-size: cover; background-position: center top; /* better for tall images */ }
   .page-header nav a { padding: 6px 12px; font-size: 0.8rem; } }

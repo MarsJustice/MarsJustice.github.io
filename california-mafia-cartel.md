@@ -10,7 +10,14 @@ California Mafia Cartel - organized criminal syndicate acting under color of law
 
 # California Mafia Cartel - Criminal Hierarchy:
 
-[![Map]({{ '/assets/png/california-judicial-mafia-cartel-map.png' | relative_url }})]({{ '/assets/png/california-judicial-mafia-cartel-map.png' | relative_url }})
+<!-- [![Diagram]({{ '/assets/png/california-mafia-cartel.png' | relative_url }})]({{ '/assets/png/california-mafia-cartel.png' | relative_url }}) -->
+
+<div class="glass-section" style="padding: 2rem; text-align: center;">
+  <img src="{{ '/assets/png/california-mafia-cartel.png' | relative_url }}" 
+       alt="California Judicial Mafia Cartel" 
+       class="diagram-image"
+       style="cursor: zoom-in;">
+</div>
 
 This is just a tip of the iceberg - focused on Santa Clara Mafia Cartel, part of California Judicial Mafia Cartel nested in San Jose, Santa Clara County.  
 Similar structure and patterns of racketeering are well established and documented in many counties of California, including San Francisco, Marin County and others.
@@ -56,6 +63,39 @@ Disqualified child trafficker Stephen Lowney directly threatened me by unlawful 
     allowfullscreen>
   </iframe>
 </div>
+
+<!-- Fullscreen Lightbox -->
+<div id="lightbox" class="lightbox">
+  <img id="lightbox-image" src="" alt="">
+</div>
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  const lightbox = document.getElementById('lightbox');
+  const lightboxImg = document.getElementById('lightbox-image');
+
+  // Make all images with class "diagram-image" clickable
+  document.querySelectorAll('.diagram-image').forEach(img => {
+    img.addEventListener('click', function() {
+      lightboxImg.src = this.src;
+      lightbox.classList.add('active');
+    });
+  });
+
+  // Close lightbox when clicking outside the image or pressing ESC
+  lightbox.addEventListener('click', function(e) {
+    if (e.target === lightbox) {
+      lightbox.classList.remove('active');
+    }
+  });
+
+  document.addEventListener('keydown', function(e) {
+    if (e.key === "Escape") {
+      lightbox.classList.remove('active');
+    }
+  });
+});
+</script>
 
 
 

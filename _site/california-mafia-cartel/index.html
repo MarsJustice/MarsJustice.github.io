@@ -83,7 +83,11 @@
 
 <h1 id="california-mafia-cartel---criminal-hierarchy">California Mafia Cartel - Criminal Hierarchy:</h1>
 
-<p><a href="/assets/png/california-judicial-mafia-cartel-map.png"><img src="/assets/png/california-judicial-mafia-cartel-map.png" alt="Map" /></a></p>
+<!-- [![Diagram](/assets/png/california-mafia-cartel.png)](/assets/png/california-mafia-cartel.png) -->
+
+<div class="glass-section" style="padding: 2rem; text-align: center;">
+  <img src="/assets/png/california-mafia-cartel.png" alt="California Judicial Mafia Cartel" class="diagram-image" style="cursor: zoom-in;" />
+</div>
 
 <p>This is just a tip of the iceberg - focused on Santa Clara Mafia Cartel, part of California Judicial Mafia Cartel nested in San Jose, Santa Clara County.<br />
 Similar structure and patterns of racketeering are well established and documented in many counties of California, including San Francisco, Marin County and others.</p>
@@ -120,6 +124,39 @@ While I disqualified three bribed judges - child traffickers Stephen Lowney, And
   <iframe src="https://drive.google.com/file/d/1YKpbX-Hw9vpJO1YvnelR_NEmyAzAz_CF/preview" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" frameborder="0" allowfullscreen="">
   </iframe>
 </div>
+
+<!-- Fullscreen Lightbox -->
+<div id="lightbox" class="lightbox">
+  <img id="lightbox-image" src="" alt="" />
+</div>
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  const lightbox = document.getElementById('lightbox');
+  const lightboxImg = document.getElementById('lightbox-image');
+
+  // Make all images with class "diagram-image" clickable
+  document.querySelectorAll('.diagram-image').forEach(img => {
+    img.addEventListener('click', function() {
+      lightboxImg.src = this.src;
+      lightbox.classList.add('active');
+    });
+  });
+
+  // Close lightbox when clicking outside the image or pressing ESC
+  lightbox.addEventListener('click', function(e) {
+    if (e.target === lightbox) {
+      lightbox.classList.remove('active');
+    }
+  });
+
+  document.addEventListener('keydown', function(e) {
+    if (e.key === "Escape") {
+      lightbox.classList.remove('active');
+    }
+  });
+});
+</script>
 
 
 

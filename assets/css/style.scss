@@ -629,3 +629,124 @@ hr,
   font-size: 0.95rem;
   border-top: 1px solid rgba(255,255,255,0.09);
 }
+
+/* ====================== PREMIUM GLASS VIDEO CARDS ====================== */
+.video-grid-vertical {
+  display: flex;
+  flex-direction: column;
+  gap: 32px;
+  margin-top: 2rem;
+}
+
+.video-card-vertical {
+  background: linear-gradient(180deg, 
+    rgba(255, 255, 255, 0.07), 
+    rgba(0, 0, 0, 0.32));
+  border: 1px solid rgba(255, 255, 255, 0.14);
+  border-radius: 22px;
+  overflow: hidden;
+  box-shadow: 0 22px 70px rgba(0, 0, 0, 0.55);
+  backdrop-filter: blur(16px);
+  transition: all 0.45s cubic-bezier(0.4, 0, 0.2, 1);
+  position: relative;
+}
+
+/* Hover - Elite lift effect */
+.video-card-vertical:hover {
+  transform: translateY(-12px);
+  border-color: rgba(160, 184, 255, 0.4);
+  box-shadow: 0 35px 80px rgba(0, 0, 0, 0.65);
+}
+
+/* Glass Video Header */
+.video-header {
+  background: rgba(255, 255, 255, 0.08);
+  color: #ffffff;
+  padding: 18px 24px;
+  font-size: 1.05rem;
+  font-weight: 500;
+  letter-spacing: 0.02em;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.12);
+  backdrop-filter: blur(12px);
+}
+
+/* Video Container */
+.video-container-vertical {
+  position: relative;
+  padding-bottom: 56.25%; /* 16:9 aspect ratio */
+  height: 0;
+  overflow: hidden;
+  background: #0a0a0a;
+  border-top: 1px solid rgba(255,255,255,0.06);
+}
+
+.video-container-vertical iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  border: none;
+}
+
+/* Optional: Subtle inner glow on hover */
+.video-card-vertical:hover .video-header {
+  background: rgba(255, 255, 255, 0.12);
+  border-color: rgba(160, 184, 255, 0.4);
+}
+
+/* ====================== PREMIUM GLASS PDF PREVIEW CARDS ====================== */
+.pdf-preview-card {
+  background: linear-gradient(180deg, 
+    rgba(255, 255, 255, 0.07), 
+    rgba(0, 0, 0, 0.32));
+  border: 1px solid rgba(255, 255, 255, 0.14);
+  border-radius: 22px;
+  overflow: hidden;
+  box-shadow: 0 22px 70px rgba(0, 0, 0, 0.55);
+  backdrop-filter: blur(16px);
+  margin: 2.5rem 0;
+  transition: all 0.45s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.pdf-preview-card:hover {
+  transform: translateY(-10px);
+  border-color: rgba(160, 184, 255, 0.4);
+  box-shadow: 0 35px 80px rgba(0, 0, 0, 0.65);
+}
+
+/* Glass Header */
+.pdf-preview-header {
+  background: rgba(255, 255, 255, 0.08);
+  color: #ffffff;
+  padding: 18px 24px;
+  font-size: 1.1rem;
+  font-weight: 500;
+  letter-spacing: 0.02em;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.12);
+  backdrop-filter: blur(12px);
+}
+
+/* PDF Container */
+.pdf-preview-container {
+  position: relative;
+  height: 920px;           /* Adjust as needed */
+  background: #0a0a0a;
+  border-top: 1px solid rgba(255,255,255,0.06);
+  overflow: hidden;
+}
+
+.pdf-preview-container iframe {
+  width: 100%;
+  height: 100%;
+  border: none;
+  display: block;
+}
+
+/* Download button area */
+.pdf-download-area {
+  padding: 20px;
+  text-align: center;
+  background: rgba(0, 0, 0, 0.3);
+  border-top: 1px solid rgba(255,255,255,0.08);
+}

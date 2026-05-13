@@ -29,7 +29,7 @@ Applicable Law:
 
 **This matter remains active.** Additional materials and updates will be added as the proceedings progress.
 
----
+<div class="thin-divider"></div>
 
 <!-- ==================== EVIDENCE BINDER TABLE OF CONTENTS ==================== -->
 
@@ -209,40 +209,54 @@ Applicable Law:
   </div>
 </div>
 
----
+<div class="thin-divider"></div>
 
 <!-- ==================== MOTION TO DISMISS ==================== -->
 <div class="evidence-binder-section">
 <h1>Pleadings</h1>
   <p></p>
 
-  <h2>Motion to Dismiss Criminal Case</h2>
-  <iframe src="/criminal-case/motion-to-dismiss-criminal-case.pdf#toolbar=0&navpanes=0&view=FitH" 
+  <!-- Motion to Dismiss Card -->
+  <div class="pdf-preview-card">
+    <div class="pdf-preview-header">
+      Motion to Dismiss Criminal Case B2402220 with Prejudice
+    </div>
+    <div class="pdf-preview-container">
+     <iframe src="/criminal-case/motion-to-dismiss-criminal-case.pdf#toolbar=0&navpanes=0&view=FitH" 
         width="100%" 
         height="1000px" 
         style="border: none;"
         scrolling="yes"
         loading="lazy">
   </iframe>
-
-  <p style="text-align: center; margin-top: 10px;">
-    <a href="/criminal-case/motion-to-dismiss-criminal-case.pdf" target="_blank" class="btn-download">↓ Download PDF</a>
-  </p>
+    </div>
+    <div class="pdf-download-area">
+      <a href="/criminal-case/motion-to-dismiss-criminal-case.pdf" 
+         target="_blank" 
+         class="btn-download">↓ Download Full PDF</a>
+    </div>
+  </div>
 
 <p></p>
 
-<!-- ==================== EVIDENCE BINDER ==================== -->
-  <h2> Evidence Binder for Motion to Dismiss</h2>
-
-<iframe src="/criminal-case/criminal-evidence-binder.pdf#toolbar=0&navpanes=0&view=FitH" 
+<!-- Evidence Binder Card -->
+  <div class="pdf-preview-card">
+    <div class="pdf-preview-header">
+      Evidence Binder for Motion to Dismiss
+    </div>
+    <div class="pdf-preview-container">
+      <iframe src="/criminal-case/criminal-evidence-binder.pdf#toolbar=0&navpanes=0&view=FitH" 
         width="100%" 
         height="1000px" 
         style="border: none;"
         scrolling="yes"
         loading="lazy">
-</iframe>
-
-<p style="text-align: center; margin-top: 10px;">
-  <a href="/criminal-case/criminal-evidence-binder.pdf" target="_blank" class="btn-download">↓ Download PDF</a>
-</p>
+      </iframe>
+    </div>
+    <div class="pdf-download-area">
+      <a href="/criminal-case/criminal-evidence-binder.pdf" 
+         target="_blank" 
+         class="btn-download">↓ Download Full PDF</a>
+    </div>
+  </div>
 </div>

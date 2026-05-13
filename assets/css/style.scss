@@ -850,3 +850,31 @@ hr,
     display: none;   /* Hide header, use labels inside cells if needed */
   }
 }
+
+
+/* ====================== HERO TITLE SPACING FIX ====================== */
+.project-name,
+.main-content h1:first-child {
+  max-width: 920px;
+  margin: 0 auto;
+  padding: 0 2rem;                    /* Good desktop spacing */
+  box-sizing: border-box;
+}
+
+/* Mobile consistency with glass cards */
+@media (max-width: 768px) {
+  .project-name,
+  .main-content h1:first-child {
+    padding: 0 1.8rem;                /* Matches glass hero padding */
+    margin: 0 auto;
+    font-size: clamp(2.2rem, 6.5vw, 3rem);
+  }
+}
+
+/* Extra safety for very small screens */
+@media (max-width: 480px) {
+  .project-name,
+  .main-content h1:first-child {
+    padding: 0 1.4rem;
+  }
+}

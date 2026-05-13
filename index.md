@@ -3,7 +3,9 @@ layout: default
 title: MARS JUSTICE
 ---
 
-# FREEDOM OF HUMANKIND STARTS ON EARTH
+<div class="glass-hero">
+  <h1 class="project-name">FREEDOM OF HUMANKIND STARTS ON EARTH</h1>
+</div>
 
 <div class="glass-section">
   <h2>Defending Civil Rights. Protecting Families. Upholding the Rule of Law.</h2>

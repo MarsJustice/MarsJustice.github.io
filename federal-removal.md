@@ -11,7 +11,7 @@ This page presents the complete federal removal package and supporting evidence 
 
 All materials are provided for transparency, preservation of the record, and public accountability.
 
----
+<div class="thin-divider"></div>
 
 <!-- ==================== EVIDENCE BINDER TABLE OF CONTENTS ==================== -->
 

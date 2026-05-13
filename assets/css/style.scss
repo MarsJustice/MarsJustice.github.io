@@ -329,3 +329,157 @@ p, li, .section-subtitle {
     height: 100%;
     border: none;
   }
+
+  /* ====================== CONTENT SECTIONS ====================== */
+.glass-section {
+  background: rgba(255, 255, 255, 0.06);
+  backdrop-filter: blur(20px);
+  -webkit-backdrop-filter: blur(20px);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  border-radius: 24px;
+  padding: 3rem 3.5rem;
+  margin: 3rem auto;
+  box-shadow: 0 20px 40px rgba(0,0,0,0.4);
+  max-width: 1000px;
+  transition: all 0.4s ease;
+}
+
+.glass-section:hover {
+  transform: translateY(-8px);
+  border-color: rgba(160, 184, 255, 0.4);
+}
+
+.glass-section h2 {
+  font-size: 2.2rem;
+  font-weight: 600;
+  letter-spacing: -0.02em;
+  color: #ffffff;
+  margin-bottom: 1.5rem;
+  text-align: center;
+}
+
+.glass-section h1, .glass-section h3 {
+  color: #ff0030;
+}
+
+/* Lists */
+.glass-section ul {
+  list-style: none;
+  padding: 0;
+}
+
+.glass-section li {
+  padding: 12px 0;
+  border-bottom: 1px solid rgba(255,255,255,0.08);
+  position: relative;
+  padding-left: 1.8rem;
+}
+
+.glass-section li:before {
+  content: "→";
+  position: absolute;
+  left: 0;
+  color: #ff0030;
+  font-weight: bold;
+}
+
+/* Call to Action */
+.stand-for-freedom {
+  text-align: center;
+  font-size: 1.4rem;
+  margin: 4rem 0 2rem;
+  font-weight: 500;
+}
+
+/* Resources at bottom */
+.resources {
+  text-align: center;
+  margin-top: 4rem;
+}
+
+.resources a {
+  color: #ffffff;
+  margin: 0 12px;
+  text-decoration: none; /* optional */
+}
+
+.resources a:hover,
+.resources a:focus {
+  color: #ff0030; /* darker red on hover for better contrast */
+  text-decoration: underline; /* optional */
+}
+
+/* Mobile adjustments */
+@media (max-width: 768px) {
+  .glass-hero { padding: 2.5rem 2rem; }
+  .glass-section { padding: 2rem 1.5rem; margin: 2rem 1rem; }
+}
+
+/* ====================== FLOATING ANIMATED EARTH BACKGROUND ====================== */
+.earth-bg {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: -1;
+  overflow: hidden;
+  background: linear-gradient(rgba(10, 15, 35, 0.75), rgba(5, 8, 25, 0.85)), 
+              url('/assets/png/earth-horizon.png') center/cover no-repeat;
+  
+  /* Floating + Slow Zoom Animation */
+  animation: earthFloat 35s ease-in-out infinite alternate;
+  transform-origin: center center;
+}
+
+/* The Magic Animation */
+@keyframes earthFloat {
+  0% {
+    transform: scale(1.05) translateY(0px);
+  }
+  100% {
+    transform: scale(1.18) translateY(-30px);   /* gentle floating upward + zoom */
+  }
+}
+
+/* Optional: Very subtle slow pan for extra depth */
+.earth-bg::after {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background: inherit;
+  background-size: cover;
+  animation: earthPan 80s linear infinite;
+  opacity: 0.6;
+}
+
+@keyframes earthPan {
+  0%   { background-position: 45% 50%; }
+  100% { background-position: 55% 50%; }
+}
+
+.earth-bg {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: -1;
+  background: 
+    linear-gradient(rgba(8, 12, 30, 0.78), rgba(3, 6, 22, 0.88)), 
+    url('/assets/png/earth-horizon.png') center/cover no-repeat;
+  
+  background-attachment: fixed;
+  animation: earthFloat 48s ease-in-out infinite alternate;
+  transform-origin: center center;
+}
+
+@keyframes earthFloat {
+  0%   { transform: scale(1.02) translateY(0); }
+  100% { transform: scale(1.12) translateY(-25px); }
+}
+
+/* Darker overlay on pages that are not the homepage */
+// body:not(.home) .earth-bg {
+//   filter: brightness(0.75) contrast(1.1);
+// }

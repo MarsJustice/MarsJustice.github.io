@@ -934,17 +934,17 @@ hr,
   display: flex;
 }
 
-@media (max-width: 768px) {
-  .glass-section:has(.diagram-image) {
-    padding: 0;
-    background: transparent;
-    border: none;
-    box-shadow: none;
-    margin: 1rem 0;
-  }
+// @media (max-width: 768px) {
+//   .glass-section:has(.diagram-image) {
+//     padding: 0;
+//     background: transparent;
+//     border: none;
+//     box-shadow: none;
+//     margin: 1rem 0;
+//   }
 
-  .diagram-image {
-    border-radius: 18px;
-    width: 100%;
-  }
-}
+//   .diagram-image {
+//     border-radius: 18px;
+//     width: 100%;
+//   }
+// }

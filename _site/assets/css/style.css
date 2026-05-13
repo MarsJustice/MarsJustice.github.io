@@ -503,3 +503,5 @@ hr, .evidence-divider { border: none; height: 1px; /* Ultra thin */ background: 
 
 /* Optional: Even more subtle version */
 .thin-divider { height: 1px; background: rgba(255, 255, 255, 0.18); margin: 2.8rem auto 3.2rem; max-width: 520px; border: none; }
+
+.site-footer { text-align: center; padding: 2.5rem 1rem 2rem; color: rgba(255, 255, 255, 0.65); font-size: 0.95rem; border-top: 1px solid rgba(255, 255, 255, 0.09); }

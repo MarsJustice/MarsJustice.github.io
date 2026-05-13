@@ -578,3 +578,6 @@ hr, .evidence-divider { border: none; height: 1px; /* Ultra thin */ background: 
 .lightbox img { max-width: 95%; max-height: 95vh; border-radius: 12px; box-shadow: 0 30px 80px rgba(0, 0, 0, 0.9); border: 1px solid rgba(255, 255, 255, 0.15); }
 
 .lightbox.active { display: flex; }
+
+@media (max-width: 768px) { .glass-section:has(.diagram-image) { padding: 0; background: transparent; border: none; box-shadow: none; margin: 1rem 0; }
+  .diagram-image { border-radius: 18px; width: 100%; } }

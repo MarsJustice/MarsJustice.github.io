@@ -4,7 +4,21 @@ title: MAX MARS
 permalink: /max-mars/
 ---
 
-# Kidnapping and trafficking outside United States
+# Kidnapping, using as leverage for extortion, trafficking from United States to war zone in Ukraine
+
+<div class="glass-section" style="padding: 2rem; text-align: center;">
+  <img src="{{ '/assets/png/max-mars.png' | relative_url }}" 
+       alt="Child Traffickers" 
+       class="diagram-image"
+       style="cursor: zoom-in;">
+</div>
+
+<div class="glass-section" style="padding: 2rem; text-align: center;">
+  <img src="{{ '/assets/png/child-traffickers.png' | relative_url }}" 
+       alt="Child Traffickers" 
+       class="diagram-image"
+       style="cursor: zoom-in;">
+</div>
 
 In 2022, my son Max Mars was kidnapped from school, locked up hostage without right for a phone call, and trafficked outside United States against my will and against family law.
 
@@ -68,3 +82,36 @@ This effort is grounded in persistence, legal discipline, and adherence to due p
 This case remains active.
 
 Further updates, documentation, and structured evidence will be presented through appropriate legal and public channels.
+
+<!-- Fullscreen Lightbox -->
+<div id="lightbox" class="lightbox">
+  <img id="lightbox-image" src="" alt="">
+</div>
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  const lightbox = document.getElementById('lightbox');
+  const lightboxImg = document.getElementById('lightbox-image');
+
+  // Make all images with class "diagram-image" clickable
+  document.querySelectorAll('.diagram-image').forEach(img => {
+    img.addEventListener('click', function() {
+      lightboxImg.src = this.src;
+      lightbox.classList.add('active');
+    });
+  });
+
+  // Close lightbox when clicking outside the image or pressing ESC
+  lightbox.addEventListener('click', function(e) {
+    if (e.target === lightbox) {
+      lightbox.classList.remove('active');
+    }
+  });
+
+  document.addEventListener('keydown', function(e) {
+    if (e.key === "Escape") {
+      lightbox.classList.remove('active');
+    }
+  });
+});
+</script>

@@ -4,7 +4,7 @@ title: MAX MARS
 permalink: /max-mars/
 ---
 
-# Kidnapping, using as leverage for extortion of money, trafficking from United States to war zone in Ukraine
+# Kidnapping, using as the leverage for extortion of money, trafficking from United States to war zone in Ukraine
 
 <div class="glass-section" style="padding: 2rem; text-align: center;">
   <img src="{{ '/assets/png/max-mars.png' | relative_url }}" 
@@ -28,9 +28,9 @@ Ukrainian criminal cartel "Kodlo Gondona", led by Serhii "Gondon" Nahornyy (fath
 
 They trafficked my son Max Mars internationally outside the United States to a war zone in Ukraine,  placed Max in the custody of Ukrainian criminal Serhii "Gondon" Nahornyy (formally - in custody of his daughter "Gnyda" / Hanna Mars), and are detaining my son hostage without right for a phone call since the moment of kidnapping.
 
-Since the moment of kidnapping, my son Max Mars is detained hostage without right for a phone call, without access to phone and internet, has all chats and messengers blocked. Max was beaten on his birthday by Gnyda / Hanna Mars (daughter of Ukrainian criminal Serhii "Gondon" Nahornyy) for talking to me, his father. 
+Since the moment of kidnapping, my son Max Mars is detained hostage without right for a phone call, without access to phone and internet, has all chats and messengers blocked. Max was beaten on his birthday by "Gnyda" / Hanna Mars (daughter of Ukrainian criminal Serhii "Gondon" Nahornyy) for talking to me, his father. 
 
-In 2025, on Max's 10th Birthday Anniversary, Ukrainian kidnappers denied me not only visit, but even a phone call with my son (the same as they do all the time since the moment of kidnapping).
+In 2025, on Max's 10th Birthday Anniversary, kidnappers denied me not only visit, but even a phone call with my son (the same as they do all the time since the moment of kidnapping).
 
 All criminal associates of Serhii "Gondon" Nahornyy and Ivan "Pedofile" Omelchenko, including their family members and friends, refuse to communicate or comment situation since the moment of aggravated kidnapping of my son Max Mars.
 
@@ -90,9 +90,7 @@ All filings assert the international abduction, unlawful detention, and demand f
 
 Max Mars must be released immediately from unlawful detention in Ukraine and returned home to the United States into my custody.
 
-No parent should have their child kidnapped, trafficked across borders into a war zone, beaten for attempting contact with father, and held hostage usage as the leverage for extortion and racketeering — all facilitated and protected by organized international criminal enterprise.
-
-This is not a custody dispute.
+No parent should have their child kidnapped, trafficked across borders into a war zone, beaten for attempting contact with father, and held hostage usage as the leverage for extortion and racketeering - all facilitated and protected by organized international criminal enterprise.
 
 This is aggravated kidnapping, child trafficking outside United States, extortion, and racketeering enabled by organized international criminal enterprise entrenched in California judicial system.
 
@@ -114,7 +112,7 @@ Max Mars is my son. I will not stop until Max is free and home.
 
 Mars Justice continues pursuing all lawful remedies — federal, international, and public — to achieve Max Mars release and complete restoration of Max's freedom and healthy parenting.
 
--
+<div class="thin-divider"></div>
 
 For full evidence, RICO filings, court documents, audio recordings, and the complete evidence package, refer to the resources and Federal Removal sections on this site.
 

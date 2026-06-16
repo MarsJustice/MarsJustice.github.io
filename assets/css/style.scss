@@ -1060,3 +1060,188 @@ hr,
   color: #ff0030;
   text-decoration: underline;
 }
+
+/* ==================== COMPACT STICKY TOC ==================== */
+.sticky-toc-wrapper {
+  position: fixed;
+  top: 90px;
+  right: 20px;
+  width: 230px;
+  z-index: 999;
+  display: none;
+}
+
+@media (min-width: 1200px) {
+  .sticky-toc-wrapper {
+    display: block;
+  }
+}
+
+.sticky-toc {
+  background: rgba(15, 23, 42, 0.92);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  border-radius: 14px;
+  box-shadow: 0 8px 30px rgba(0, 0, 0, 0.35);
+  backdrop-filter: blur(12px);
+  overflow: hidden;
+}
+
+.sticky-toc-header {
+  background: #0f172a;
+  padding: 12px 16px;
+  font-weight: 600;
+  color: #e2e8f0;
+  font-size: 0.9rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.toc-close-btn {
+  background: none;
+  border: none;
+  color: #64748b;
+  font-size: 1.3rem;
+  cursor: pointer;
+  line-height: 1;
+}
+
+.sticky-toc-nav {
+  max-height: 60vh;
+  overflow-y: auto;
+  padding: 12px 8px;
+}
+
+.sticky-toc-nav a.toc-link {
+  display: block;
+  padding: 7px 12px;
+  color: #cbd5e1;
+  font-size: 0.875rem;
+  text-decoration: none;
+  border-radius: 8px;
+  margin: 2px 0;
+  transition: all 0.2s ease;
+}
+
+.sticky-toc-nav a.toc-link:hover {
+  background: rgba(255, 255, 255, 0.06);
+  color: #ffffff;
+}
+
+/* Active section highlighting */
+.sticky-toc-nav a.toc-link.active {
+  background: rgba(255, 0, 48, 0.12);
+  color: #ff0030;
+  font-weight: 600;
+  border-left: 3px solid #ff0030;
+  padding-left: 9px;
+}
+
+.toc-divider {
+  height: 1px;
+  background: rgba(255, 255, 255, 0.08);
+  margin: 10px 8px;
+}
+
+.sticky-toc-footer {
+  padding: 10px 16px;
+  background: rgba(15, 23, 42, 0.6);
+  text-align: center;
+  border-top: 1px solid rgba(255,255,255,0.08);
+}
+
+.back-to-top {
+  color: #94a3b8;
+  font-size: 0.8rem;
+  text-decoration: none;
+}
+
+.back-to-top:hover {
+  color: #ff0030;
+}
+
+/* Floating mobile button */
+.floating-toc-btn {
+  position: fixed;
+  bottom: 28px;
+  right: 24px;
+  background: #0f172a;
+  color: #fff;
+  border: 1px solid rgba(255,255,255,0.2);
+  padding: 11px 15px;
+  border-radius: 50px;
+  font-size: 1rem;
+  box-shadow: 0 6px 20px rgba(0,0,0,0.3);
+  z-index: 1000;
+  cursor: pointer;
+}
+
+@media (min-width: 1200px) {
+  .floating-toc-btn {
+    display: none;
+  }
+}
+
+/* ==================== NON-STICKY TABLE OF CONTENTS ==================== */
+.toc-section {
+  max-width: 1100px;
+  margin: 2rem auto;
+}
+
+.toc-section h2 {
+  text-align: center;
+  margin-bottom: 1.5rem;
+  color: #ffffff;
+}
+
+.toc-nav {
+  background: rgba(255, 255, 255, 0.03);
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  border-radius: 16px;
+  padding: 2rem;
+}
+
+.toc-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  gap: 2rem;
+}
+
+.toc-group h4 {
+  color: #ffffff;
+  font-size: 1rem;
+  margin-bottom: 0.75rem;
+  font-weight: 600;
+  letter-spacing: 0.5px;
+}
+
+.toc-group a {
+  display: block;
+  color: #e0e0e0;
+  text-decoration: none;
+  padding: 6px 0;
+  font-size: 0.95rem;
+  transition: all 0.2s ease;
+  border-bottom: 1px solid rgba(255,255,255,0.05);
+}
+
+.toc-group a:last-child {
+  border-bottom: none;
+}
+
+.toc-group a:hover {
+  color: #ff0030;
+  padding-left: 8px;
+}
+
+/* Mobile optimization */
+@media (max-width: 768px) {
+  .toc-grid {
+    grid-template-columns: 1fr;
+    gap: 1.5rem;
+  }
+  
+  .toc-nav {
+    padding: 1.5rem;
+  }
+}

@@ -17,54 +17,40 @@ All materials are provided for transparency, preservation of the record, and pub
 </div>
 
 <!-- ==================== TABLE OF CONTENTS ==================== -->
-
-<!-- ==================== TABLE OF CONTENTS ==================== -->
-
-<div class="evidence-binder-section">
+<div class="evidence-binder-section toc-section">
   <h2>Table of Contents</h2>
   
-  <div class="toc-grid">
-    <div class="toc-column">
-      <h4>Federal Removal Packages</h4>
-      <ul class="toc-list">
-        <li><a href="#federal-removal-package-texas">Federal Removal Package - Texas</a></li>
-        <li><a href="#federal-removal-package-california">Federal Removal Package - California</a></li>
-      </ul>
+  <nav class="toc-nav">
+    <div class="toc-grid">
 
-      <h4>Evidence Binder</h4>
-      <ul class="toc-list">
-        <li><a href="#set-1">Set 1 — Federal Filings and Jurisdictional Basis</a></li>
-        <li><a href="#set-2">Set 2 — Judicial Disqualifications and Void Orders</a></li>
-        <li><a href="#set-3">Set 3 — Criminal Case B2402220 - Dismissal Evidence</a></li>
-        <li><a href="#set-4">Set 4 — Custody Restoration &amp; Denial of Parental Rights</a></li>
-        <li><a href="#set-5">Set 5 — Financial Extortion &amp; DCSS Garnishment</a></li>
-        <li><a href="#set-6">Set 6 — Pattern of Racketeering and State-Level Cover-Up</a></li>
-        <li><a href="#set-7">Set 7 — Video &amp; Audio Evidence</a></li>
-        <li><a href="#set-8">Set 8 — Service, Chain of Custody &amp; Authentication</a></li>
-      </ul>
+      <!-- Main Packages -->
+      <div class="toc-group">
+        <h4>Federal Removal Packages</h4>
+        <a href="#federal-removal-package-texas">Federal Removal - Texas</a>
+        <a href="#federal-removal-package-california">Federal Removal - California</a>
+      </div>
+
+      <!-- Evidence Sets -->
+      <div class="toc-group">
+        <h4>Evidence Binder</h4>
+        <a href="#set-1">Set 1 — Federal Filings</a>
+        <a href="#set-2">Set 2 — Judicial Disqualifications</a>
+        <a href="#set-3">Set 3 — Criminal Case</a>
+        <a href="#set-4">Set 4 — Custody Restoration</a>
+        <a href="#set-5">Set 5 — Financial Extortion</a>
+        <a href="#set-6">Set 6 — Racketeering Pattern</a>
+        <a href="#set-7">Set 7 — Video Evidence</a>
+        <a href="#set-8">Set 8 — Authentication</a>
+      </div>
+
     </div>
-
-    <div class="toc-column">
-      <h4>Evidence Archive</h4>
-      <ul class="toc-list">
-        <li><a href="#video-evidence-archive">Video Evidence Archive</a></li>
-        <li><a href="#orders-post-dq">Orders Issued Post-Disqualification (Void Orders)</a></li>
-        <li><a href="#denial-orders">Denial Orders (Recusal, Custody Review, DVRO Trial)</a></li>
-      </ul>
-
-      <h4>Quick Navigation</h4>
-      <ul class="toc-list">
-        <li><a href="#evidence-binder">Back to Evidence Binder</a></li>
-        <li><a href="#evidence-archive">Back to Evidence Archive</a></li>
-      </ul>
-    </div>
-  </div>
+  </nav>
 </div>
 
 <!-- ==================== FEDERAL REMOVAL PACKAGE - TEXAS ==================== -->
 
 <div class="evidence-binder-section">
-  <h2>Federal Removal Package - Texas</h2>
+  <h2 id="federal-removal-package-texas">Federal Removal Package - Texas</h2>
 
   <table class="premium-table">
     <thead>
@@ -175,7 +161,7 @@ All materials are provided for transparency, preservation of the record, and pub
 <!-- ==================== FEDERAL REMOVAL PACKAGE - CALIFORNIA ==================== -->
 
 <div class="evidence-binder-section">
-  <h2>Federal Removal Package - California</h2>
+  <h2 id="federal-removal-package-california">Federal Removal Package - California</h2>
 
   <table class="premium-table">
     <thead>
@@ -1410,259 +1396,78 @@ All materials are provided for transparency, preservation of the record, and pub
   </table>
 </div>
 
-<div class="thin-divider"></div>
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+  const tocLinks = document.querySelectorAll(".sticky-toc-nav a.toc-link");
+  const sections = [];
 
-<!-- ==================== SUPPLEMENTAL EVIDENCE ARCHIVE ==================== -->
+  // Build list of sections
+  tocLinks.forEach(link => {
+    const id = link.getAttribute("href").substring(1);
+    const section = document.getElementById(id);
+    if (section) {
+      sections.push({ id, element: section, link });
+    }
+  });
 
-<h1 id="evidence-archive">Evidence Archive</h1>
+  function highlightCurrentSection() {
+    let current = "";
+    const scrollPosition = window.scrollY + 160; // adjust this value if needed
 
-<div class="evidence-binder-section">
-  <h2 id="video-evidence-archive">Video Evidence Archive</h2>
-  
-  <p style="text-align: center; margin-bottom: 8px; color: #e0e0e0;">
-    Complete collection of court hearings and related recordings
-  </p>
-  
-  <p style="text-align: center; margin-bottom: 24px;">
-    <a href="https://drive.google.com/drive/folders/1LlvizdNAT7WyYW7rIW8pKq7jg0xNtXI4?usp=drive_link" 
-       target="_blank" 
-       class="regular-link">
-      View Full Video Evidence Archive →
-    </a>
-  </p>
-  
-  <p style="text-align: center; font-size: 0.95rem; margin-bottom: 40px;">
-    Backup created after the original Mars Justice YouTube channel was taken down by criminals from Santa Clara Mafia Cartel and Ukrainian cartel "Kodlo Gondona".
-  </p>
+    // Loop from bottom to top (more reliable)
+    for (let i = sections.length - 1; i >= 0; i--) {
+      const section = sections[i];
+      if (section.element.offsetTop <= scrollPosition) {
+        current = section.id;
+        break;
+      }
+    }
 
-  <div class="video-grid-vertical">
+    // Update active class
+    tocLinks.forEach(link => {
+      link.classList.remove("active");
+      if (link.getAttribute("href") === `#${current}`) {
+        link.classList.add("active");
+      }
+    });
+  }
 
-    <!-- November 13, 2023 – Judge Andrea Flint (Parts 1-4) -->
-    <div class="video-card-vertical">
-      <div class="video-header">November 13, 2023 – Hearing before Disqualified Judge Andrea Flint (Part 1)</div>
-      <div class="video-container-vertical">
-        <iframe src="https://drive.google.com/file/d/173gpgsvpV_rzyC4ndKccXngXADiemCFc/preview" frameborder="0" allowfullscreen></iframe>
-      </div>
-    </div>
+  // Attach scroll listener
+  window.addEventListener("scroll", highlightCurrentSection);
 
-    <div class="video-card-vertical">
-      <div class="video-header">November 13, 2023 – Hearing before Disqualified Judge Andrea Flint (Part 2)</div>
-      <div class="video-container-vertical">
-        <iframe src="https://drive.google.com/file/d/1pc12yvgTEFqCwKJnizdjSKoRW_sdMDg7/preview" frameborder="0" allowfullscreen></iframe>
-      </div>
-    </div>
+  // Run once on page load
+  highlightCurrentSection();
+});
 
-    <div class="video-card-vertical">
-      <div class="video-header">November 13, 2023 – Hearing before Disqualified Judge Andrea Flint (Part 3)</div>
-      <div class="video-container-vertical">
-        <iframe src="https://drive.google.com/file/d/1wExZ1sA3v4F4mHgiXVRnEK6mQiFkLbD2/preview" frameborder="0" allowfullscreen></iframe>
-      </div>
-    </div>
+document.addEventListener("click", function(e) {
+  const wrapper = document.querySelector('.sticky-toc-wrapper');
+  const btn = document.querySelector('.floating-toc-btn');
 
-    <div class="video-card-vertical">
-      <div class="video-header">November 13, 2023 – Hearing before Disqualified Judge Andrea Flint (Part 4)</div>
-      <div class="video-container-vertical">
-        <iframe src="https://drive.google.com/file/d/1Nactl5OzicYuuqAQ9TWkglJzUAIEngN9/preview" frameborder="0" allowfullscreen></iframe>
-      </div>
-    </div>
+  if (wrapper.classList.contains('active')) {
+    // Close if clicked outside the TOC card or on the button again
+    if (!wrapper.contains(e.target) || e.target === btn) {
+      wrapper.classList.remove('active');
+    }
+  }
+});
+</script>
 
-    <div class="video-card-vertical">
-      <div class="video-header">November 13, 2023 – Fraud on court by Disqualified Judge Andrea Flint</div>
-      <div class="video-container-vertical">
-        <iframe src="https://drive.google.com/file/d/1Nactl5OzicYuuqAQ9TWkglJzUAIEngN9/preview" frameborder="0" allowfullscreen></iframe>
-      </div>
-    </div>
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+  const hamburger = document.getElementById("toc-hamburger");
+  const tocWrapper = document.querySelector(".sticky-toc-wrapper");
 
-    <!-- November 23, 2023 – Max Mars Birthday -->
-    <div class="video-card-vertical">
-      <div class="video-header">November 23, 2023 – Beating of Max Mars by mother on 8th Birthday</div>
-      <div class="video-container-vertical">
-        <iframe src="https://drive.google.com/file/d/1Il-lZb8772GOvqr060rKEwy_AoLYTWwD/preview" frameborder="0" allowfullscreen></iframe>
-      </div>
-    </div>
+  if (hamburger && tocWrapper) {
+    hamburger.addEventListener("click", function () {
+      tocWrapper.classList.toggle("active");
+    });
 
-    <!-- February 7, 2024 – Judge Lowney -->
-    <div class="video-card-vertical">
-      <div class="video-header">February 7, 2024 – Hearing before Disqualified Judge Stephen Lowney</div>
-      <div class="video-container-vertical">
-        <iframe src="https://drive.google.com/file/d/1YKpbX-Hw9vpJO1YvnelR_NEmyAzAz_CF/preview" frameborder="0" allowfullscreen></iframe>
-      </div>
-    </div>
-
-    <!-- November 23, 2025 – 10th Birthday Greetings -->
-    <div class="video-card-vertical">
-      <div class="video-header">November 23, 2025 – Greeting Message to My Son Max Mars on His 10th Birthday (English)</div>
-      <div class="video-container-vertical">
-        <iframe src="https://drive.google.com/file/d/1j_I9dPqKY-onw9XCMGevyoy-fqhy9SAu/preview" frameborder="0" allowfullscreen></iframe>
-      </div>
-    </div>
-
-    <div class="video-card-vertical">
-      <div class="video-header">November 23, 2025 – Greeting Message to My Son Max Mars on His 10th Birthday (Russian)</div>
-      <div class="video-container-vertical">
-        <iframe src="https://drive.google.com/file/d/1FwcHCMmCf0KoFImbgtBxaLvGe74Fbagk/preview" frameborder="0" allowfullscreen></iframe>
-      </div>
-    </div>
-
-    <!-- December 25, 2025 – Public Messages -->
-    <div class="video-card-vertical">
-      <div class="video-header">December 25, 2025 – Public Message Requesting Contact with My Son Max Mars on Christmas (English)</div>
-      <div class="video-container-vertical">
-        <iframe src="https://drive.google.com/file/d/1S55AuHL5Uf19hF8tTl_2LosM_pCy2XgB/preview" frameborder="0" allowfullscreen></iframe>
-      </div>
-    </div>
-
-    <div class="video-card-vertical">
-      <div class="video-header">December 25, 2025 – Public Message Requesting Contact with My Son Max Mars on Christmas (Russian)</div>
-      <div class="video-container-vertical">
-        <iframe src="https://drive.google.com/file/d/1PxJVogfZuvbVuyWYiiL4bnKcjXeuJAt_/preview" frameborder="0" allowfullscreen></iframe>
-      </div>
-    </div>
-
-    <div class="video-card-vertical">
-      <div class="video-header">December 25, 2025 – Public Message Requesting Contact with My Son Max Mars on Christmas (English)</div>
-      <div class="video-container-vertical">
-        <iframe src="https://drive.google.com/file/d/18voxB7nF2VtzegThXx1QAKLE2dfs1mEH/preview" frameborder="0" allowfullscreen></iframe>
-      </div>
-    </div>
-
-    <div class="video-card-vertical">
-      <div class="video-header">December 25, 2025 – Public Message Requesting Contact with My Son Max Mars on Christmas (Russian)</div>
-      <div class="video-container-vertical">
-        <iframe src="https://drive.google.com/file/d/1f6adN40zYdnfkMtvxNAB5Cf79wGK6fuA/preview" frameborder="0" allowfullscreen></iframe>
-      </div>
-    </div>
-
-    <div class="video-card-vertical">
-      <div class="video-header">December 25, 2025 – Public Message Requesting Contact with My Son Max Mars on Christmas (English)</div>
-      <div class="video-container-vertical">
-        <iframe src="https://drive.google.com/file/d/1Gi4Nc-BtorwGilgmKZgHweQaxmm4s59v/preview" frameborder="0" allowfullscreen></iframe>
-      </div>
-    </div>
-
-    <div class="video-card-vertical">
-      <div class="video-header">December 25, 2025 – Public Message Requesting Contact with My Son Max Mars on Christmas (Russian)</div>
-      <div class="video-container-vertical">
-        <iframe src="https://drive.google.com/file/d/1mZjVqauxOpMxCA6KjtY0OHq-MvFSDChe/preview" frameborder="0" allowfullscreen></iframe>
-      </div>
-    </div>
-
-    <div class="video-card-vertical">
-      <div class="video-header">December 25, 2025 – Public Message Requesting Contact with My Son Max Mars on Christmas (English)</div>
-      <div class="video-container-vertical">
-        <iframe src="https://drive.google.com/file/d/1NmKLScNbG9Vgm57qhKuvmwoXe8BHZJQt/preview" frameborder="0" allowfullscreen></iframe>
-      </div>
-    </div>
-
-  </div>
-</div>
-
-<div class="evidence-binder-section">
-  <h2 id="orders-post-dq">Orders Issued Post-Disqualification (Void Orders)</h2>
-  <p style="text-align: center; margin-bottom: 24px; color: #e0e0e0;">
-    Court orders issued by disqualified judges acting without jurisdiction after their disqualification.
-  </p>
-
-  <table class="premium-table">
-    <thead>
-      <tr>
-        <th style="width: 14%;">Date</th>
-        <th style="width: 18%;">Judge / Court</th>
-        <th>Description</th>
-        <th style="width: 12%;">Download</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr><td>2022-09-14</td><td>Judge Towery</td><td>DVRO — Kidnapping of Max Mars</td><td><a href="/federal-removal/evidence/orders/2022-09-14%20-%20Towery%20-%20DVRO%20-%20Kidnapping%20of%20Max%20Mars.pdf" target="_blank" class="btn-download">Download</a></td></tr>
-      <tr><td>2022-10-31</td><td>Judge Flint</td><td>No contact, supervised visits, extortion of money and emergency screening</td><td><a href="/federal-removal/evidence/orders/2022-10-31%20-%20Flint%20-%20No%20contact,%20supervised%20visits,%20extortion%20of%20money%20and%20emergency%20screening.pdf" target="_blank" class="btn-download">Download</a></td></tr>
-      <tr><td>2023-01-26</td><td>Judge Flint</td><td>Coerced Stipulation to Dismiss Trial</td><td><a href="/federal-removal/evidence/orders/2023-01-26%20-%20Flint%20-%20Coerced%20Stipulation%20to%20Dismiss%20Trial.pdf" target="_blank" class="btn-download">Download</a></td></tr>
-      <tr><td>2023-02-08</td><td>Judge Flint</td><td>Coerced Stipulation on Spousal Support</td><td><a href="/federal-removal/evidence/orders/2023-02-08%20-%20Flint%20-%20Coerced%20Stipulation%20on%20Spousal%20Support.pdf" target="_blank" class="btn-download">Download</a></td></tr>
-      <tr><td>2023-05-12</td><td>Judge Flint</td><td>Wages garnishment — Income withholding FL-195</td><td><a href="/federal-removal/evidence/orders/2023-05-12%20-%20Flint%20-%20Wages%20garnishment%20-%20Income%20withholding%20FL-195.pdf" target="_blank" class="btn-download">Download</a></td></tr>
-      <tr><td>2023-06-29</td><td>Judge Flint</td><td>Custody review denied</td><td><a href="/federal-removal/evidence/orders/2023-06-29%20-%20Flint%20-%20Custody%20review%20denied.pdf" target="_blank" class="btn-download">Download</a></td></tr>
-      <tr><td>2023-07-31</td><td>Judge Flint</td><td>Partial Trial — Extortion of money, seizure of VW Tiguan, denial of equalizing payment calculations</td><td><a href="/federal-removal/evidence/orders/2023-07-31%20-%20Flint%20-%20Partial%20Trial%20-%20Extortion%20of%20money,%20seizure%20of%20VW%20Tiguan,%20denial%20of%20equalizing%20payment%20calculations.pdf" target="_blank" class="btn-download">Download</a></td></tr>
-      <tr><td>2023-08-01</td><td>Judge Flint</td><td>Denied contempt and disqualification of Nancy</td><td><a href="/federal-removal/evidence/orders/2023-08-01%20-%20Flint%20-%20Denied%20contempt%20and%20disqualification%20of%20Nancy.pdf" target="_blank" class="btn-download">Download</a></td></tr>
-      <tr><td>2023-08-17</td><td>Judge Flint</td><td>Order striking Motion to Recuse Flint</td><td><a href="/federal-removal/evidence/orders/2023-08-17%20-%20Flint%20-%20Order%20striking%20Motion%20to%20Recuse%20Flint.pdf" target="_blank" class="btn-download">Download</a></td></tr>
-      <tr><td>2023-08-29</td><td>Judge Flint</td><td>Denial of QDRO, Coercion to pay criminal from Santa Clara Mafia Cartel for QDRO financial fraud</td><td><a href="/federal-removal/evidence/orders/2023-08-29%20-%20Flint%20-%20Denial%20of%20QDRO,%20Coercion%20to%20pay%20criminal%20from%20Santa%20Clara%20Mafia%20Cartel%20for%20QDRO%20financial%20fraud.pdf" target="_blank" class="btn-download">Download</a></td></tr>
-      <tr><td>2023-08-29</td><td>Judge Flint</td><td>Extortion of money, 401k, Stock accounts</td><td><a href="/federal-removal/evidence/orders/2023-08-29%20-%20Flint%20-%20Extortion%20of%20money,%20401k,%20Stock%20accounts.pdf" target="_blank" class="btn-download">Download</a></td></tr>
-      <tr><td>2023-09-05</td><td>Judge Flint</td><td>Acknowledged service of motion to recuse</td><td><a href="/federal-removal/evidence/orders/2023-09-05%20-%20Flint%20-%20Acknowledged%20service%20of%20motion%20to%20recuse.pdf" target="_blank" class="btn-download">Download</a></td></tr>
-      <tr><td>2023-09-05 to 09-13</td><td>Judge Flint</td><td>Motion to recuse, continuance</td><td><a href="/federal-removal/evidence/orders/2023-09-05,%2009-07,%2009-13%20-%20Flint%20-%20Motion%20to%20recuse,%20continuance.pdf" target="_blank" class="btn-download">Download</a></td></tr>
-      <tr><td>2023-09-07</td><td>Judge Flint</td><td>Flint lied, does not acknowledge service of motion to recuse</td><td><a href="/federal-removal/evidence/orders/2023-09-07%20-%20Flint%20-%20Flint%20lied,%20does%20not%20acknowledge%20of%20service%20of%20motion%20to%20recuse.pdf" target="_blank" class="btn-download">Download</a></td></tr>
-      <tr><td>2023-09-08</td><td>Commissioner Laxton</td><td>Wages garnishment removal denied</td><td><a href="/federal-removal/evidence/orders/2023-09-08%20-%20Laxton%20-%20Wages%20garnishment%20removal%20denied.pdf" target="_blank" class="btn-download">Download</a></td></tr>
-      <tr><td>2023-09-13</td><td>Judge Flint</td><td>Denies request to recuse made on record</td><td><a href="/federal-removal/evidence/orders/2023-09-13%20-%20Flint%20-%20Denies%20request%20to%20recuse%20made%20on%20record.pdf" target="_blank" class="btn-download">Download</a></td></tr>
-      <tr><td>2023-09-13</td><td>Judge Flint</td><td>Order striking motion to recuse Flint</td><td><a href="/federal-removal/evidence/orders/2023-09-13%20-%20Flint%20-%20Order%20striking%20motion%20to%20recuse%20Flint.pdf" target="_blank" class="btn-download">Download</a></td></tr>
-      <tr><td>2023-11-13</td><td>Judge Flint</td><td>Partial Trial — Financial fraud, falsified bank statements, extortion of $7,000, extortion of money through QDRO expert</td><td><a href="/federal-removal/evidence/orders/2023-11-13%20-%20Flint%20-%20Partial%20Trial%20-%20Financial%20fraud,%20falsified%20bank%20statements,%20extortion%20of%20$7,000,%20extortion%20of%20money%20through%20QDRO%20expert.pdf" target="_blank" class="btn-download">Download</a></td></tr>
-      <tr><td>2023-11-28</td><td>Judge Flint</td><td>DVRO prohibiting greeting my son Max Mars with his Birthday</td><td><a href="/federal-removal/evidence/orders/2023-11-28%20-%20Flint%20-%20DVRO%20prohibiting%20greeting%20my%20son%20Max%20Mars%20with%20his%20Birthday.pdf" target="_blank" class="btn-download">Download</a></td></tr>
-      <tr><td>2023-12-15</td><td>Judge Flint</td><td>Order striking motion to recuse Flint</td><td><a href="/federal-removal/evidence/orders/2023-12-15%20-%20Flint%20-%20Order%20striking%20motion%20to%20recuse%20Flint.pdf" target="_blank" class="btn-download">Download</a></td></tr>
-      <tr><td>2024-02-01</td><td>Judge Lowney</td><td>Denied reconsideration of extortion $7,000 order based on financial fraud, sanctions $500</td><td><a href="/federal-removal/evidence/orders/2024-02-01%20-%20Lowney%20-%20Reconsideration%20of%20extortion%20$7,000%20order%20based%20on%20financial%20fraud%20denied,%20sanctions%20$500%20for%20requesting%20reconsideration.pdf" target="_blank" class="btn-download">Download</a></td></tr>
-      <tr><td>2024-02-02</td><td>Judge Lowney</td><td>Court reporter request denied</td><td><a href="/federal-removal/evidence/orders/2024-02-02%20-%20Lowney%20-%20Court%20reporter%20request%20denied.pdf" target="_blank" class="btn-download">Download</a></td></tr>
-      <tr><td>2024-02-02</td><td>Judge Lowney</td><td>Media coverage request denied</td><td><a href="/federal-removal/evidence/orders/2024-02-02%20-%20Lowney%20-%20Media%20coverage%20request%20denied.pdf" target="_blank" class="btn-download">Download</a></td></tr>
-      <tr><td>2024-02-07</td><td>Judge Lowney</td><td>Extortion of passport of Max Mars, threats of jail time, denial of access to court, denial of Custody Review, DVRO Trial and all 9 matters</td><td><a href="/federal-removal/evidence/orders/2024-02-07%20-%20Lowney%20-%20Extortion%20of%20passport%20of%20my%20son%20Max%20Mars,%20threats%20of%20jail%20time%20and%20denial%20of%20access%20to%20California%20courts,%20denial%20of%20Custody%20Review,%20DVRO%20Trial,%20Reconsideration%20of%20orders%20and%20all%209%20matters.pdf" target="_blank" class="btn-download">Download</a></td></tr>
-      <tr><td>2024-02-23</td><td>Judge Lowney</td><td>Order striking Statement of Disqualification against Lowney</td><td><a href="/federal-removal/evidence/orders/2024-02-23%20-%20Lowney%20-%20Order%20striking%20Statement%20of%20Disqualification%20against%20Lowney.pdf" target="_blank" class="btn-download">Download</a></td></tr>
-      <tr><td>2024-02-27</td><td>Judge Lowney</td><td>Contempt hearing against Hanna removed</td><td><a href="/federal-removal/evidence/orders/2024-02-27%20-%20Lowney%20-%20Contempt%20hearing%20against%20Hanna%20removed.pdf" target="_blank" class="btn-download">Download</a></td></tr>
-      <tr><td>2024-03-11</td><td>Judge Lowney</td><td>Vexatious Litigant order against Petitioner</td><td><a href="/federal-removal/evidence/orders/2024-03-11%20-%20Lowney%20-%20Vexatious%20Litigant%20order%20against%20me.pdf" target="_blank" class="btn-download">Download</a></td></tr>
-      <tr><td>2024-03-15</td><td>Judge Lowney</td><td>VL-100 Vexatious Litigant order against Petitioner</td><td><a href="/federal-removal/evidence/orders/2024-03-15%20-%20Lowney%20-%20VL-100%20Vexatious%20Litigant%20order%20against%20me.pdf" target="_blank" class="btn-download">Download</a></td></tr>
-      <tr><td>2024-03-21</td><td>Judge Lowney</td><td>Change of Venue and Disqualify Nancy Roberts denied</td><td><a href="/federal-removal/evidence/orders/2024-03-21%20-%20Lowney%20-%20Change%20of%20Venue%20and%20Disqualify%20Nancy%20Roberts%20denied.pdf" target="_blank" class="btn-download">Download</a></td></tr>
-      <tr><td>2024-03-26</td><td>Clerk</td><td>Status conference notice</td><td><a href="/federal-removal/evidence/orders/2024-03-26%20-%20Clerk%20-%20Status%20conference%20notice.pdf" target="_blank" class="btn-download">Download</a></td></tr>
-      <tr><td>2024-03-26</td><td>Judge Lowney</td><td>Massive manipulation of court calendar — all hearings moved to 06-17</td><td><a href="/federal-removal/evidence/orders/2024-03-26%20-%20Lowney%20-%20Massive%20manipulation%20of%20court%20calendar%20-%20all%20hearings%20to%2006-17.pdf" target="_blank" class="btn-download">Download</a></td></tr>
-      <tr><td>2024-03-28</td><td>Judge Lowney</td><td>Order striking disqualification</td><td><a href="/federal-removal/evidence/orders/2024-03-28%20-%20Lowney%20-%20Order%20striking%20disqualification.pdf" target="_blank" class="btn-download">Download</a></td></tr>
-      <tr><td>2024-06-17</td><td>Judge Lowney</td><td>Bench warrant, denial of Custody Review, denial of DVRO Trial, denial of all 9 matters</td><td><a href="/federal-removal/evidence/orders/2024-06-17%20-%20Lowney%20-%20Bench%20warrant,%20denial%20of%20Custody%20Review,%20denial%20of%20DVRO%20Trial,%20denial%20of%20all%209%20matters.pdf" target="_blank" class="btn-download">Download</a></td></tr>
-      <tr><td>2024-06-17</td><td>Judge Lowney</td><td>DV-130 Permanent Restraining Order</td><td><a href="/federal-removal/evidence/orders/2024-06-17%20-%20Lowney%20-%20DV-130%20Permanent%20Restraining%20Order.pdf" target="_blank" class="btn-download">Download</a></td></tr>
-      <tr><td>2024-06-17</td><td>Judge Lowney</td><td>Order Striking Disqualification against Lowney</td><td><a href="/federal-removal/evidence/orders/2024-06-17%20-%20Lowney%20-%20Order%20Striking%20Disqualification%20against%20Lowney.pdf" target="_blank" class="btn-download">Download</a></td></tr>
-      <tr><td>2024-08-21</td><td>Judge Williams</td><td>Criminal Bench Warrant</td><td><a href="/federal-removal/evidence/orders/2024-08-21%20-%20Benjamin%20Williams%20-%20Criminal%20Bench%20Warrant.pdf" target="_blank" class="btn-download">Download</a></td></tr>
-      <tr><td>2024-08-21</td><td>Sunnyvale DPS</td><td>Criminal Bench Warrant $25,000</td><td><a href="/federal-removal/evidence/orders/2024-08-21%20-%20Sunnyvale%20DPS%20-%20Criminal%20Bench%20Warrant%20$25,000.pdf" target="_blank" class="btn-download">Download</a></td></tr>
-      <tr><td>2024-10-23</td><td>Judge Clark</td><td>Criminal Arrest Warrant</td><td><a href="/federal-removal/evidence/orders/2024-10-23%20-%20Michael%20Clark%20-%20Criminal%20Arrest%20Warrant.pdf" target="_blank" class="btn-download">Download</a></td></tr>
-      <tr><td>2024-10-30</td><td>Sunnyvale DPS</td><td>Refused to provide body cam recordings of corrupt cops who committed unlawful arrest</td><td><a href="/federal-removal/evidence/orders/2024-10-30%20-%20Sunnyvale%20DPS%20refused%20to%20provide%20body%20cam%20recordings%20of%20corrupt%20cops%20who%20committed%20unlawful%20arrest.pdf" target="_blank" class="btn-download">Download</a></td></tr>
-      <tr><td>2025-02-20</td><td>Santa Clara Sheriffs Office</td><td>Search Warrant Notice</td><td><a href="/federal-removal/evidence/orders/2025-02-20%20-%20Santa%20Clara%20Sheriffs%20Office%20-%20Search%20Warrant%20Notice.pdf" target="_blank" class="btn-download">Download</a></td></tr>
-    </tbody>
-  </table>
-</div>
-
-<div class="evidence-binder-section">
-  <h2 id="denial-orders">Denial Orders (Recusal, Custody Review, DVRO Trial)</h2>
-  <p style="text-align: center; margin-bottom: 24px; color: #e0e0e0;">
-    Systematic denial of motions, recusals, custody reviews, and trials by disqualified judges and court officials.
-  </p>
-
-  <table class="premium-table">
-    <thead>
-      <tr>
-        <th style="width: 14%;">Date</th>
-        <th style="width: 18%;">Judge / Court</th>
-        <th>Description</th>
-        <th style="width: 12%;">Download</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr><td>2022-10-31</td><td>Judge Flint</td><td>DVRO Trial DENIED. No contact, supervised visits, extortion of money and emergency screening</td><td><a href="/federal-removal/evidence/denial-orders/2022-10-31%20-%20Flint%20-%20DVRO%20Trial%20-%20DENIED.%20No%20contact,%20supervised%20visits,%20extortion%20of%20money%20and%20emergency%20screening.pdf" target="_blank" class="btn-download">Download</a></td></tr>
-      <tr><td>2023-06-29</td><td>Judge Flint</td><td>Custody Review — DENIED</td><td><a href="/federal-removal/evidence/denial-orders/2023-06-29%20-%20Flint%20-%20Custody%20Review%20-%20DENIED.pdf" target="_blank" class="btn-download">Download</a></td></tr>
-      <tr><td>2023-07-31</td><td>Judge Flint</td><td>Partial Trial — Extortion of money, seizure of VW Tiguan, Equalizing Payment — DENIED</td><td><a href="/federal-removal/evidence/denial-orders/2023-07-31%20-%20Flint%20-%20Partial%20Trial%20-%20Extortion%20of%20money,%20seizure%20of%20VW%20Tiguan,%20Equalizing%20Payment%20-%20DENIED.pdf.pdf" target="_blank" class="btn-download">Download</a></td></tr>
-      <tr><td>2023-08-01</td><td>Judge Flint</td><td>Contempt And Disqualification of Nancy Roberts — DENIED</td><td><a href="/federal-removal/evidence/denial-orders/2023-08-01%20-%20Flint%20-%20Contempt%20And%20Disqualification%20of%20Nancy%20Roberts%20-%20DENIED.pdf" target="_blank" class="btn-download">Download</a></td></tr>
-      <tr><td>2023-08-17</td><td>Judge Flint</td><td>Order Striking Motion To Recuse</td><td><a href="/federal-removal/evidence/denial-orders/2023-08-17%20-%20Flint%20-%20Order%20Striking%20Motion%20To%20Recuse.pdf" target="_blank" class="btn-download">Download</a></td></tr>
-      <tr><td>2023-08-29</td><td>Judge Flint</td><td>Extortion of money, 401k, Stock accounts. Equalizing Payment and QDRO — DENIED</td><td><a href="/federal-removal/evidence/denial-orders/2023-08-29%20-%20Flint%20-%20Extortion%20of%20money,%20401k,%20Stock%20accounts.%20Equalizing%20Payment%20and%20QDRO%20-%20DENIED.pdf" target="_blank" class="btn-download">Download</a></td></tr>
-      <tr><td>2023-08-29</td><td>Judge Flint</td><td>Coercion to pay criminal from Santa Clara Mafia Cartel for QDRO financial fraud, QDRO — DENIED</td><td><a href="/federal-removal/evidence/denial-orders/2023-08-29%20-%20Flint%20-%20Coercion%20to%20pay%20criminal%20from%20Santa%20Clara%20Mafia%20Cartel%20for%20QDRO%20financial%20fraud,%20QDRO%20-%20DENIED.pdf" target="_blank" class="btn-download">Download</a></td></tr>
-      <tr><td>2023-09-05 to 09-13</td><td>Judge Flint</td><td>Motion To Recuse — DENIED</td><td><a href="/federal-removal/evidence/denial-orders/2023-09-05,%2009-07,%2009-13%20-%20Flint%20-%20Motion%20To%20Recuse%20-%20DENIED.pdf" target="_blank" class="btn-download">Download</a></td></tr>
-      <tr><td>2023-09-07</td><td>Judge Flint</td><td>Flint lied, does not acknowledge service of motion to recuse. Motion To Recuse — DENIED</td><td><a href="/federal-removal/evidence/denial-orders/2023-09-07%20-%20Flint%20-%20Flint%20lied,%20does%20not%20acknowledge%20of%20service%20of%20motion%20to%20recuse%20.%20Motion%20To%20Recuse%20-%20DENIED.pdf" target="_blank" class="btn-download">Download</a></td></tr>
-      <tr><td>2023-09-08</td><td>Commissioner Laxton</td><td>Wages garnishment removal — DENIED</td><td><a href="/federal-removal/evidence/denial-orders/2023-09-08%20-%20Laxton%20-%20Wages%20garnishment%20removal%20-%20DENIED.pdf" target="_blank" class="btn-download">Download</a></td></tr>
-      <tr><td>2023-09-13</td><td>Judge Flint</td><td>Order Striking Motion To Recuse</td><td><a href="/federal-removal/evidence/denial-orders/2023-09-13%20-%20Flint%20-%20Order%20Striking%20Motion%20To%20Recuse.pdf" target="_blank" class="btn-download">Download</a></td></tr>
-      <tr><td>2023-09-13</td><td>Judge Flint</td><td>Request to Recuse made on record — DENIED</td><td><a href="/federal-removal/evidence/denial-orders/2023-09-13%20-%20Flint%20-%20Request%20to%20Recuse%20made%20on%20record%20-%20DENIED.pdf" target="_blank" class="btn-download">Download</a></td></tr>
-      <tr><td>2023-11-13</td><td>Judge Flint</td><td>Partial Trial — Financial fraud, falsified bank statements, extortion of $7,000, extortion of money through QDRO expert, QDRO — DENIED</td><td><a href="/federal-removal/evidence/denial-orders/2023-11-13%20-%20Flint%20-%20Partial%20Trial%20-%20Financial%20fraud,%20falsified%20bank%20statements,%20extortion%20of%20$7,000,%20extortion%20of%20money%20through%20QDRO%20expert,%20QDRO%20-%20DENIED.pdf" target="_blank" class="btn-download">Download</a></td></tr>
-      <tr><td>2023-11-28</td><td>Judge Flint</td><td>DVRO prohibiting greeting my son Max Mars with Birthday</td><td><a href="/federal-removal/evidence/denial-orders/2023-11-28%20-%20Flint%20-%20DVRO%20prohibiting%20greeting%20my%20son%20Max%20Mars%20with%20Birthday.pdf" target="_blank" class="btn-download">Download</a></td></tr>
-      <tr><td>2023-12-15</td><td>Judge Flint</td><td>Order Striking Motion To Recuse</td><td><a href="/federal-removal/evidence/denial-orders/2023-12-15%20-%20Flint%20-%20Order%20Striking%20Motion%20To%20Recuse.pdf" target="_blank" class="btn-download">Download</a></td></tr>
-      <tr><td>2024-02-01</td><td>Judge Lowney</td><td>Reconsideration of extortion $7,000 order based on financial fraud denied, sanctions $500 — DENIED</td><td><a href="/federal-removal/evidence/denial-orders/2024-02-01%20-%20Lowney%20-%20Reconsideration%20of%20extortion%20$7,000%20order%20based%20on%20financial%20fraud%20denied,%20sanctions%20$500%20for%20requesting%20reconsideration%20-%20DENIED.pdf" target="_blank" class="btn-download">Download</a></td></tr>
-      <tr><td>2024-02-02</td><td>Judge Lowney</td><td>Court reporter request — DENIED</td><td><a href="/federal-removal/evidence/denial-orders/2024-02-02%20-%20Lowney%20-%20Court%20reporter%20request%20-%20DENIED.pdf" target="_blank" class="btn-download">Download</a></td></tr>
-      <tr><td>2024-02-02</td><td>Judge Lowney</td><td>Media coverage request — DENIED</td><td><a href="/federal-removal/evidence/denial-orders/2024-02-02%20-%20Lowney%20-%20Media%20coverage%20request%20-%20DENIED.pdf" target="_blank" class="btn-download">Download</a></td></tr>
-      <tr><td>2024-02-07</td><td>Judge Lowney</td><td>Extortion of passport of Max Mars, threats of jail time and denial of access to California courts, denial of Custody Review, DVRO Trial, Reconsideration of orders and all 9 matters — DENIED</td><td><a href="/federal-removal/evidence/denial-orders/2024-02-07%20-%20Lowney%20-%20Extortion%20of%20passport%20of%20my%20son%20Max%20Mars,%20threats%20of%20jail%20time%20and%20denial%20of%20access%20to%20California%20courts,%20denial%20of%20Custody%20Review,%20DVRO%20Trial,%20Reconsideration%20of%20orders%20and%20all%209%20matters%20-%20DENIED.pdf" target="_blank" class="btn-download">Download</a></td></tr>
-      <tr><td>2024-02-23</td><td>Judge Lowney</td><td>Order Striking Disqualification</td><td><a href="/federal-removal/evidence/denial-orders/2024-02-23%20-%20Lowney%20-%20Order%20Striking%20Disqualification.pdf" target="_blank" class="btn-download">Download</a></td></tr>
-      <tr><td>2024-02-27</td><td>Judge Lowney</td><td>Contempt against Hanna — DENIED</td><td><a href="/federal-removal/evidence/denial-orders/2024-02-27%20-%20Lowney%20-%20Contempt%20against%20Hanna%20-%20DENIED.pdf" target="_blank" class="btn-download">Download</a></td></tr>
-      <tr><td>2024-03-11</td><td>Judge Lowney</td><td>VL-100 Vexatious Litigant Post DQ</td><td><a href="/federal-removal/evidence/denial-orders/2024-03-11%20-%20Lowney%20-%20VL-100%20Vexatious%20Litigant%20Post%20DQ.pdf" target="_blank" class="btn-download">Download</a></td></tr>
-      <tr><td>2024-03-21</td><td>Judge Lowney</td><td>Change of Venue and Disqualify Nancy Roberts — DENIED</td><td><a href="/federal-removal/evidence/denial-orders/2024-03-21%20-%20Lowney%20-%20Change%20of%20Venue%20and%20Disqualify%20Nancy%20Roberts%20-%20DENIED.pdf" target="_blank" class="btn-download">Download</a></td></tr>
-      <tr><td>2024-03-26</td><td>Judge Lowney</td><td>Packing all hearings to 06-17 — Reschedule to after removal of judge — DENIED</td><td><a href="/federal-removal/evidence/denial-orders/2024-03-26%20-%20Lowney%20-%20Packing%20all%20hearings%20to%2006-17%20-%20Reschedule%20to%20after%20removal%20of%20judge%20-%20DENIED.pdf" target="_blank" class="btn-download">Download</a></td></tr>
-      <tr><td>2024-03-28</td><td>Judge Lowney</td><td>Order Striking Disqualification</td><td><a href="/federal-removal/evidence/denial-orders/2024-03-28%20-%20Lowney%20-%20Order%20Striking%20Disqualification.pdf" target="_blank" class="btn-download">Download</a></td></tr>
-      <tr><td>2024-06-17</td><td>Judge Lowney</td><td>Denial to Nullify All Void Orders, Bench warrant, Permanent DVRO, Denial of Custody Review, Denial of DVRO Trial, Denial of Bifurcation of Divorce Status. All Requests — DENIED</td><td><a href="/federal-removal/evidence/denial-orders/2024-06-17%20-%20Lowney%20-%20Denial%20to%20Nullify%20All%20Void%20Orders,%20Bench%20warrant,%20Permanent%20DVRO,%20Denial%20of%20Custody%20Review,%20Denial%20of%20DVRO%20Trial,%20Denial%20of%20Bifurcation%20of%20Divorce%20Status.%20All%20Requests%20-%20DENIED.pdf" target="_blank" class="btn-download">Download</a></td></tr>
-      <tr><td>2024-06-17</td><td>Judge Lowney</td><td>Order Striking Disqualification</td><td><a href="/federal-removal/evidence/denial-orders/2024-06-17%20-%20Lowney%20-%20Order%20Striking%20Disqualification.pdf" target="_blank" class="btn-download">Download</a></td></tr>
-      <tr><td>2024-06-17</td><td>Judge Lowney</td><td>DV-130 Permanent Restraining Order</td><td><a href="/federal-removal/evidence/denial-orders/2024-06-17%20-%20Lowney%20-%20DV-130%20Permanent%20Restraining%20Order.pdf" target="_blank" class="btn-download">Download</a></td></tr>
-      <tr><td>2024-08-21</td><td>Judge Williams</td><td>Criminal Bench Warrant, Hearing case — DENIED</td><td><a href="/federal-removal/evidence/denial-orders/2024-08-21%20-%20Benjamin%20Williams%20-%20Criminal%20Bench%20Warrant,%20Hearing%20case%20-%20DENIED.pdf" target="_blank" class="btn-download">Download</a></td></tr>
-      <tr><td>2024-10-30</td><td>Sunnyvale DPS</td><td>Refused to provide body cam recordings of corrupt cops who committed unlawful arrest</td><td><a href="/federal-removal/evidence/denial-orders/2024-10-30%20-%20Sunnyvale%20DPS%20refused%20to%20provide%20body%20cam%20recordings%20of%20corrupt%20cops%20who%20committed%20unlawful%20arrest.pdf" target="_blank" class="btn-download">Download</a></td></tr>
-    </tbody>
-  </table>
-</div>
+    // Close when clicking outside the TOC on mobile
+    tocWrapper.addEventListener("click", function (e) {
+      if (e.target === tocWrapper) {
+        tocWrapper.classList.remove("active");
+      }
+    });
+  }
+});
+</script>

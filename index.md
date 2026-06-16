@@ -59,12 +59,14 @@ title: MARS JUSTICE
   <p>Justice requires vigilance. Freedom requires action.</p>
 </div>
 
+<div class="thin-divider"></div>
+
 <div class="resources">
   <strong>Resources:</strong><br>
   <a href="/max-mars/">Max Mars</a> • 
-  <a href="/federal-removal/">Federal Removal</a> • 
   <a href="/california-mafia-cartel/">California Mafia Cartel</a> • 
-  <a href="/criminal-case/">Criminal Case</a><br>
+  <a href="/criminal-case/">Criminal Case</a> • 
+  <a href="/federal-removal/">Federal Removal</a><br>
   <a href="/mars-justice-book/">Mars Justice Book</a> • 
   <a href="/about/">About</a>
 </div>

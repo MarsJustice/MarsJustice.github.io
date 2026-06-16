@@ -581,3 +581,7 @@ hr, .evidence-divider { border: none; height: 1px; /* Ultra thin */ background: 
 
 @media (max-width: 768px) { .glass-section:has(.diagram-image) { padding: 0; background: transparent; border: none; box-shadow: none; margin: 1rem 0; }
   .diagram-image { border-radius: 18px; width: 100%; } }
+/* Regular hyperlink style */
+.regular-link { color: #ff0030; text-decoration: underline; text-underline-offset: 4px; font-weight: 500; transition: color 0.2s ease; }
+
+.regular-link:hover { color: #ff0030; text-decoration: underline; text-underline-offset: 4px; }

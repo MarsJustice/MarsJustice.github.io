@@ -948,3 +948,18 @@ hr,
     width: 100%;
   }
 }
+
+/* Regular hyperlink style */
+.regular-link {
+    color: #ff0030;           
+    text-decoration: underline;
+    text-underline-offset: 4px;
+    font-weight: 500;
+    transition: color 0.2s ease;
+}
+
+.regular-link:hover {
+    color: #ff0030;
+    text-decoration: underline;
+    text-underline-offset: 4px;
+}

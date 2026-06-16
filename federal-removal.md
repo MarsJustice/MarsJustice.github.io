@@ -18,7 +18,7 @@ All materials are provided for transparency, preservation of the record, and pub
 
 <!-- ==================== TABLE OF CONTENTS ==================== -->
 <div class="evidence-binder-section toc-section">
-  <h2>Table of Contents</h2>
+  <h2 id="toc">Table of Contents</h2>
   
   <nav class="toc-nav">
     <div class="toc-grid">
@@ -1396,78 +1396,32 @@ All materials are provided for transparency, preservation of the record, and pub
   </table>
 </div>
 
+<!-- ==================== BACK TO TOC FLOATING BUTTON ==================== -->
+<a href="#toc" class="back-to-toc-btn" id="backToTocBtn">
+  ↑ Back to Table of Contents
+</a>
+
 <script>
 document.addEventListener("DOMContentLoaded", function () {
-  const tocLinks = document.querySelectorAll(".sticky-toc-nav a.toc-link");
-  const sections = [];
+  const backToTocBtn = document.getElementById("backToTocBtn");
 
-  // Build list of sections
-  tocLinks.forEach(link => {
-    const id = link.getAttribute("href").substring(1);
-    const section = document.getElementById(id);
-    if (section) {
-      sections.push({ id, element: section, link });
+  if (!backToTocBtn) return;
+
+  // Show button after scrolling down 400px
+  window.addEventListener("scroll", function () {
+    if (window.scrollY > 400) {
+      backToTocBtn.classList.add("visible");
+    } else {
+      backToTocBtn.classList.remove("visible");
     }
   });
 
-  function highlightCurrentSection() {
-    let current = "";
-    const scrollPosition = window.scrollY + 160; // adjust this value if needed
-
-    // Loop from bottom to top (more reliable)
-    for (let i = sections.length - 1; i >= 0; i--) {
-      const section = sections[i];
-      if (section.element.offsetTop <= scrollPosition) {
-        current = section.id;
-        break;
-      }
-    }
-
-    // Update active class
-    tocLinks.forEach(link => {
-      link.classList.remove("active");
-      if (link.getAttribute("href") === `#${current}`) {
-        link.classList.add("active");
-      }
-    });
-  }
-
-  // Attach scroll listener
-  window.addEventListener("scroll", highlightCurrentSection);
-
-  // Run once on page load
-  highlightCurrentSection();
-});
-
-document.addEventListener("click", function(e) {
-  const wrapper = document.querySelector('.sticky-toc-wrapper');
-  const btn = document.querySelector('.floating-toc-btn');
-
-  if (wrapper.classList.contains('active')) {
-    // Close if clicked outside the TOC card or on the button again
-    if (!wrapper.contains(e.target) || e.target === btn) {
-      wrapper.classList.remove('active');
-    }
-  }
-});
-</script>
-
-<script>
-document.addEventListener("DOMContentLoaded", function () {
-  const hamburger = document.getElementById("toc-hamburger");
-  const tocWrapper = document.querySelector(".sticky-toc-wrapper");
-
-  if (hamburger && tocWrapper) {
-    hamburger.addEventListener("click", function () {
-      tocWrapper.classList.toggle("active");
-    });
-
-    // Close when clicking outside the TOC on mobile
-    tocWrapper.addEventListener("click", function (e) {
-      if (e.target === tocWrapper) {
-        tocWrapper.classList.remove("active");
-      }
-    });
-  }
+  // Optional: Hide button when clicking it
+  backToTocBtn.addEventListener("click", function () {
+    // Small delay so the scroll happens first
+    setTimeout(() => {
+      backToTocBtn.classList.remove("visible");
+    }, 800);
+  });
 });
 </script>

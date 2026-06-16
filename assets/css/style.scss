@@ -1245,3 +1245,49 @@ hr,
     padding: 1.5rem;
   }
 }
+
+/* ==================== BACK TO TOC BUTTON ==================== */
+.back-to-toc-btn {
+  position: fixed;
+  bottom: 24px;
+  left: 50%;
+  transform: translateX(-50%);
+  background: rgba(15, 23, 42, 0.95);
+  color: #e0e0e0;
+  border: 1px solid rgba(255, 255, 255, 0.15);
+  padding: 10px 20px;
+  border-radius: 50px;
+  font-size: 0.9rem;
+  font-weight: 500;
+  text-decoration: none;           /* ← Removes the underline */
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.3);
+  z-index: 999;
+  opacity: 0;
+  visibility: hidden;
+  transition: all 0.3s ease;
+  white-space: nowrap;
+}
+
+/* Optional: Show underline only on hover (recommended) */
+.back-to-toc-btn:hover {
+  background: #ff0030;
+  color: white;
+  border-color: #ff0030;
+  text-decoration: none;      /* ← Optional: underline appears on hover */
+  text-underline-offset: 3px;
+  transform: translateX(-50%) translateY(-2px);
+}
+
+.back-to-toc-btn.visible {
+  opacity: 1;
+  visibility: visible;
+}
+
+/* Mobile adjustments */
+@media (max-width: 768px) {
+  .back-to-toc-btn {
+    font-size: 0.85rem;
+    padding: 9px 16px;
+    bottom: 20px;
+  }
+}

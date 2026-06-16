@@ -14,7 +14,7 @@ This is archive of files which are partially covered in Federal Removal Package,
 
 <!-- ==================== TABLE OF CONTENTS ==================== -->
 <div class="evidence-binder-section toc-section">
-  <h2>Table of Contents</h2>
+  <h2 id="toc">Table of Contents</h2>
   
   <nav class="toc-nav">
     <div class="toc-grid">
@@ -281,3 +281,33 @@ This is archive of files which are partially covered in Federal Removal Package,
     </tbody>
   </table>
 </div>
+
+<!-- ==================== BACK TO TOC FLOATING BUTTON ==================== -->
+<a href="#toc" class="back-to-toc-btn" id="backToTocBtn">
+  ↑ Back to Table of Contents
+</a>
+
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+  const backToTocBtn = document.getElementById("backToTocBtn");
+
+  if (!backToTocBtn) return;
+
+  // Show button after scrolling down 400px
+  window.addEventListener("scroll", function () {
+    if (window.scrollY > 400) {
+      backToTocBtn.classList.add("visible");
+    } else {
+      backToTocBtn.classList.remove("visible");
+    }
+  });
+
+  // Optional: Hide button when clicking it
+  backToTocBtn.addEventListener("click", function () {
+    // Small delay so the scroll happens first
+    setTimeout(() => {
+      backToTocBtn.classList.remove("visible");
+    }, 800);
+  });
+});
+</script>

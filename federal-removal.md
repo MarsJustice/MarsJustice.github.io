@@ -548,6 +548,386 @@ All materials are provided for transparency, preservation of the record, and pub
   </table>
 </div>
 
+<div class="evidence-binder-section">
+  <h2>Set 4 - Custody Restoration &amp; Denial of Parental Rights</h2>
+
+  <table class="premium-table">
+    <thead>
+      <tr>
+        <th style="width: 10%;">Exhibit</th>
+        <th>Document</th>
+        <th style="width: 12%;">Download</th>
+      </tr>
+    </thead>
+    <tbody>
+
+      <!-- A-39 -->
+      <tr>
+        <td><strong>A-39</strong></td>
+        <td>Petitioner's Affidavit about Aggravated Kidnapping of His Son Max Mars, Child Trafficking Outside United States to War Zone in Ukraine, and Repetitive Extortion of Passport, Documents and Money</td>
+        <td><a href="/federal-removal/affidavit-mars.pdf" target="_blank" class="btn-download">Download PDF</a></td>
+      </tr>
+
+      <!-- A-40 Main Row -->
+<tr>
+  <td><strong>A-40</strong></td>
+  <td>Petitioner's Multiple Custody Review Requests and Repeated Denials of Custody Review by Disqualified Judges Lowney, Flint, and Towery</td>
+  <td></td>
+</tr>
+
+<!-- Item 1 -->
+<tr class="indented-row">
+  <td></td>
+  <td style="padding-left: 3.5rem;">1. 2022-09-19 — Response to DVRO, Request for Release of Minor Child Max Mars From Unlawful Detention, And For Child Abduction Prevention (Judge Towery)</td>
+  <td><a href="/federal-removal/dvro-response-request-to-release-max-mars-2022-09-19.pdf" target="_blank" class="btn-download">Download</a></td>
+</tr>
+
+<!-- Item 2 -->
+<tr class="indented-row">
+  <td></td>
+  <td style="padding-left: 3.5rem;">2. 2022-10-31 — Order Denying DVRO Trial (Judge Flint)</td>
+  <td><a href="/federal-removal/flint-denial-of-dvro-trial-and-extortion-of-money-2022-10-31.pdf" target="_blank" class="btn-download">Download</a></td>
+</tr>
+
+<!-- Item 3 -->
+<tr class="indented-row">
+  <td></td>
+  <td style="padding-left: 3.5rem;">3. 2023-01-26 — Coerced Stipulation Dismissing DVRO Trial (Judge Flint)</td>
+  <td><a href="/federal-removal/flint-dinneen-roberts-coerced-stipulation-dismissing-dvro-trail-2023-01-26.pdf" target="_blank" class="btn-download">Download</a></td>
+</tr>
+
+<!-- Item 4 -->
+<tr class="indented-row">
+  <td></td>
+  <td style="padding-left: 3.5rem;">4. 2023-02-08 — Coerced Stipulation re Child and Spousal Support (Judge Flint)</td>
+  <td><a href="/federal-removal/flint-dinneen-roberts-coerced-stipulation-unwarranted-child-and-spousal-support-2023-02-08.pdf" target="_blank" class="btn-download">Download</a></td>
+</tr>
+
+<!-- Item 5 -->
+<tr class="indented-row">
+  <td></td>
+  <td style="padding-left: 3.5rem;">5. 2023-03-31 — Notice of Substitution of Attorney - Termination of Steven Dinneen from further representation of Petitioner (Judge Flint)</td>
+  <td><a href="/federal-removal/substitution-of-attorney-termination-of-dinneen-2023-03-31.pdf" target="_blank" class="btn-download">Download</a></td>
+</tr>
+
+<!-- Item 6 -->
+<tr class="indented-row">
+  <td></td>
+  <td style="padding-left: 3.5rem;">6. 2023-05-01 — Custody Review Request Declaration (Judge Flint)</td>
+  <td><a href="/federal-removal/custody-review-request-declaration-2023-05-01.pdf" target="_blank" class="btn-download">Download</a></td>
+</tr>
+
+<!-- Item 7 -->
+<tr class="indented-row">
+  <td></td>
+  <td style="padding-left: 3.5rem;">7. 2023-06-29 — Order Denying Custody Review (Judge Flint)</td>
+  <td><a href="/federal-removal/flint-denial-of-custody-review-and-extortion-of-max-mars-passport-2023-06-29.pdf" target="_blank" class="btn-download">Download</a></td>
+</tr>
+
+<!-- Item 8 -->
+<tr class="indented-row">
+  <td></td>
+  <td style="padding-left: 3.5rem;">8. 2023-07-17 — Custody Review Request (Judge Flint)</td>
+  <td><a href="/federal-removal/custody-review-request-2023-07-17.pdf" target="_blank" class="btn-download">Download</a></td>
+</tr>
+
+<!-- Item 9 -->
+<tr class="indented-row">
+  <td></td>
+  <td style="padding-left: 3.5rem;">9. 2023-09-07 — Order Denying Custody Review (Judge Flint)</td>
+  <td><a href="/federal-removal/flint-denial-of-custody-review-2023-09-07.pdf" target="_blank" class="btn-download">Download</a></td>
+</tr>
+
+<!-- Item 10 -->
+<tr class="indented-row">
+  <td></td>
+  <td style="padding-left: 3.5rem;">10. 2023-11-13 — Statement of Disqualification against Judge Andrea Flint</td>
+  <td><a href="/federal-removal/flint-disqualification-2023-11-13.pdf" target="_blank" class="btn-download">Download</a></td>
+</tr>
+
+<!-- Item 11 -->
+<tr class="indented-row">
+  <td></td>
+  <td style="padding-left: 3.5rem;">11. 2023-11-28 — Response to Void DVRO Issued by Disqualified Judge Flint After Her Disqualification, Request to Release Petitioner's Son Max Mars from Unlawful Detention, And Restore Custody Rights</td>
+  <td><a href="/federal-removal/dvro-response-request-to-release-max-mars-2023-11-29.pdf" target="_blank" class="btn-download">Download</a></td>
+</tr>
+
+<!-- Item 12 -->
+<tr class="indented-row">
+  <td></td>
+  <td style="padding-left: 3.5rem;">12. 2024-01-18 — Custody Review Request Evidence Binder with Supervised Visitation Reports And Evidence of Impermissible Pressure on Supervisors And Emergency Screener by Opposing Counsel (Judge Lowney)</td>
+  <td><a href="/federal-removal/supervised-visit-reports-for-custody-review-2024-01-18.pdf" target="_blank" class="btn-download">Download</a></td>
+</tr>
+
+<!-- Item 13 -->
+<tr class="indented-row">
+  <td></td>
+  <td style="padding-left: 3.5rem;">13. 2024-01-31 — Evidence Binder in Support of DVRO Response, Request to Release Minor Child Max Mars from Detention and Prevent International Child Abduction (Amended, Addressed to Lowney)</td>
+  <td><a href="/federal-removal/dvro-response-evidence-binder-2024-01-31.pdf" target="_blank" class="btn-download">Download</a></td>
+</tr>
+
+<!-- Item 14 -->
+<tr class="indented-row">
+  <td></td>
+  <td style="padding-left: 3.5rem;">14. 2024-02-07 — Order Denying Custody Review (Judge Lowney)</td>
+  <td><a href="/federal-removal/lowney-denial-of-custody-review-2024-02-07.pdf" target="_blank" class="btn-download">Download</a></td>
+</tr>
+
+<!-- Item 15 -->
+<tr class="indented-row">
+  <td></td>
+  <td style="padding-left: 3.5rem;">15. 2024-02-07 — Key Statements from Hearing Transcript: Denial of Custody Review and DVRO Trial, Extortion of Money and Documents of Abducted Minor (Judge Lowney)</td>
+  <td><a href="/federal-removal/lowney-hearing-key-statements-2024-02-07.pdf" target="_blank" class="btn-download">Download</a></td>
+</tr>
+
+<!-- Item 16 -->
+<tr class="indented-row">
+  <td></td>
+  <td style="padding-left: 3.5rem;">16. 2024-02-07 — Full Hearing Transcript (Judge Lowney)</td>
+  <td><a href="/federal-removal/lowney-hearing-transcript-2024-02-07.pdf" target="_blank" class="btn-download">Download</a></td>
+</tr>
+
+<!-- Item 17 -->
+<tr class="indented-row">
+  <td></td>
+  <td style="padding-left: 3.5rem;">17. 2024-02-07 — Audio Recording of Hearing (Judge Lowney)</td>
+  <td><a href="https://drive.google.com/file/d/1j_I9dPqKY-onw9XCMGevyoy-fqhy9SAu/preview" target="_blank" class="btn-download">Download Audio</a></td>
+</tr>
+
+<!-- Item 18 -->
+<tr class="indented-row">
+  <td></td>
+  <td style="padding-left: 3.5rem;">18. 2024-02-20 — Statement of Disqualification Against Judge Stephen Lowney</td>
+  <td><a href="/federal-removal/lowney-disqualification-2024-02-20.pdf" target="_blank" class="btn-download">Download</a></td>
+</tr>
+
+<!-- Item 19 -->
+<tr class="indented-row">
+  <td></td>
+  <td style="padding-left: 3.5rem;">19. 2024-06-17 — Void Permanent Domestic Violence Restraining Order Issued by Judge Stephen Lowney Post-Disqualification</td>
+  <td><a href="/federal-removal/lowney-permanent-dvro-2024-06-17.pdf" target="_blank" class="btn-download">Download</a></td>
+</tr>
+
+<!-- Item 20 -->
+<tr class="indented-row">
+  <td></td>
+  <td style="padding-left: 3.5rem;">20. 2024-06-17 — Order Denying Custody Review And DVRO Trial, Bifurcation of Divorce Status, Change of Venue, and Nullification of Void Orders Issued By Disqualified Judges Lowney, Flint, Towery + Void Bench Warrant Issued By Disqualified Judge Stephen Lowney Against Petitioner Post-Disqualification</td>
+  <td><a href="/federal-removal/lowney-bench-warrant-2024-06-17.pdf" target="_blank" class="btn-download">Download</a></td>
+</tr>
+
+      <!-- ========== A-41 ========== -->
+<tr>
+  <td><strong>A-41</strong></td>
+  <td>Multiple Void Domestic Violence Restraining Orders Blocking Contact With Petitioner's Abducted Son Max Mars And Enforcing International Abduction of Max Mars Outside United States - Issued by Disqualified Judges Lowney, Flint, and Towery</td>
+  <td></td>
+</tr>
+
+<!-- Item 1 -->
+<tr class="indented-row">
+  <td></td>
+  <td style="padding-left: 3.5rem;">1. 2022-09-14 — Void Domestic Violence Restraining Order (initial) — Issued by Disqualified Judge James Towery</td>
+  <td><a href="/federal-removal/towery-dvro-fraud-2022-09-14.pdf" target="_blank" class="btn-download">Download</a></td>
+</tr>
+
+<!-- Item 2 -->
+<tr class="indented-row">
+  <td></td>
+  <td style="padding-left: 3.5rem;">2. 2023-11-28 — Void Domestic Violence Restraining Order Issued Post-Disqualification — Issued by Disqualified Judge Andrea Flint</td>
+  <td><a href="/federal-removal/flint-void-dvro-post-disqualification-2023-11-28.pdf" target="_blank" class="btn-download">Download</a></td>
+</tr>
+
+<!-- Item 3 -->
+<tr class="indented-row">
+  <td></td>
+  <td style="padding-left: 3.5rem;">3. 2024-06-17 — Void Permanent Domestic Violence Restraining Order Issued Post-Disqualification — Issued by Disqualified Judge Stephen Lowney</td>
+  <td><a href="/federal-removal/lowney-permanent-dvro-2024-06-17.pdf" target="_blank" class="btn-download">Download</a></td>
+</tr>
+
+      <!-- ========== A-42 ========== -->
+<tr>
+  <td><strong>A-42</strong></td>
+  <td>Repetitive Extortion of Money, Passport and Documents of Petitioner's Abducted Son Max Mars by Members of Santa Clara Mafia Cartel Disqualified Judges Lowney, Flint, and Towery</td>
+  <td></td>
+</tr>
+
+<!-- Item 1 -->
+<tr class="indented-row">
+  <td></td>
+  <td style="padding-left: 3.5rem;">1. 2022-09-14 — Kidnapping of Petitioner's Son Max Mars, Seizure of apartments and VW Tiguan, Extortion of Money, Passport and Documents by Disqualified Judge James Towery via Void DVRO Fraud</td>
+  <td><a href="/federal-removal/towery-dvro-fraud-2022-09-14.pdf" target="_blank" class="btn-download">Download</a></td>
+</tr>
+
+<!-- Item 2 -->
+<tr class="indented-row">
+  <td></td>
+  <td style="padding-left: 3.5rem;">2. 2023-10-31 — Extortion of Money via Denial of DVRO Trial, Obstruction of Justice, and Coercive Court Orders by Andrea Flint, Steven Dinneen and Nancy Roberts</td>
+  <td><a href="/federal-removal/flint-denial-dvro-trial-extortion-of-money-2022-10-31.pdf" target="_blank" class="btn-download">Download</a></td>
+</tr>
+
+<!-- Item 3 -->
+<tr class="indented-row">
+  <td></td>
+  <td style="padding-left: 3.5rem;">3. 2023-02-08 — Extortion of Money via Unwarranted Child and Spousal Support Using Denial of Access to Court and Aggravated Kidnapping as Leverage — Coercion to Sign Void Stipulation by Andrea Flint, Steven Dinneen, Nancy Roberts</td>
+  <td><a href="/federal-removal/flint-coercive-stipulation-on-child-support-2023-02-08.pdf" target="_blank" class="btn-download">Download</a></td>
+</tr>
+
+<!-- Item 4 -->
+<tr class="indented-row">
+  <td></td>
+  <td style="padding-left: 3.5rem;">4. 2023-03-15 — Extortion of Passport of Petitioner's Abducted Son Max Mars by Steven Dinneen (Petitioner's lawyer) and Email Thread Clarifying Reasons for Substitution of Attorney</td>
+  <td><a href="/federal-removal/dinneen-extortion-of-passport-of-max-mars-substitution-of-attorney-2023-03-16.pdf" target="_blank" class="btn-download">Download</a></td>
+</tr>
+
+<!-- Item 5 -->
+<tr class="indented-row">
+  <td></td>
+  <td style="padding-left: 3.5rem;">5. 2023-03-31 — Petitioner's Notice of Substitution of Attorney - Termination of Steven Dinneen from Further Representation</td>
+  <td><a href="/federal-removal/substitution-of-attorney-termination-of-dinneen-2023-03-31.pdf" target="_blank" class="btn-download">Download</a></td>
+</tr>
+
+<!-- Item 6 -->
+<tr class="indented-row">
+  <td></td>
+  <td style="padding-left: 3.5rem;">6. 2023-05-12 — Theft via Unlawful Wages Garnishment by Member of Santa Clara Mafia Cartel — Judge Andrea Flint (Judge on the Case)</td>
+  <td><a href="/federal-removal/flint-wages-garnishment-2023-05-12.pdf" target="_blank" class="btn-download">Download</a></td>
+</tr>
+
+<!-- Item 7 -->
+<tr class="indented-row">
+  <td></td>
+  <td style="padding-left: 3.5rem;">7. 2023-06-29 — Extortion of Money, Passport and Documents of Petitioner's Abducted Son Max Mars Using Denial of Custody Review Hearing and Unlawful Detention as Leverage by Andrea Flint and Nancy Roberts</td>
+  <td><a href="/federal-removal/flint-denial-of-custody-review-and-extortion-of-max-mars-passport-2023-06-29.pdf" target="_blank" class="btn-download">Download</a></td>
+</tr>
+
+<!-- Item 8 -->
+<tr class="indented-row">
+  <td></td>
+  <td style="padding-left: 3.5rem;">8. 2023-11-13 — Extortion of Money, 401k Funds, VW Tiguan Title, Passport and Documents Using Denial of Fair Trial and Fraud on Court with Falsified Bank Statements While Detaining Max Mars Hostage Without Right for a Phone Call — by Andrea Flint</td>
+  <td><a href="/federal-removal/flint-extortion-of-money-fraud-on-court-2023-11-13.pdf" target="_blank" class="btn-download">Download</a></td>
+</tr>
+
+<!-- Item 9 -->
+<tr class="indented-row">
+  <td></td>
+  <td style="padding-left: 3.5rem;">9. 2023-11-13 — Statement of Disqualification Against Judge Andrea Flint</td>
+  <td><a href="/federal-removal/flint-disqualification-2023-11-13.pdf" target="_blank" class="btn-download">Download</a></td>
+</tr>
+
+<!-- Item 10 -->
+<tr class="indented-row">
+  <td></td>
+  <td style="padding-left: 3.5rem;">10. 2024-02-07 — Extortion of Money, 401k Funds, Passport and Documents Using Unlawful Detention, Denial of Access to Court and Threats of Unlawful Incarceration and Further Malicious Prosecution — Key Statements of Hearing Before Judge Stephen Lowney</td>
+  <td><a href="/federal-removal/lowney-hearing-key-statements-2024-02-07.pdf" target="_blank" class="btn-download">Download</a></td>
+</tr>
+
+<!-- Item 11 -->
+<tr class="indented-row">
+  <td></td>
+  <td style="padding-left: 3.5rem;">11. 2024-02-07 — Full Hearing Transcript Before Judge Stephen Lowney</td>
+  <td><a href="/federal-removal/lowney-hearing-transcript-2024-02-07.pdf" target="_blank" class="btn-download">Download</a></td>
+</tr>
+
+<!-- Item 12 -->
+<tr class="indented-row">
+  <td></td>
+  <td style="padding-left: 3.5rem;">12. 2024-02-07 — Audio Recording of Hearing Before Judge Stephen Lowney</td>
+  <td><a href="https://drive.google.com/file/d/1j_I9dPqKY-onw9XCMGevyoy-fqhy9SAu/preview" target="_blank" class="btn-download">View / Download Audio</a></td>
+</tr>
+
+<!-- Item 13 -->
+<tr class="indented-row">
+  <td></td>
+  <td style="padding-left: 3.5rem;">13. 2024-02-20 — Statement of Disqualification Against Judge Stephen Lowney</td>
+  <td><a href="/federal-removal/lowney-disqualification-2024-02-20.pdf" target="_blank" class="btn-download">Download</a></td>
+</tr>
+
+<!-- Item 14 -->
+<tr class="indented-row">
+  <td></td>
+  <td style="padding-left: 3.5rem;">14. 2024-06-17 — Extortion of Money, 401k Funds, Passport and Documents Using Unlawful Detention, Void Bench Warrant, Permanent Restraining Order, Denial of All Matters, Denial of Access to Court via Vexatious Litigant Order, Denial of Finalization of Divorce, Change of Venue, and Nullification of Void Orders — by Disqualified Judge Stephen Lowney</td>
+  <td><a href="/federal-removal/lowney-denial-of-nullification-of-void-orders-2024-06-17.pdf" target="_blank" class="btn-download">Download</a></td>
+</tr>
+
+      <!-- A-43 -->
+      <tr>
+        <td><strong>A-43</strong></td>
+        <td>Video Recordings And CPS Reports of Beating, Bruises And Blocking Contact With Petitioner's Abducted Son Max Mars by Unlawfully Custodial Parent Hanna Mars and Armed Organized Criminals from Santa Clara Mafia Cartel in Sunnyvale Police Department, CA During Unlawful Detention of Petitioner's Son Max Mars After Kidnapping</td>
+        <td><a href="/federal-removal/beating-bruises-cps-reports-max-mars.pdf" target="_blank" class="btn-download">Download PDF + Videos</a></td>
+      </tr>
+
+      <!-- A-44 -->
+      <tr>
+        <td><strong>A-44</strong></td>
+        <td>Supervised Visitation Reports and Documentation of Physical Injuries to Minor Child Max Mars by Unlawfully Custodial Parent Hanna Mars Documented by Child Protective Services</td>
+        <td><a href="/federal-removal/supervised-visitation-reports-injuries-max-mars.pdf" target="_blank" class="btn-download">Download PDF</a></td>
+      </tr>
+
+      <!-- A-45 -->
+      <tr>
+        <td><strong>A-45</strong></td>
+        <td>Petitioner's Letter to Presiding Judge Beth McGowen Requesting Removal of Disqualified Judge Stephen Lowney, Immediate Release of Max Mars from Unlawful Detention and Restoration of Custody, Change of Venue, and Nullification of Void Orders - And Presiding Judge Beth McGowen Response Denying Removal of Disqualified Judge Lowney and Granting Coordinated Malicious Prosecution Against Petitioner For Reporting Disqualified Judges Lowney, Flint and Towery to CJP and FBI</td>
+        <td><a href="/federal-removal/letter-mcgowen-removal-lowney-malicious-prosecution.pdf" target="_blank" class="btn-download">Download PDF</a></td>
+      </tr>
+
+      <!-- A-46 with expanded internal index -->
+      <tr>
+        <td><strong>A-46</strong></td>
+        <td>Petitioner's Repeated Efforts to Obtain Contact with His Abducted Son Max Mars and Prevent International Abduction - and Resulting Denials of Contact, Refusal To Communicate After Aggravated Kidnapping of Petitioner's Son Max Mars</td>
+        <td></td>
+      </tr>
+
+      <tr class="indented-row">
+        <td></td>
+        <td style="padding-left: 2.5rem; font-weight: 500;">Internal Chronological Index:</td>
+        <td></td>
+      </tr>
+
+      <tr class="indented-row">
+        <td></td>
+        <td style="padding-left: 3.5rem;">1. 2025-11-20 — Denial of a Phone Call With Max Mars on Max's Birthday by Respondent's Lawyer Nancy Roberts</td>
+        <td><a href="/federal-removal/denial-of-contact-refusal-to-communicate-2025.pdf" target="_blank" class="btn-download">Download</a></td>
+      </tr>
+      <tr class="indented-row">
+        <td></td>
+        <td style="padding-left: 3.5rem;">2. 2025-11-23 — Denial of a Phone Call and Refusal to Communicate by Kidnappers from Ukrainian Cartel "Kodlo Gondona" (Private Messages)</td>
+        <td><a href="/federal-removal/denial-of-contact-refusal-to-communicate-2025.pdf" target="_blank" class="btn-download">Download</a></td>
+      </tr>
+      <tr class="indented-row">
+        <td></td>
+        <td style="padding-left: 3.5rem;">3. 2025-12-25 — Public Video Messages to Kidnappers Requesting Release of Max Mars and a Phone Call</td>
+        <td><a href="/federal-removal/denial-of-contact-refusal-to-communicate-2025.pdf" target="_blank" class="btn-download">Download</a></td>
+      </tr>
+      <tr class="indented-row">
+        <td></td>
+        <td style="padding-left: 3.5rem;">4. 2025-12-25 — Confirmation of Kidnappers Taking Down YouTube Channel "Mars Justice" — Blocking Publicity</td>
+        <td><a href="/federal-removal/denial-of-contact-refusal-to-communicate-2025.pdf" target="_blank" class="btn-download">Download</a></td>
+      </tr>
+
+      <!-- A-47 -->
+      <tr>
+        <td><strong>A-47</strong></td>
+        <td>Unlawful Arrest of Petitioner, Theft of Tesla Cybertruck with Donald Trump, Book “Warrior Kid” by Jocko Willink, and Donuts And Hot Chocolate from Petitioner's Abducted Son Max Mars by Organized Group of Armed Criminal Members of Santa Clara Mafia Cartel In Police Uniform of Sunnyvale PD, CA</td>
+        <td><a href="/federal-removal/unlawful-arrest-theft-cybertruck-max-mars-2024-06-14.pdf" target="_blank" class="btn-download">Download PDF + Video</a></td>
+      </tr>
+
+      <!-- A-48 -->
+      <tr>
+        <td><strong>A-48</strong></td>
+        <td>International Child Abduction History by Respondent and Affidavits of Witnesses Confirming Child Abduction</td>
+        <td><a href="/federal-removal/international-child-abduction-history-affidavits.pdf" target="_blank" class="btn-download">Download PDF</a></td>
+      </tr>
+
+      <!-- A-49 -->
+      <tr>
+        <td><strong>A-49</strong></td>
+        <td>Official Media About Mass Murder Of Children In War Zone In Ukraine During War Since 2022 Until Now - Where Organized Group Of Criminals Kidnapped And Trafficked Petitioner's Son Max Mars</td>
+        <td><a href="/federal-removal/mass-murder-children-ukraine-war-zone-2022-2026.pdf" target="_blank" class="btn-download">Download PDF</a></td>
+      </tr>
+
+    </tbody>
+  </table>
+</div>
+
 ----------
 
 

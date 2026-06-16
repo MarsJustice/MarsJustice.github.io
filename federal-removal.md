@@ -416,6 +416,138 @@ All materials are provided for transparency, preservation of the record, and pub
   </table>
 </div>
 
+<div class="evidence-binder-section">
+  <h2>Set 3 - Criminal Case B2402220 - Dismissal Evidence</h2>
+
+  <table class="premium-table">
+    <thead>
+      <tr>
+        <th style="width: 10%;">Exhibit</th>
+        <th>Document</th>
+        <th style="width: 12%;">Download</th>
+      </tr>
+    </thead>
+    <tbody>
+
+      <tr>
+        <td><strong>A-24</strong></td>
+        <td>Motion to Dismiss Criminal Case B2402220 (with Proposed Order)</td>
+        <td><a href="/federal-removal/motion-to-dismiss-criminal-case.pdf" target="_blank" class="btn-download">Download PDF</a></td>
+      </tr>
+
+      <tr>
+        <td><strong>A-25</strong></td>
+        <td>Statement of Disqualification - Judge Andrea Flint (Nov. 13, 2023)</td>
+        <td><a href="/federal-removal/flint-disqualification-2023-11-13.pdf" target="_blank" class="btn-download">Download PDF</a></td>
+      </tr>
+
+      <tr>
+        <td><strong>A-26</strong></td>
+        <td>Void ab initio Domestic Violence Restraining Order signed by Judge Flint After Disqualification (Nov. 28, 2023)</td>
+        <td><a href="/federal-removal/dvro-flint-2023-11-28.pdf" target="_blank" class="btn-download">Download PDF</a></td>
+      </tr>
+
+      <tr>
+        <td><strong>A-27</strong></td>
+        <td>Key Statements and Material Facts from the February 7, 2024 Hearing Before Judge Lowney - Extortion of Money and Documents, Threats of Malicious Prosecution, and Racketeering Under Color of Law</td>
+        <td><a href="/federal-removal/lowney-hearing-key-statements-2024-02-07.pdf" target="_blank" class="btn-download">Download PDF</a></td>
+      </tr>
+
+      <tr>
+        <td><strong>A-28</strong></td>
+        <td>Transcript of Hearing before Judge Lowney (February 7, 2024)</td>
+        <td><a href="/federal-removal/lowney-hearing-transcript-2024-02-07.pdf" target="_blank" class="btn-download">Download PDF</a></td>
+      </tr>
+
+      <tr>
+        <td><strong>A-29</strong></td>
+        <td>Audio Recording of Hearing before Judge Lowney (February 7, 2024)</td>
+        <td><a href="https://drive.google.com/file/d/1j_I9dPqKY-onw9XCMGevyoy-fqhy9SAu/preview" target="_blank" class="btn-download">Download Audio</a></td>
+      </tr>
+
+      <tr>
+        <td><strong>A-30</strong></td>
+        <td>Statement of Disqualification - Judge Stephen Lowney (Feb. 20, 2024)</td>
+        <td><a href="/federal-removal/lowney-disqualification-2024-02-20.pdf" target="_blank" class="btn-download">Download PDF</a></td>
+      </tr>
+
+      <tr>
+        <td><strong>A-31</strong></td>
+        <td>Items Seized from Minor Child Max Mars During Arrest - Tesla Cybertruck with Donald Trump, “Warrior Kid” book by Jocko Willink, Donuts and Hot Chocolate - Denial of Contact (Jun. 14, 2024)</td>
+        <td><a href="/federal-removal/seized-items-cybertruck-donald-trump-2024-06-14.pdf" target="_blank" class="btn-download">Download PDF</a></td>
+      </tr>
+
+      <tr>
+        <td><strong>A-32</strong></td>
+        <td>Video recording of unlawful arrest by Officer Chase Martin (Badge #17209, Sunnyvale PD, CA) (Jun. 14, 2024)</td>
+        <td><a href="https://drive.google.com/file/d/1O6yLk2-C_duS0uSko9erA9-ngP5xwnZ7/preview" target="_blank" class="btn-download">Download Video</a></td>
+      </tr>
+
+      <tr>
+        <td><strong>A-33</strong></td>
+        <td>Void ab initio Bench Warrant Issued by Judge Stephen Lowney After his Disqualification and Threats of Malicious Prosecution (Jun. 17, 2024)</td>
+        <td><a href="/federal-removal/lowney-bench-warrant-2024-06-17.pdf" target="_blank" class="btn-download">Download PDF</a></td>
+      </tr>
+
+      <tr>
+        <td><strong>A-34</strong></td>
+        <td>Criminal Bench Warrant Issued by Judge Benjamin Williams During Hearing Despite Presence of Plaintiff and His Attorney (Aug. 21, 2024)</td>
+        <td><a href="/federal-removal/williams-bench-warrant-2024-08-21.pdf" target="_blank" class="btn-download">Download PDF</a></td>
+      </tr>
+
+      <!-- A-35 with indented video sub-items -->
+      <tr>
+        <td><strong>A-35</strong></td>
+        <td>Video Recordings of Criminal Court Hearings before Judges Kuhnle and Williams - Denial of Hearing, Blocking Criminal Case from Resolution, Extortion of Money via Lawyer Acting in Criminal Conspiracy with the Judge (August 2024)</td>
+        <td></td>
+      </tr>
+
+      <tr class="indented-row">
+        <td></td>
+        <td style="padding-left: 2.5rem;">• August 15, 2024 (Kuhnle) Hearing</td>
+        <td><a href="https://drive.google.com/file/d/1DAaItUbRjYs_O_sUDpXiWYWExHtzG6ql/preview" target="_blank" class="btn-download">Download Video</a></td>
+      </tr>
+
+      <tr class="indented-row">
+        <td></td>
+        <td style="padding-left: 2.5rem;">• August 19, 2024 (Williams) Hearing</td>
+        <td><a href="https://drive.google.com/file/d/1dTvasJPaRW-MuYK9gpe0oagzWEdQEw73/preview" target="_blank" class="btn-download">Download Video</a></td>
+      </tr>
+
+      <tr class="indented-row">
+        <td></td>
+        <td style="padding-left: 2.5rem;">• August 21, 2024 (Williams) – Part 1</td>
+        <td><a href="https://drive.google.com/file/d/1Sn0_ZuVeTKEEEPlCn5eOSLtZ3CM4LFZ_/preview" target="_blank" class="btn-download">Download Video</a></td>
+      </tr>
+
+      <tr class="indented-row">
+        <td></td>
+        <td style="padding-left: 2.5rem;">• August 21, 2024 (Williams) – Part 2: Denial of Hearing and Issuance of Bench Warrant</td>
+        <td><a href="https://drive.google.com/file/d/1e60zP91nn3hnodVQTvZB7xTjVwCBbVEC/preview" target="_blank" class="btn-download">Download Video</a></td>
+      </tr>
+
+      <tr>
+        <td><strong>A-36</strong></td>
+        <td>Sunnyvale Police Department Response (Oct. 30, 2024) to Request for Evidence (Oct 21, 2024) - Denial of Access to Body Camera Recordings of Police Officers who Committed Unlawful Arrest on June 14, 2024</td>
+        <td><a href="/federal-removal/sunnyvale-police-bodycam-recordings-denial-2024-10-30.pdf" target="_blank" class="btn-download">Download PDF</a></td>
+      </tr>
+
+      <tr>
+        <td><strong>A-37</strong></td>
+        <td>Arrest Warrant Issued by Judge Michael Clark (Oct. 23, 2024) In Response to Plaintiff's Request for Evidence (Oct 21, 2024) for Access to Body Camera Recordings</td>
+        <td><a href="/federal-removal/clark-arrest-warrant-2024-10-23.pdf" target="_blank" class="btn-download">Download PDF</a></td>
+      </tr>
+
+      <tr>
+        <td><strong>A-38</strong></td>
+        <td>Public Record of Racketeering by Serhii Nahornyy (Father of Respondent) and Ivan Omelchenko in Ukraine (2015) - Repeating The Same Pattern of Racketeering In Attack on Petitioner (2022)</td>
+        <td><a href="/federal-removal/racketeering-by-ukrainian-cartel-kodlo-gondona.pdf" target="_blank" class="btn-download">Download PDF</a></td>
+      </tr>
+
+    </tbody>
+  </table>
+</div>
+
 ----------
 
 

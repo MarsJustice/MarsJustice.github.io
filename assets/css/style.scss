@@ -962,3 +962,13 @@ hr,
     text-decoration: underline;
     text-underline-offset: 4px;
 }
+
+.indented-row td {
+  font-size: 0.95rem;
+  color: #c8c8c8;
+}
+
+.indented-row .btn-download {
+  font-size: 0.85rem;
+  padding: 0.35rem 0.9rem;
+}

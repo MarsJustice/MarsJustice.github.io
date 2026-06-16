@@ -585,3 +585,7 @@ hr, .evidence-divider { border: none; height: 1px; /* Ultra thin */ background: 
 .regular-link { color: #ff0030; text-decoration: underline; text-underline-offset: 4px; font-weight: 500; transition: color 0.2s ease; }
 
 .regular-link:hover { color: #ff0030; text-decoration: underline; text-underline-offset: 4px; }
+
+.indented-row td { font-size: 0.95rem; color: #c8c8c8; }
+
+.indented-row .btn-download { font-size: 0.85rem; padding: 0.35rem 0.9rem; }

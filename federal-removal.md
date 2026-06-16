@@ -911,74 +911,202 @@ All materials are provided for transparency, preservation of the record, and pub
   <td><a href="https://drive.google.com/file/d/1O6yLk2-C_duS0uSko9erA9-ngP5xwnZ7/preview" target="_blank" class="btn-download">View Video</a></td>
 </tr>
 
-      <!-- A-44 -->
-      <tr>
-        <td><strong>A-44</strong></td>
-        <td>Supervised Visitation Reports and Documentation of Physical Injuries to Minor Child Max Mars by Unlawfully Custodial Parent Hanna Mars Documented by Child Protective Services</td>
-        <td><a href="/federal-removal/supervised-visitation-reports-injuries-max-mars.pdf" target="_blank" class="btn-download">Download PDF</a></td>
-      </tr>
+      <!-- ========== A-44 ========== -->
+<tr>
+  <td><strong>A-44</strong></td>
+  <td>Supervised Visitation Reports and Documentation of Physical Injuries to Minor Child Max Mars by Unlawfully Custodial Parent Hanna Mars Documented by Child Protective Services</td>
+  <td></td>
+</tr>
 
-      <!-- A-45 -->
-      <tr>
-        <td><strong>A-45</strong></td>
-        <td>Petitioner's Letter to Presiding Judge Beth McGowen Requesting Removal of Disqualified Judge Stephen Lowney, Immediate Release of Max Mars from Unlawful Detention and Restoration of Custody, Change of Venue, and Nullification of Void Orders - And Presiding Judge Beth McGowen Response Denying Removal of Disqualified Judge Lowney and Granting Coordinated Malicious Prosecution Against Petitioner For Reporting Disqualified Judges Lowney, Flint and Towery to CJP and FBI</td>
-        <td><a href="/federal-removal/letter-mcgowen-removal-lowney-malicious-prosecution.pdf" target="_blank" class="btn-download">Download PDF</a></td>
-      </tr>
+<!-- Item 1 -->
+<tr class="indented-row">
+  <td></td>
+  <td style="padding-left: 3.5rem;">1. 2022-12-10 — Photographs of Bruises on Body of Petitioner's Abducted Son Max Mars Observed During Unlawfully Enforced Paid Supervised Visitation Used For Detention of Max Mars After Kidnapping</td>
+  <td><a href="/federal-removal/max-mars-bruises-2022-12-10.pdf" target="_blank" class="btn-download">Download</a></td>
+</tr>
 
-      <!-- A-46 with expanded internal index -->
-      <tr>
-        <td><strong>A-46</strong></td>
-        <td>Petitioner's Repeated Efforts to Obtain Contact with His Abducted Son Max Mars and Prevent International Abduction - and Resulting Denials of Contact, Refusal To Communicate After Aggravated Kidnapping of Petitioner's Son Max Mars</td>
-        <td></td>
-      </tr>
+<!-- Item 2 -->
+<tr class="indented-row">
+  <td></td>
+  <td style="padding-left: 3.5rem;">2. 2022-12-12 — Child Protective Services Report Confirming Bruises on Body of Petitioner's Son Max Mars During Unlawful Detention of Max Mars</td>
+  <td><a href="/federal-removal/cps-report-2022-12-12.pdf" target="_blank" class="btn-download">Download</a></td>
+</tr>
 
-      <tr class="indented-row">
-        <td></td>
-        <td style="padding-left: 2.5rem; font-weight: 500;">Internal Chronological Index:</td>
-        <td></td>
-      </tr>
+<!-- Item 3 -->
+<tr class="indented-row">
+  <td></td>
+  <td style="padding-left: 3.5rem;">3. 2023-11-10 — Photograph of Max's Phone Confirming Removal of SIM Card by Unlawful Custodian Hanna Mars During Unlawful Detention of Max Mars After Kidnapping</td>
+  <td><a href="/federal-removal/sim-card-removed-2023-11-10.pdf" target="_blank" class="btn-download">Download</a></td>
+</tr>
 
-      <tr class="indented-row">
-        <td></td>
-        <td style="padding-left: 3.5rem;">1. 2025-11-20 — Denial of a Phone Call With Max Mars on Max's Birthday by Respondent's Lawyer Nancy Roberts</td>
-        <td><a href="/federal-removal/denial-of-contact-refusal-to-communicate-2025.pdf" target="_blank" class="btn-download">Download</a></td>
-      </tr>
-      <tr class="indented-row">
-        <td></td>
-        <td style="padding-left: 3.5rem;">2. 2025-11-23 — Denial of a Phone Call and Refusal to Communicate by Kidnappers from Ukrainian Cartel "Kodlo Gondona" (Private Messages)</td>
-        <td><a href="/federal-removal/denial-of-contact-refusal-to-communicate-2025.pdf" target="_blank" class="btn-download">Download</a></td>
-      </tr>
-      <tr class="indented-row">
-        <td></td>
-        <td style="padding-left: 3.5rem;">3. 2025-12-25 — Public Video Messages to Kidnappers Requesting Release of Max Mars and a Phone Call</td>
-        <td><a href="/federal-removal/denial-of-contact-refusal-to-communicate-2025.pdf" target="_blank" class="btn-download">Download</a></td>
-      </tr>
-      <tr class="indented-row">
-        <td></td>
-        <td style="padding-left: 3.5rem;">4. 2025-12-25 — Confirmation of Kidnappers Taking Down YouTube Channel "Mars Justice" — Blocking Publicity</td>
-        <td><a href="/federal-removal/denial-of-contact-refusal-to-communicate-2025.pdf" target="_blank" class="btn-download">Download</a></td>
-      </tr>
+<!-- Item 4 -->
+<tr class="indented-row">
+  <td></td>
+  <td style="padding-left: 3.5rem;">4. 2023-11-10 — Unlawfully Enforced Paid Supervised Report Confirming Removal of SIM Card And Blocking Phone Calls And Messages During Unlawful Detention of Max Mars After Kidnapping — Christina Covarrubias</td>
+  <td><a href="/federal-removal/sim-card-removed-supervised-report-2023-11-10.pdf" target="_blank" class="btn-download">Download</a></td>
+</tr>
 
-      <!-- A-47 -->
-      <tr>
-        <td><strong>A-47</strong></td>
-        <td>Unlawful Arrest of Petitioner, Theft of Tesla Cybertruck with Donald Trump, Book “Warrior Kid” by Jocko Willink, and Donuts And Hot Chocolate from Petitioner's Abducted Son Max Mars by Organized Group of Armed Criminal Members of Santa Clara Mafia Cartel In Police Uniform of Sunnyvale PD, CA</td>
-        <td><a href="/federal-removal/unlawful-arrest-theft-cybertruck-max-mars-2024-06-14.pdf" target="_blank" class="btn-download">Download PDF + Video</a></td>
-      </tr>
+<!-- Item 5 -->
+<tr class="indented-row">
+  <td></td>
+  <td style="padding-left: 3.5rem;">5. 2024-01-18 — All Supervised Reports Sent to Disqualified Judge Stephen Lowney for Custody Review Hearing</td>
+  <td><a href="/federal-removal/supervised-visit-reports-for-custody-review-2024-01-18.pdf" target="_blank" class="btn-download">Download</a></td>
+</tr>
 
-      <!-- A-48 -->
-      <tr>
-        <td><strong>A-48</strong></td>
-        <td>International Child Abduction History by Respondent and Affidavits of Witnesses Confirming Child Abduction</td>
-        <td><a href="/federal-removal/international-child-abduction-history-affidavits.pdf" target="_blank" class="btn-download">Download PDF</a></td>
-      </tr>
+      <!-- ========== A-45 ========== -->
+<tr>
+  <td><strong>A-45</strong></td>
+  <td>Petitioner's Letter to Presiding Judge Beth McGowen Requesting Removal of Disqualified Judge Stephen Lowney, Immediate Release of Max Mars from Unlawful Detention and Restoration of Custody, Change of Venue, and Nullification of Void Orders - And Presiding Judge Beth McGowen Response Denying Removal of Disqualified Judge Lowney and Granting Coordinated Malicious Prosecution Against Petitioner For Reporting Disqualified Judges Lowney, Flint and Towery to CJP and FBI</td>
+  <td></td>
+</tr>
 
-      <!-- A-49 -->
-      <tr>
-        <td><strong>A-49</strong></td>
-        <td>Official Media About Mass Murder Of Children In War Zone In Ukraine During War Since 2022 Until Now - Where Organized Group Of Criminals Kidnapped And Trafficked Petitioner's Son Max Mars</td>
-        <td><a href="/federal-removal/mass-murder-children-ukraine-war-zone-2022-2026.pdf" target="_blank" class="btn-download">Download PDF</a></td>
-      </tr>
+<!-- Item 1 -->
+<tr class="indented-row">
+  <td></td>
+  <td style="padding-left: 3.5rem;">1. 2024-02-20 — Letter to Presiding Judge Beth McGowen filed simultaneously with Statement of Disqualification against Judge Stephen Lowney, requesting removal of disqualified judge Stephen Lowney, release of Petitioner's abducted son Max Mars from detention, and complete reassessment of the case</td>
+  <td><a href="/federal-removal/letter-to-presiding-judge-beth-mcgowen-2024-02-20.pdf" target="_blank" class="btn-download">Download</a></td>
+</tr>
+
+<!-- Item 2 -->
+<tr class="indented-row">
+  <td></td>
+  <td style="padding-left: 3.5rem;">2. 2024-04-08 — Response From Presiding Judge Beth McGowen Denying Removal of Disqualified Judge Stephen Lowney And Nullification of Void Orders</td>
+  <td><a href="/federal-removal/presiding-judge-mcgowen-denial-of-disqualification-and-nullification-2024-04-08.pdf" target="_blank" class="btn-download">Download</a></td>
+</tr>
+
+      <!-- ========== A-46 ========== -->
+<tr>
+  <td><strong>A-46</strong></td>
+  <td>Petitioner's Repeated Efforts to Obtain Contact with His Abducted Son Max Mars and Prevent International Abduction - and Resulting Denials of Contact, Refusal To Communicate After Aggravated Kidnapping of Petitioner's Son Max Mars</td>
+  <td></td>
+</tr>
+
+<!-- Item 1 -->
+<tr class="indented-row">
+  <td></td>
+  <td style="padding-left: 3.5rem;">1. 2025-11-20 — Denial of a Phone Call With Petitioner's Abducted Son Max Mars on Max's Birthday 2025 by Respondent's Lawyer Nancy Roberts</td>
+  <td><a href="/federal-removal/roberts-denial-of-call-with-max-mars-2025-11-20.pdf" target="_blank" class="btn-download">Download</a></td>
+</tr>
+
+<!-- Item 2 -->
+<tr class="indented-row">
+  <td></td>
+  <td style="padding-left: 3.5rem;">2. 2025-11-23 — Denial of a Phone Call and Refusal to Communicate by Kidnappers of Petitioner's Son Max Mars from Ukrainian Cartel "Kodlo Gondona" - Private Messages Requesting Release and a Phone Call</td>
+  <td><a href="/federal-removal/kidnappers-ukrainian-kodlo-gondona-denial-of-phone-call-with-max-mars-2025-11-23.pdf" target="_blank" class="btn-download">Download</a></td>
+</tr>
+
+<!-- Item 3 -->
+<tr class="indented-row">
+  <td></td>
+  <td style="padding-left: 3.5rem;">3. 2025-12-25 — Public Video Messages to Kidnappers of Petitioner's Son Max Mars and Their Friends Requesting Release from Detention and a Phone Call on Christmas</td>
+  <td></td>
+</tr>
+<tr class="indented-row">
+  <td></td>
+  <td style="padding-left: 5rem;">• Public Message to Serhii "Gondon" Nahornyy and Ivan "Pedofile" Omelchenko</td>
+  <td><a href="https://drive.google.com/file/d/1mZjVqauxOpMxCA6KjtY0OHq-MvFSDChe/preview" target="_blank" class="btn-download">View Video</a></td>
+</tr>
+<tr class="indented-row">
+  <td></td>
+  <td style="padding-left: 5rem;">• Public Message to "Gnyda" / Hanna Mars</td>
+  <td><a href="https://drive.google.com/file/d/1f6adN40zYdnfkMtvxNAB5Cf79wGK6fuA/preview" target="_blank" class="btn-download">View Video</a></td>
+</tr>
+<tr class="indented-row">
+  <td></td>
+  <td style="padding-left: 5rem;">• Public Message to All Friends and Relatives of the Kidnappers</td>
+  <td><a href="https://drive.google.com/file/d/1PxJVogfZuvbVuyWYiiL4bnKcjXeuJAt_/preview" target="_blank" class="btn-download">View Video</a></td>
+</tr>
+
+<!-- Item 4 -->
+<tr class="indented-row">
+  <td></td>
+  <td style="padding-left: 3.5rem;">4. 2025-12-25 — Confirmation of Kidnappers of Max Mars Taking Down YouTube Channel “Mars Justice” - Blocking Publicity About Aggravated Kidnapping</td>
+  <td><a href="/federal-removal/marsjustice-youtube-channel-takedown.pdf" target="_blank" class="btn-download">Download</a></td>
+</tr>
+
+      <!-- ========== A-47 ========== -->
+<tr>
+  <td><strong>A-47</strong></td>
+  <td>Unlawful Arrest of Petitioner, Theft of Tesla Cybertruck with Donald Trump, Book “Warrior Kid” by Jocko Willink, and Donuts And Hot Chocolate from Petitioner's Abducted Son Max Mars by Organized Group of Armed Criminal Members of Santa Clara Mafia Cartel In Police Uniform of Sunnyvale PD, CA - Enforcing Unlawful Detention of Max Mars Without Contact and Any Chances for Escape, and Child Trafficking Schema of International Abduction of Petitioner's Son Max Mars to War Zone in Ukraine</td>
+  <td></td>
+</tr>
+
+<!-- Item 1 -->
+<tr class="indented-row">
+  <td></td>
+  <td style="padding-left: 3.5rem;">1. 2024-06-14 — Items Seized From Petitioner's Abducted Son Max Mars During Unlawful Arrest - Tesla CyberTruck With Donald Trump, "Warrior Kid" Book By Jocko Willink, Donuts and Hot Chocolate - Enforcement of Unlawful Detention of Max Mars Without Contact and Any Chances for Escape, and Child Trafficking Schema of International Abduction of Petitioner's Son Max Mars to War Zone in Ukraine</td>
+  <td><a href="/federal-removal/seized-items-cybertruck-donald-trump-2024-06-14.pdf" target="_blank" class="btn-download">Download</a></td>
+</tr>
+
+<!-- Item 2 -->
+<tr class="indented-row">
+  <td></td>
+  <td style="padding-left: 3.5rem;">2. 2024-06-14 — Video Recording of Unlawful Arrest of Petitioner By Organized Group of Armed Criminal Members Of Santa Clara Mafia Cartel Led by Chase Martin (Sunnyvale PD Badge #17209) - Enforcing Unlawful Detention of Max Mars Without Contact and Any Chances for Escape, and Child Trafficking Schema of International Abduction of Petitioner's Son Max Mars to War Zone in Ukraine</td>
+  <td><a href="https://drive.google.com/file/d/1O6yLk2-C_duS0uSko9erA9-ngP5xwnZ7/preview" target="_blank" class="btn-download">View Video</a></td>
+</tr>
+
+      <!-- ========== A-48 ========== -->
+<tr>
+  <td><strong>A-48</strong></td>
+  <td>International Child Abduction History by Respondent and Affidavits of Witnesses Confirming Child Abduction</td>
+  <td></td>
+</tr>
+
+<!-- Item 1 -->
+<tr class="indented-row">
+  <td></td>
+  <td style="padding-left: 3.5rem;">1. 2019 - 2020 — Flight tickets: 6 months Extension of Stay in Ukraine - no Desire to Return to United States, Forcing Max Mars to Stay in Ukraine Without Chances to Return Home</td>
+  <td><a href="/federal-removal/flight-tickets-extension-6-month-ukraine.pdf" target="_blank" class="btn-download">Download</a></td>
+</tr>
+
+<!-- Item 2 -->
+<tr class="indented-row">
+  <td></td>
+  <td style="padding-left: 3.5rem;">2. 2022-09-27 — Affidavit of Alena Chepakovich - Confirming Plans of Hanna Mars to Abduct Max Mars to Ukraine Again</td>
+  <td><a href="/federal-removal/affidavit-alena-chepakovich.pdf" target="_blank" class="btn-download">Download</a></td>
+</tr>
+
+<!-- Item 3 -->
+<tr class="indented-row">
+  <td></td>
+  <td style="padding-left: 3.5rem;">3. 2022-09-30 — Affidavit of Alexander Pirozhenko - Confirming Max's Strong Bond with Father, Petitioner, Beneficial to Max</td>
+  <td><a href="/federal-removal/affidavit-alex-pirozhenko.pdf" target="_blank" class="btn-download">Download</a></td>
+</tr>
+
+<!-- Item 4 -->
+<tr class="indented-row">
+  <td></td>
+  <td style="padding-left: 3.5rem;">4. 2015 - 2022 — Max Mars Life Before Kidnapping : Petitioner's Instagram Devoted to Max Mars Life from the Day of Birth to the Very Day of Kidnapping</td>
+  <td><a href="/federal-removal/max-mars-life-before-kidnapping.pdf" target="_blank" class="btn-download">Download</a></td>
+</tr>
+
+      <!-- ========== A-49 ========== -->
+<tr>
+  <td><strong>A-49</strong></td>
+  <td>Official Media About Mass Murder Of Children In War Zone In Ukraine During War Since 2022 Until Now - Where Organized Group Of Criminals Kidnapped And Trafficked Petitioner's Son Max Mars</td>
+  <td></td>
+</tr>
+
+<!-- Item 1 -->
+<tr class="indented-row">
+  <td></td>
+  <td style="padding-left: 3.5rem;">1. 2026-05-13 — SaveTheChildren.org: Over 3,500 children Killed or Injured During War in Ukraine</td>
+  <td><a href="https://www.savethechildren.org/us/about-us/media-and-news/2026-press-releases/over-3500-children-killed-in-ukraine-war" target="_blank" class="btn-download">View Article</a></td>
+</tr>
+
+<!-- Item 2 -->
+<tr class="indented-row">
+  <td></td>
+  <td style="padding-left: 3.5rem;">2. 2024-07-08 — BBC.com: Children's Hospital Hit As Russian Strikes Kill Dozens In Ukraine</td>
+  <td><a href="https://www.bbc.com/news/articles/cl4y1pjk2dzo" target="_blank" class="btn-download">View Article</a></td>
+</tr>
+
+<!-- Item 3 -->
+<tr class="indented-row">
+  <td></td>
+  <td style="padding-left: 3.5rem;">3. 2022-07-14 — Radio Liberty: Horror of Losing 4 Year Old Daughter Liza In Russian Missile Attack On Vinnytsya In Ukraine</td>
+  <td><a href="https://www.rferl.org/a/ukraine-vinnytsya-russian-missile-4-year-old-liza-killed-down-mother/32503879.html" target="_blank" class="btn-download">View Article</a></td>
+</tr>
 
     </tbody>
   </table>

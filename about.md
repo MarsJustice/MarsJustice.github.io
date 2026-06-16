@@ -4,65 +4,99 @@ title: ABOUT
 permalink: /about/
 ---
 
-# Restoring Freedom Through Lawful Action
-
+<div class="glass-section">
+<h2>Restoring Freedom Through Lawful Action</h2>
+<p>
 A strong nation is built not only on opportunity - but on freedom, accountability, and the rule of law.
-
+</p>
+<p>
 At Mars Justice, we believe that preserving the promise of America begins with protecting the fundamental rights of every individual. True national strength is inseparable from liberty - because a nation cannot be great unless it is free.
+</p>
+</div>
 
-# Our Foundation
-
+<div class="glass-section">
+<h2>Our Foundation</h2>
+<p>
 Every person — adult or child — is entitled to protection under the Constitution.
-
+</p>
+<p>
 This includes the right to be free from unlawful detention, coercion, exploitation, and abuse of authority. These rights are not theoretical; they are enforceable, and they must be defended when they are violated.
-
+</p>
+<p>
 Mars Justice exists to support individuals and families facing serious legal and institutional challenges, including:
+<ul>
+    <li>Malicious or unjust prosecution</li>
+    <li>Wrongful or excessive enforcement actions</li>
+    <li>Violations of due process</li>
+    <li>Unlawful interference with family integrity</li>
+    <li>Misconduct carried out under color of law</li>
+</ul>
+</p>
+</div>
 
-- Malicious or unjust prosecution
-- Wrongful or excessive enforcement actions
-- Violations of due process
-- Unlawful interference with family integrity
-- Misconduct carried out under color of law
-
-# Our Mission
-
+<div class="glass-section">
+<h2>Our Mission</h2>
+<p>
 To protect the future of individuals, families, and communities by advancing accountability, due process, and lawful remedies within the American legal system.
-
+</p>
+<p>
 We are committed to:
-
-- Defending constitutional rights with precision and discipline
-- Supporting individuals impacted by institutional misconduct
-- Promoting transparency and accountability across legal and governmental systems
-- Providing structured guidance for navigating complex legal challenges
-
+<ul>
+    <li>Defending constitutional rights with precision and discipline</li>
+    <li>Supporting individuals impacted by institutional misconduct</li>
+    <li>Promoting transparency and accountability across legal and governmental systems</li>
+    <li>Providing structured guidance for navigating complex legal challenges</li>
+</ul>
+</p>
 Our work is grounded in professionalism, legal integrity, and a deep respect for the principles that define a just society.
+</p>
+</div>
 
-# Our Approach
-
+<div class="glass-section">
+<h2>Our Approach</h2>
+<p>
 Mars Justice operates with a clear and disciplined framework:
+<ul>
+<li>Clarity — Understanding each situation with accuracy and objectivity</li>
+<li>Structure — Organizing evidence and legal strategy with precision</li>
+<li>Action — Pursuing remedies through lawful, evidence - based processes</li>
+</ul>
+</p>
 
-- Clarity — Understanding each situation with accuracy and objectivity
-- Structure — Organizing evidence and legal strategy with precision
-- Action — Pursuing remedies through lawful, evidence - based processes
-
+<p>
 We emphasize preparation, documentation, and adherence to established legal standards—because lasting outcomes are built on disciplined execution.
+</p>
+</div>
 
-# A Commitment to Families and Future Generations
+<div class="glass-section">
+<h2>A Commitment to Families and Future Generations</h2>
 
+<p>
 The stability of a nation depends on the protection of its families—especially its children.
+</p>
 
+<p>
 Mars Justice is committed to safeguarding the rights and well-being of families by supporting lawful protections, advocating for due process, and promoting accountability where systems fail.
+</p>
+</div>
 
-# Moving Forward
+<div class="glass-section">
+<h2>Moving Forward</h2>
 
+<p>
 We encourage individuals to remain informed, understand their rights, and take disciplined, lawful steps to protect themselves and their families.
-
-Freedom is not assumed — it is defended.
+</p>
+<p>
+Freedom is not assumed — it is defended.<br/>
 Justice is not abstract — it is applied. 
+</p>
 
-- Read [Blog](https://MarsJustice.blog)  
-- Subscribe to [YouTube](https://www.youtube.com/@MarsJusticeTX)  
-- Stay tuned at [X.com](https://x.com/MarsJusticeX)
-- Follow on [Instagram](https://www.instagram.com/MarsJusticeX)  
-- Stay in touch at [Facebook](https://www.facebook.com/groups/marsjusticex/)     
-- Contact: [info@marsjustice.io](mailto:info@marsjustice.io)   
+<ul>
+<li>Read <a href="https://marsjustice.blog">Blog</a></li>
+<li>Subscribe to <a href="https://www.youtube.com/@marsjusticex">YouTube</a></li>
+<li>Stay tuned at <a href="https://x.com/marsjusticex">X</a></li>
+<li>Follow on <a href="https://www.instagram.com/marsjusticex">Instagram</a></li>
+<li>Stay in touch at <a href="https://www.facebook.com/groups/marsjusticex/">Facebook</a></li>
+<li>Contact: <a href="mailto:info@marsjustice.io">info@marsjustice.io</a></li>  
+</ul>
+</div>

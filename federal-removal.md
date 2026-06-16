@@ -4,18 +4,305 @@ title: FEDERAL REMOVAL
 permalink: /federal-removal/
 ---
 
-# FEDERAL REMOVAL PACKAGE 
-**United States District Court – Western District of Texas, Austin Division**
+<div class="glass-section">
+<h2>Federal Removal Package</h2>
+<b>United States District Court – Western District of Texas, Austin Division</b>
 
+<p>
 This page presents the complete federal removal package and supporting evidence in support of the removal of five related Santa Clara County Superior Court matters, including Criminal Case B2402220, under 28 U.S.C. §§ 1441, 1443, 1455 and related federal statutes.
-
+</p>
+<p>
 All materials are provided for transparency, preservation of the record, and public accountability.
+</p>
+</div>
+
+<!-- ==================== FEDERAL REMOVAL PACKAGE - TEXAS ==================== -->
+
+<div class="evidence-binder-section">
+  <h2>Federal Removal Package - Texas</h2>
+
+  <table class="premium-table">
+    <thead>
+      <tr>
+        <th style="width: 8%;">Item</th>
+        <th>Document</th>
+        <th style="width: 12%;">Download</th>
+      </tr>
+    </thead>
+    <tbody>
+
+      <!-- Main Federal Filings -->
+      <tr>
+        <td><strong>1</strong></td>
+        <td>Notice of Removal and Emergency Motion for Temporary Restraining Order</td>
+        <td><a href="/federal-removal/notice-of-removal-and-emergency-tro-motion.pdf" target="_blank" class="btn-download">Download PDF</a></td>
+      </tr>
+
+      <tr>
+        <td><strong>2</strong></td>
+        <td>Civil RICO Complaint (18 U.S.C. §§ 1961–1968)</td>
+        <td><a href="/federal-removal/civil-rico-complaint.pdf" target="_blank" class="btn-download">Download PDF</a></td>
+      </tr>
+
+      <tr>
+        <td><strong>3</strong></td>
+        <td>Civil Cover Sheet (JS-44)</td>
+        <td><a href="/federal-removal/civil-cover-sheet-js-44.pdf" target="_blank" class="btn-download">Download PDF</a></td>
+      </tr>
+
+      <tr>
+        <td><strong>4</strong></td>
+        <td>Application to Proceed In Forma Pauperis (AO 239) + Supporting Cover Letter</td>
+        <td><a href="/federal-removal/ao-239-fee-waiver-appication-and-supporting-exhibits.pdf" target="_blank" class="btn-download">Download PDF</a></td>
+      </tr>
+
+      <tr>
+        <td><strong>5</strong></td>
+        <td>Motion to Dismiss Criminal Case B2402220 with Prejudice</td>
+        <td><a href="/federal-removal/motion-to-dismiss-criminal-case.pdf" target="_blank" class="btn-download">Download PDF</a></td>
+      </tr>
+
+      <!-- Evidence Binder Volumes -->
+      <tr>
+        <td><strong>6</strong></td>
+        <td>Consolidated Evidence Binder – Volume 1 of 10<br>(Federal Filings)</td>
+        <td><a href="/federal-removal/evidence-binder-vol-01.pdf" target="_blank" class="btn-download">Download PDF</a></td>
+      </tr>
+
+      <tr>
+        <td><strong>7</strong></td>
+        <td>Consolidated Evidence Binder – Volume 2 of 10<br>(Judicial Disqualifications Part 1)</td>
+        <td><a href="/federal-removal/evidence-binder-vol-02.pdf" target="_blank" class="btn-download">Download PDF</a></td>
+      </tr>
+
+      <tr>
+        <td><strong>8</strong></td>
+        <td>Consolidated Evidence Binder – Volume 3 of 10<br>(Judicial Disqualifications Part 2)</td>
+        <td><a href="/federal-removal/evidence-binder-vol-03.pdf" target="_blank" class="btn-download">Download PDF</a></td>
+      </tr>
+
+      <tr>
+        <td><strong>9</strong></td>
+        <td>Consolidated Evidence Binder – Volume 4 of 10<br>(Criminal Case B2402220 Dismissal Evidence)</td>
+        <td><a href="/federal-removal/evidence-binder-vol-04.pdf" target="_blank" class="btn-download">Download PDF</a></td>
+      </tr>
+
+      <tr>
+        <td><strong>10</strong></td>
+        <td>Consolidated Evidence Binder – Volume 5 of 10<br>(Custody Restoration &amp; Denial of Parental Rights Part 1)</td>
+        <td><a href="/federal-removal/evidence-binder-vol-05.pdf" target="_blank" class="btn-download">Download PDF</a></td>
+      </tr>
+
+      <tr>
+        <td><strong>11</strong></td>
+        <td>Consolidated Evidence Binder – Volume 6 of 10<br>(Custody Restoration &amp; Denial of Parental Rights Part 2)</td>
+        <td><a href="/federal-removal/evidence-binder-vol-06.pdf" target="_blank" class="btn-download">Download PDF</a></td>
+      </tr>
+
+      <tr>
+        <td><strong>12</strong></td>
+        <td>Consolidated Evidence Binder – Volume 7 of 10<br>(Custody Restoration &amp; Denial of Parental Rights Part 3)</td>
+        <td><a href="/federal-removal/evidence-binder-vol-07.pdf" target="_blank" class="btn-download">Download PDF</a></td>
+      </tr>
+
+      <tr>
+        <td><strong>13</strong></td>
+        <td>Consolidated Evidence Binder – Volume 8 of 10<br>(Financial Extortion &amp; Unlawful DCSS Garnishment)</td>
+        <td><a href="/federal-removal/evidence-binder-vol-08.pdf" target="_blank" class="btn-download">Download PDF</a></td>
+      </tr>
+
+      <tr>
+        <td><strong>14</strong></td>
+        <td>Consolidated Evidence Binder – Volume 9 of 10<br>(Racketeering Pattern + State-Level Cover-Up)</td>
+        <td><a href="/federal-removal/evidence-binder-vol-09.pdf" target="_blank" class="btn-download">Download PDF</a></td>
+      </tr>
+
+      <tr>
+        <td><strong>15</strong></td>
+        <td>Consolidated Evidence Binder – Volume 10 of 10<br>(Video/Audio Evidence + Appendices)</td>
+        <td><a href="/federal-removal/evidence-binder-vol-10.pdf" target="_blank" class="btn-download">Download PDF</a></td>
+      </tr>
+
+    </tbody>
+  </table>
+</div>
+
+<!-- ==================== FEDERAL REMOVAL PACKAGE - CALIFORNIA ==================== -->
+
+<div class="evidence-binder-section">
+  <h2>Federal Removal Package - California</h2>
+
+  <table class="premium-table">
+    <thead>
+      <tr>
+        <th style="width: 8%;">Item</th>
+        <th>Document</th>
+        <th style="width: 12%;">Download</th>
+      </tr>
+    </thead>
+    <tbody>
+
+      <!-- Main Federal Filings -->
+      <tr>
+        <td><strong>1</strong></td>
+        <td>Notice of Removal and Emergency Motion for Temporary Restraining Order</td>
+        <td><a href="/federal-removal/california/notice-of-removal-and-emergency-tro-motion.pdf" target="_blank" class="btn-download">Download PDF</a></td>
+      </tr>
+
+      <tr>
+        <td><strong>2</strong></td>
+        <td>Civil RICO Complaint (18 U.S.C. §§ 1961–1968)</td>
+        <td><a href="/federal-removal/california/civil-rico-complaint.pdf" target="_blank" class="btn-download">Download PDF</a></td>
+      </tr>
+
+      <tr>
+        <td><strong>3</strong></td>
+        <td>Civil Cover Sheet (JS-44)</td>
+        <td><a href="/federal-removal/california/civil-cover-sheet-js-44.pdf" target="_blank" class="btn-download">Download PDF</a></td>
+      </tr>
+
+      <tr>
+        <td><strong>4</strong></td>
+        <td>Application to Proceed In Forma Pauperis (AO 239) + Supporting Cover Letter</td>
+        <td><a href="/federal-removal/california/ao-239-fee-waiver-appication-and-supporting-exhibits.pdf" target="_blank" class="btn-download">Download PDF</a></td>
+      </tr>
+
+      <tr>
+        <td><strong>5</strong></td>
+        <td>Motion to Dismiss Criminal Case B2402220 with Prejudice</td>
+        <td><a href="/federal-removal/california/motion-to-dismiss-criminal-case.pdf" target="_blank" class="btn-download">Download PDF</a></td>
+      </tr>
+
+      <tr>
+        <td><strong>6</strong></td>
+        <td>Motion to Transfer Venue to the Western District of Texas, Austin Division</td>
+        <td><a href="/federal-removal/california/motion-to-transfer-venue-wd-texas.pdf" target="_blank" class="btn-download">Download PDF</a></td>
+      </tr>
+
+      <!-- Evidence Binder Volumes -->
+      <tr>
+        <td><strong>7</strong></td>
+        <td>Consolidated Evidence Binder – Volume 1 of 10<br>(Federal Filings)</td>
+        <td><a href="/federal-removal/california/evidence-binder-vol-01.pdf" target="_blank" class="btn-download">Download PDF</a></td>
+      </tr>
+
+      <tr>
+        <td><strong>8</strong></td>
+        <td>Consolidated Evidence Binder – Volume 2 of 10<br>(Judicial Disqualifications Part 1)</td>
+        <td><a href="/federal-removal/california/evidence-binder-vol-02.pdf" target="_blank" class="btn-download">Download PDF</a></td>
+      </tr>
+
+      <tr>
+        <td><strong>9</strong></td>
+        <td>Consolidated Evidence Binder – Volume 3 of 10<br>(Judicial Disqualifications Part 2)</td>
+        <td><a href="/federal-removal/california/evidence-binder-vol-03.pdf" target="_blank" class="btn-download">Download PDF</a></td>
+      </tr>
+
+      <tr>
+        <td><strong>10</strong></td>
+        <td>Consolidated Evidence Binder – Volume 4 of 10<br>(Criminal Case B2402220 Dismissal Evidence)</td>
+        <td><a href="/federal-removal/california/evidence-binder-vol-04.pdf" target="_blank" class="btn-download">Download PDF</a></td>
+      </tr>
+
+      <tr>
+        <td><strong>11</strong></td>
+        <td>Consolidated Evidence Binder – Volume 5 of 10<br>(Custody Restoration &amp; Denial of Parental Rights Part 1)</td>
+        <td><a href="/federal-removal/california/evidence-binder-vol-05.pdf" target="_blank" class="btn-download">Download PDF</a></td>
+      </tr>
+
+      <tr>
+        <td><strong>12</strong></td>
+        <td>Consolidated Evidence Binder – Volume 6 of 10<br>(Custody Restoration &amp; Denial of Parental Rights Part 2)</td>
+        <td><a href="/federal-removal/california/evidence-binder-vol-06.pdf" target="_blank" class="btn-download">Download PDF</a></td>
+      </tr>
+
+      <tr>
+        <td><strong>13</strong></td>
+        <td>Consolidated Evidence Binder – Volume 7 of 10<br>(Custody Restoration &amp; Denial of Parental Rights Part 3)</td>
+        <td><a href="/federal-removal/california/evidence-binder-vol-07.pdf" target="_blank" class="btn-download">Download PDF</a></td>
+      </tr>
+
+      <tr>
+        <td><strong>14</strong></td>
+        <td>Consolidated Evidence Binder – Volume 8 of 10<br>(Financial Extortion &amp; Unlawful DCSS Garnishment)</td>
+        <td><a href="/federal-removal/california/evidence-binder-vol-08.pdf" target="_blank" class="btn-download">Download PDF</a></td>
+      </tr>
+
+      <tr>
+        <td><strong>15</strong></td>
+        <td>Consolidated Evidence Binder – Volume 9 of 10<br>(Racketeering Pattern + State-Level Cover-Up)</td>
+        <td><a href="/federal-removal/california/evidence-binder-vol-09.pdf" target="_blank" class="btn-download">Download PDF</a></td>
+      </tr>
+
+      <tr>
+        <td><strong>16</strong></td>
+        <td>Consolidated Evidence Binder – Volume 10 of 10<br>(Video/Audio Evidence + Appendices)</td>
+        <td><a href="/federal-removal/california/evidence-binder-vol-10.pdf" target="_blank" class="btn-download">Download PDF</a></td>
+      </tr>
+
+    </tbody>
+  </table>
+</div>
 
 <div class="thin-divider"></div>
 
+
 <!-- ==================== EVIDENCE BINDER TABLE OF CONTENTS ==================== -->
 
-  <h1>Evidence Binder</h1>
+<h1>Evidence Binder</h1>
+
+<div class="evidence-binder-section">
+  <h2>Set 1 - Federal Filings and Jurisdictional Basis</h2>
+
+  <table class="premium-table">
+    <thead>
+      <tr>
+        <th style="width: 10%;">Exhibit</th>
+        <th>Document</th>
+        <th style="width: 12%;">Download</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><strong>A-1</strong></td>
+        <td>Notice of Removal and Emergency TRO Motion</td>
+        <td><a href="/federal-removal/notice-of-removal-and-emergency-tro-motion.pdf" target="_blank" class="btn-download">Download PDF</a></td>
+      </tr>
+      <tr>
+        <td><strong>A-2</strong></td>
+        <td>Emergency Motion for Temporary Restraining Order</td>
+        <td><a href="/federal-removal/emergency-tro-motion.pdf" target="_blank" class="btn-download">Download PDF</a></td>
+      </tr>
+      <tr>
+        <td><strong>A-3</strong></td>
+        <td>Motion to Dismiss Criminal Case B2402220 with Prejudice</td>
+        <td><a href="/federal-removal/motion-to-dismiss-criminal-case-b2402220.pdf" target="_blank" class="btn-download">Download PDF</a></td>
+      </tr>
+      <tr>
+        <td><strong>A-4</strong></td>
+        <td>Civil RICO Complaint</td>
+        <td><a href="/federal-removal/civil-rico-complaint.pdf" target="_blank" class="btn-download">Download PDF</a></td>
+      </tr>
+      <tr>
+        <td><strong>A-5</strong></td>
+        <td>Civil Cover Sheet (JS-44)</td>
+        <td><a href="/federal-removal/civil-cover-sheet-js-44.pdf" target="_blank" class="btn-download">Download PDF</a></td>
+      </tr>
+      <tr>
+        <td><strong>A-6</strong></td>
+        <td>Authority Sheet - Federal &amp; State Law</td>
+        <td><a href="/federal-removal/authority-sheet-federal-state-law.pdf" target="_blank" class="btn-download">Download PDF</a></td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+----------
+
+
+<!-- ==================== OLD EVIDENCE BINDER TABLE OF CONTENTS ==================== -->
+
+<h1>Old Evidence Binder</h1>
 
 <div class="evidence-binder-section">
   <h2>Set 1 - Federal Filings and jurisdictional basis</h2>
@@ -289,6 +576,9 @@ All materials are provided for transparency, preservation of the record, and pub
     </tbody>
   </table>
 </div>
+
+
+<div class="thin-divider"></div>
 
 ---
 

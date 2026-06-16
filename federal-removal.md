@@ -1112,6 +1112,146 @@ All materials are provided for transparency, preservation of the record, and pub
   </table>
 </div>
 
+<div class="evidence-binder-section">
+  <h2>Set 5 - Financial Extortion, Asset Seizure, DCSS Wage Garnishment & Fabricated Arrears</h2>
+
+<table class="premium-table">
+    <thead>
+      <tr>
+        <th style="width: 10%;">Exhibit</th>
+        <th>Document</th>
+        <th style="width: 12%;">Download</th>
+      </tr>
+    </thead>
+    <tbody>
+<!-- ========== A-50 ========== -->
+<tr>
+  <td><strong>A-50</strong></td>
+  <td>Termination of Employment with EPAM Systems (Redacted)</td>
+  <td><a href="/federal-removal/termination-of-employment-notice.pdf" target="_blank" class="btn-download">Download</a></td>
+</tr>
+
+<!-- ========== A-51 ========== -->
+<tr>
+  <td><strong>A-51</strong></td>
+  <td>401(k) Account Freeze by EPAM Systems at Request of Opposing Counsel (Redacted)</td>
+  <td><a href="/federal-removal/401k-freeze-notice-by-epam.pdf" target="_blank" class="btn-download">Download</a></td>
+</tr>
+
+<!-- ========== A-52 ========== -->
+<tr>
+  <td><strong>A-52</strong></td>
+  <td>Denial of Unemployment Benefits by California EDD (Redacted)</td>
+  <td><a href="/federal-removal/unemployment-benefits-denial.pdf" target="_blank" class="btn-download">Download</a></td>
+</tr>
+
+<!-- ========== A-53 ========== -->
+<tr>
+  <td><strong>A-53</strong></td>
+  <td>Denial of Motion to Dismiss DCSS Wage Garnishment (Commissioner Jennifer Laxton) — October 2023</td>
+  <td><a href="/federal-removal/laxton-denial-of-dismissal-of-dcss-wages-garnishment-2023-09-08.pdf" target="_blank" class="btn-download">Download</a></td>
+</tr>
+
+<!-- ========== A-54 ========== -->
+<tr>
+  <td><strong>A-54</strong></td>
+  <td>Recording: Call to DCSS — Denial of Request to Dismiss Garnishment and Stop Accrual of Fabricated Arrears (June 12, 2025)</td>
+  <td><a href="https://drive.google.com/file/d/1vsCufbH0LiGpn3aaIQWbsyMsH3VTyS3q/preview" target="_blank" class="btn-download">View Recording</a></td>
+</tr>
+
+<!-- ========== A-55 ========== -->
+<tr>
+  <td><strong>A-55</strong></td>
+  <td>DCSS Wage Garnishment Summary Chart and Supporting Evidence (2023–2025)</td>
+  <td><a href="/federal-removal/garnishment-summary.pdf" target="_blank" class="btn-download">Download</a></td>
+</tr>
+
+<!-- ========== A-56 ========== -->
+<tr>
+  <td><strong>A-56</strong></td>
+  <td>Total Extortion and Theft Summary Chart and Supporting Evidence</td>
+  <td><a href="/federal-removal/extortion-and-theft-summary.pdf" target="_blank" class="btn-download">Download</a></td>
+</tr>
+
+</tbody>
+  </table>
+</div>
+
+<div class="evidence-binder-section">
+  <h2>Set 6 - Pattern of Racketeering and State-Level Cover-Up</h2>
+
+  <table class="premium-table">
+    <thead>
+      <tr>
+        <th style="width: 10%;">Exhibit</th>
+        <th>Document</th>
+        <th style="width: 12%;">Download</th>
+      </tr>
+    </thead>
+    <tbody>
+
+<!-- ========== A-57 ========== -->
+<tr>
+  <td><strong>A-57</strong></td>
+  <td>Public Record of Racketeering by Serhii “Gondon” Nahornyy (Father of Respondent) and Ivan “Pedofile” Omelchenko in Ukraine (2015) — Repeating Same Pattern in Attack on Petitioner (2022)</td>
+  <td><a href="/federal-removal/racketeering-by-ukrainian-cartel-kodlo-gondona.pdf" target="_blank" class="btn-download">Download</a></td>
+</tr>
+
+<tr class="indented-row">
+  <td></td>
+  <td style="padding-left: 3.5rem;">1. 2014 — Wikipedia Article: S Group — Targeted Racketeering Attack & Hostile Takeover</td>
+  <td><a href="/federal-removal/si-group-racketeering-attack-wikipedia.pdf" target="_blank" class="btn-download">Download</a></td>
+</tr>
+<tr class="indented-row">
+  <td></td>
+  <td style="padding-left: 3.5rem;">2. 2015 — Agravery Article: Racketeering Attack and Hostile Takeover by Nahornyy & Omelchenko</td>
+  <td><a href="/federal-removal/si-group-racketeering-attack-agravery-2015-12-07.pdf" target="_blank" class="btn-download">Download</a></td>
+</tr>
+<tr class="indented-row">
+  <td></td>
+  <td style="padding-left: 3.5rem;">3. 2016 — Ukrainian Tax Authority Records — Serhii Nahornyy’s Official Position in SI Group Trans</td>
+  <td><a href="/federal-removal/si-group-irs-record-nahornyy-serhii.pdf" target="_blank" class="btn-download">Download</a></td>
+</tr>
+
+<!-- ========== A-58 ========== -->
+<tr>
+  <td><strong>A-58</strong></td>
+  <td>Public Record of Racketeering and Seizure of Real Estate Property Under Color of Law by Disqualified Judge James Towery (2017–2022)</td>
+  <td><a href="/federal-removal/towery-disqualification-2022-12-06.pdf" target="_blank" class="btn-download">Download</a></td>
+</tr>
+
+<!-- ========== A-59 ========== -->
+<tr>
+  <td><strong>A-59</strong></td>
+  <td>Tania Schrag — Denial of Fifty-Four (54) RICO Complaints Filed with California Commission on Judicial Performance</td>
+  <td><a href="/federal-removal/cjp/denial-of-cjp-complaints.pdf" target="_blank" class="btn-download">Download</a></td>
+</tr>
+
+<!-- ========== A-60 ========== -->
+<tr>
+  <td><strong>A-60</strong></td>
+  <td>Fifty-Four (54) RICO Complaints Filed with California Commission on Judicial Performance — All Denied by Tania Schrag</td>
+  <td><a href="/federal-removal/cjp/cjp-complaints-list.pdf" target="_blank" class="btn-download">Download</a></td>
+</tr>
+
+<!-- ========== A-61 ========== -->
+<tr>
+  <td><strong>A-61</strong></td>
+  <td>California Bar Association — Denial of Multiple Complaints Regarding Organized Racketeering by Attorneys Steven Dinneen and Nancy Roberts with Disqualified Judges Lowney, Flint & Towery</td>
+  <td><a href="/federal-removal/calbar/calbar-complaints-denied.pdf" target="_blank" class="btn-download">Download</a></td>
+</tr>
+
+<!-- ========== A-62 ========== -->
+<tr>
+  <td><strong>A-62</strong></td>
+  <td>Correspondence to High-Level California and Federal Executive Officials Requesting Intervention and Federal Oversight Over Removal of California Cases From Santa Clara County</td>
+  <td><a href="/federal-removal/letters/letters-to-california-and-federal-executive-officials.pdf" target="_blank" class="btn-download">Download</a></td>
+</tr>
+
+    </tbody>
+  </table>
+</div>
+
 ----------
 
 

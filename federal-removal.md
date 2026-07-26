@@ -41,7 +41,7 @@ permalink: /federal-removal/
   <nav class="toc-nav">
     <div class="toc-grid">
 
-            <!-- Official Filings -->
+      <!-- Official Filings -->
       <div class="toc-group">
         <h4>Official Court Filings</h4>
         <a href="#official-filings-texas">Official Court Filings – Texas</a>

@@ -5,15 +5,33 @@ permalink: /federal-removal/
 ---
 
 <div class="glass-section">
-<h2>Federal Removal Package</h2>
-<b>United States District Court – Western District of Texas, Austin Division</b>
+  <h2>Federal Removal – Texas</h2>
+  
+  <p style="margin-top: 0.5rem; color: #94a3b8; font-size: 0.95rem;">
+    United States District Court<br>
+    Western District of Texas, Austin Division<br>
+    Case No. <strong>1:26-cv-01624-RP</strong>
+  </p>
 
-<p>
-This page presents the complete federal removal package and supporting evidence in support of the removal of five related Santa Clara County Superior Court matters, including Criminal Case B2402220, under 28 U.S.C. §§ 1441, 1443, 1455 and related federal statutes.
-</p>
-<p>
-All materials are provided for transparency, preservation of the record, and public accountability.
-</p>
+  <p>
+    This page presents the complete federal removal package and supporting evidence for the removal of five related Santa Clara County Superior Court matters.
+  </p>
+
+  <p>
+    All five cases have been removed under 28 U.S.C. §§ 1441, 1443, and 1455:
+  </p>
+
+  <ul style="margin: 0.75rem 0 1.25rem 1.5rem; color: #e0e0e0;">
+    <li>Criminal Case B2402220</li>
+    <li>Domestic Violence Case 22DV000779</li>
+    <li>Family Law / Custody Case 22FL003144</li>
+    <li>Name Change Case 24CV441024</li>
+    <li>DCSS Wage Garnishment Case 200000002626999</li>
+  </ul>
+
+  <p>
+    All materials are provided for transparency, preservation of the record, and public accountability.
+  </p>
 </div>
 
 <!-- ==================== TABLE OF CONTENTS ==================== -->
@@ -22,6 +40,12 @@ All materials are provided for transparency, preservation of the record, and pub
   
   <nav class="toc-nav">
     <div class="toc-grid">
+
+            <!-- Official Filings -->
+      <div class="toc-group">
+        <h4>Official Court Filings</h4>
+        <a href="#official-filings-texas">Official Court Filings – Texas</a>
+      </div>
 
       <!-- Main Packages -->
       <div class="toc-group">
@@ -45,6 +69,91 @@ All materials are provided for transparency, preservation of the record, and pub
 
     </div>
   </nav>
+</div>
+
+<!-- ==================== OFFICIAL FILINGS - TEXAS ==================== -->
+
+<div class="evidence-binder-section">
+
+<h2  id="official-filings-texas">Official Court Filings - Texas</h2>
+
+  <p style="margin-bottom: 1.5rem; color: #cbd5e1; font-size: 0.95rem;">
+    Stamped and accepted filings confirming Case No. 1:26-cv-01624-RP-ML is open in the<br>
+    United States District Court for the Western District of Texas, Austin Division.
+  </p>
+
+  <table class="premium-table">
+    <thead>
+      <tr>
+        <th style="width: 8%;">Item</th>
+        <th>Document</th>
+        <th style="width: 14%;">Download</th>
+      </tr>
+    </thead>
+    <tbody>
+
+      <tr>
+        <td><strong>1</strong></td>
+        <td>
+          <strong>Motion for Expedited Hearing</strong><br>
+          <span style="font-size: 0.85rem; color: #94a3b8;">Filed July 22, 2026</span>
+        </td>
+        <td>
+          <a href="/federal-removal/texas/motion-for-expedited-hearing.pdf" 
+             target="_blank" class="btn-download">Download PDF</a>
+        </td>
+      </tr>
+      
+      <tr>
+        <td><strong>2</strong></td>
+        <td>
+          <strong>Notice of Removal and Emergency Motion for Temporary Restraining Order</strong><br>
+          <span style="font-size: 0.85rem; color: #94a3b8;">Filed June 15, 2026</span>
+        </td>
+        <td>
+          <a href="/federal-removal/texas/notice-of-removal-and-emergency-tro-motion.pdf" 
+             target="_blank" class="btn-download">Download PDF</a>
+        </td>
+      </tr>
+
+      <tr>
+        <td><strong>3</strong></td>
+        <td>
+          <strong>Motion to Dismiss Criminal Case B2402220 with Prejudice</strong><br>
+          <span style="font-size: 0.85rem; color: #94a3b8;">Filed June 15, 2026</span>
+        </td>
+        <td>
+          <a href="/federal-removal/texas/motion-to-dismiss-criminal-case.pdf" 
+             target="_blank" class="btn-download">Download PDF</a>
+        </td>
+      </tr>
+
+      <tr>
+        <td><strong>4</strong></td>
+        <td>
+          <strong>Consolidated Evidence Binder – Volume 1 of 10</strong><br>
+          <span style="font-size: 0.85rem; color: #94a3b8;">Filed June 15, 2026 (Set 1 – Federal Filings)</span>
+        </td>
+        <td>
+          <a href="/federal-removal/texas/evidence-binder-vol-01.pdf" 
+             target="_blank" class="btn-download">Download PDF</a>
+        </td>
+      </tr>
+
+      <tr>
+        <td><strong>5</strong></td>
+        <td>
+          <strong>Consolidated Evidence Binder – Volume 4 of 10</strong><br>
+          <span style="font-size: 0.85rem; color: #94a3b8;">Filed June 15, 2026 (Set 3 – Criminal Case Dismissal Evidence)</span>
+        </td>
+        <td>
+          <a href="/federal-removal/texas/evidence-binder-vol-04.pdf" 
+             target="_blank" class="btn-download">Download PDF</a>
+        </td>
+      </tr>
+
+    </tbody>
+  </table>
 </div>
 
 <!-- ==================== FEDERAL REMOVAL PACKAGE - TEXAS ==================== -->

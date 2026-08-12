@@ -12,7 +12,7 @@ permalink: /max-mars/
        class="diagram-image"
        style="cursor: zoom-in;">
 
-<p>My son Max Mars was kidnapped from school in Sunnyvale, California in September 2022. Organized criminal enterprise trafficked Max from the United States to a war zone in Ukraine while detaining my son hostage without right fro a phone call or chances to escape.</p>
+<p>My son Max Mars was kidnapped from school in Sunnyvale, California in September 2022. Organized group of criminals used minor hostage, my son Max Mars, as the leverage for extortion of money, 401k funds, and documents of my son - while facilitating international abduction of my son outside United States to a war zone in Ukraine. Criminals are blocking all contact with my abducted son Max Mars, and detaining my son hostage without right for a phone call, access to any means of contact, or chances to escape.</p>
 
 <p>Kidnappers use my son Max Mars and fabricated criminal case as the leverage for extortion of money, 401k funds and documents of my son.</p>
 

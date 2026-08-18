@@ -503,7 +503,7 @@ permalink: /racketeering/
 <div class="glass-section">
   <h2 id="california-oversight">13. California judicial / bar / support enforcement</h2>
   <p>
-  Those parasites are extremely corrupt, under control of California Mafia Cartel, will retaliate for any reports with unlawful incarceration and denial of access to California courts - but you need official record of reports sent to them as the evidence of systemic state wide corruption and obstruction of justice on the state level.
+  Those parasites are extremely corrupt, under control of California Mafia Cartel, will retaliate for any reports by unlawful incarceration and denial of access to California courts - but you need official record of reports sent to them as the evidence of systemic state wide corruption and obstruction of justice on the state level.
   </p>
 
   <table class="premium-table">
